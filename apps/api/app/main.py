@@ -8,6 +8,7 @@ from app.models import (
     StockPrice,
     IndexPrice,
 )
+from app.api.market import router as market_router
 
 
 app = FastAPI(
@@ -18,6 +19,8 @@ app = FastAPI(
 
 
 Base.metadata.create_all(bind=engine)
+
+app.include_router(market_router)
 
 
 @app.get("/")
