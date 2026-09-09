@@ -44,6 +44,39 @@ async def get_indices():
         )
 
 
+@router.get("/indices/overview")
+async def get_index_overview():
+    try:
+        ihsg = provider.get_index_overview("IHSG")
+
+        return {
+            "success": True,
+            "data": [
+                ihsg,
+                {
+                    "symbol": "LQ45",
+                    "name": "LQ45",
+                    "price": None,
+                    "change_percent": None,
+                    "available": False,
+                },
+                {
+                    "symbol": "IDX30",
+                    "name": "IDX30",
+                    "price": None,
+                    "change_percent": None,
+                    "available": False,
+                },
+            ],
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Failed to fetch index overview: {str(e)}",
+        )
+
+
 @router.get("/indices/intraday")
 @router.get("/indices/{symbol}/intraday")
 async def get_index_intraday(symbol: str = "IHSG"):

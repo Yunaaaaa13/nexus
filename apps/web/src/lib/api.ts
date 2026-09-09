@@ -68,3 +68,21 @@ export async function getIndexIntraday(symbol: string = "IHSG") {
 
   return response.json();
 }
+
+export async function getIndexOverview() {
+  const response = await fetch(
+    `${API_URL}/api/market/indices/overview`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch index overview: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+

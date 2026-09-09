@@ -20,6 +20,11 @@ class MarketDataProvider(ABC):
         pass
 
     @abstractmethod
+    def get_index_overview(self, symbol: str):
+        pass
+
+
+    @abstractmethod
     def get_top_gainers(self):
         pass
 

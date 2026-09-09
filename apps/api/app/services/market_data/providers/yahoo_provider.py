@@ -113,6 +113,63 @@ class YahooFinanceProvider(MarketDataProvider):
             "source": "Yahoo Finance"
         }
 
+    def get_index_overview(self, symbol: str = "IHSG"):
+        target_ticker = "^JKSE" if symbol.upper() in ["IHSG", "COMPOSITE", "^JKSE"] else f"^{symbol.upper()}"
+        ticker = yf.Ticker(target_ticker, session=self.session)
+
+        # Intraday data untuk mendapatkan harga terbaru
+        intraday = ticker.history(
+            period="1d",
+            interval="5m",
+        )
+
+        if intraday.empty:
+            intraday = ticker.history(
+                period="5d",
+                interval="5m",
+            )
+
+        if intraday.empty:
+            raise ValueError("No intraday IHSG data found")
+
+        latest = intraday.iloc[-1]
+
+        # Daily data untuk mendapatkan session stats & previous close
+        daily = ticker.history(
+            period="5d",
+            interval="1d",
+        )
+
+        if daily.empty:
+            raise ValueError("No daily IHSG data found")
+
+        latest_daily = daily.iloc[-1]
+
+        open_price = float(latest_daily["Open"])
+        high_price = float(latest_daily["High"])
+        low_price = float(latest_daily["Low"])
+        current_price = float(latest["Close"])
+
+        # Gunakan session open sebagai base agar identik dengan Hero MarketPulse
+        base_price = open_price if open_price > 0 else (float(daily.iloc[-2]["Close"]) if len(daily) >= 2 else current_price)
+        change = current_price - base_price
+        change_percent = (change / base_price) * 100 if base_price > 0 else 0.0
+
+        return {
+            "symbol": "IHSG",
+            "name": "IHSG",
+            "price": round(current_price, 2),
+            "open": round(open_price, 2),
+            "high": round(high_price, 2),
+            "low": round(low_price, 2),
+            "change": round(change, 2),
+            "change_percent": round(change_percent, 3),
+            "timestamp": intraday.index[-1].isoformat(),
+            "source": "Yahoo Finance",
+            "available": True,
+        }
+
+
     def get_index_intraday(self, symbol: str = "IHSG", interval: str = "5m"):
         target_ticker = "^JKSE" if symbol.upper() in ["IHSG", "COMPOSITE", "^JKSE"] else f"^{symbol.upper()}"
         ticker = yf.Ticker(target_ticker, session=self.session)
