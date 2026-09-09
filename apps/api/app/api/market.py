@@ -44,6 +44,24 @@ async def get_indices():
         )
 
 
+@router.get("/indices/intraday")
+@router.get("/indices/{symbol}/intraday")
+async def get_index_intraday(symbol: str = "IHSG"):
+    try:
+        data = provider.get_index_intraday(symbol=symbol.upper(), interval="5m")
+
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Failed to fetch index intraday data: {str(e)}",
+        )
+
+
 @router.get("/stocks/{symbol}")
 async def get_stock(symbol: str):
     try:

@@ -35,7 +35,7 @@ export async function getStock(symbol: string) {
   return response.json();
 }
 
-export async function getIndex(symbol: string) {
+export async function getIndex(symbol: string = "IHSG") {
   const response = await fetch(
     `${API_URL}/api/market/indices`,
     {
@@ -46,6 +46,23 @@ export async function getIndex(symbol: string) {
   if (!response.ok) {
     throw new Error(
       `Failed to fetch index: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+export async function getIndexIntraday(symbol: string = "IHSG") {
+  const response = await fetch(
+    `${API_URL}/api/market/indices/${symbol}/intraday`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch index intraday data: ${response.status}`
     );
   }
 

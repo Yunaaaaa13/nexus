@@ -1,4 +1,4 @@
-﻿from abc import ABC, abstractmethod
+from abc import ABC, abstractmethod
 
 
 class MarketDataProvider(ABC):
@@ -13,6 +13,10 @@ class MarketDataProvider(ABC):
 
     @abstractmethod
     def get_index(self, symbol: str):
+        pass
+
+    @abstractmethod
+    def get_index_intraday(self, symbol: str, interval: str = "5m"):
         pass
 
     @abstractmethod
