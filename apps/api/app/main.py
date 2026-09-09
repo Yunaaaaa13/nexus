@@ -1,7 +1,13 @@
 ﻿from fastapi import FastAPI
 from sqlalchemy import text
 
-from app.database.database import engine
+from app.database.database import engine, Base
+from app.models import (
+    Stock,
+    MarketIndex,
+    StockPrice,
+    IndexPrice,
+)
 
 
 app = FastAPI(
@@ -9,6 +15,9 @@ app = FastAPI(
     description="Indonesian Market Intelligence API",
     version="0.1.0",
 )
+
+
+Base.metadata.create_all(bind=engine)
 
 
 @app.get("/")
