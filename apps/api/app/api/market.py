@@ -2,6 +2,8 @@ from fastapi import APIRouter, HTTPException, Depends
 from sqlalchemy.orm import Session
 
 from app.database.database import get_db
+from app.models.stock import Stock
+from app.models.stock_price import StockPrice
 
 from app.services.market_data.providers.yahoo_provider import (
     YahooFinanceProvider,
@@ -136,4 +138,67 @@ async def sync_stock_history(
             status_code=500,
             detail=f"Failed to sync stock historical data: {str(e)}",
         )
+
+
+# ============================================================
+# STORED MARKET DATA (DATABASE)
+# ============================================================
+
+@router.get("/stocks/{symbol}/history")
+async def get_stock_history(
+    symbol: str,
+    db: Session = Depends(get_db),
+):
+    try:
+        symbol = symbol.upper()
+
+        # Cari stock
+        stock = (
+            db.query(Stock)
+            .filter(Stock.symbol == symbol)
+            .first()
+        )
+
+        if not stock:
+            raise HTTPException(
+                status_code=404,
+                detail=f"Stock {symbol} not found",
+            )
+
+        # Ambil historical price
+        prices = (
+            db.query(StockPrice)
+            .filter(StockPrice.stock_id == stock.id)
+            .order_by(StockPrice.timestamp.asc())
+            .all()
+        )
+
+        return {
+            "success": True,
+            "data": {
+                "symbol": stock.symbol,
+                "name": stock.name,
+                "count": len(prices),
+                "prices": [
+                    {
+                        "timestamp": price.timestamp.isoformat(),
+                        "open": float(price.open),
+                        "high": float(price.high),
+                        "low": float(price.low),
+                        "close": float(price.close),
+                        "volume": price.volume,
+                    }
+                    for price in prices
+                ],
+            },
+        }
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to fetch stored stock history: {str(e)}",
+        )
+
 
