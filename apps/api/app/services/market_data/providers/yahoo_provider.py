@@ -12,6 +12,12 @@ class YahooFinanceProvider(MarketDataProvider):
         )
 
         if history.empty:
+            history = ticker.history(
+                period="5d",
+                interval="1d"
+            )
+
+        if history.empty:
             raise ValueError(
                 f"No market data found for {symbol}"
             )
@@ -60,6 +66,12 @@ class YahooFinanceProvider(MarketDataProvider):
             period="1d",
             interval="1d"
         )
+
+        if history.empty:
+            history = ticker.history(
+                period="5d",
+                interval="1d"
+            )
 
         if history.empty:
             raise ValueError(
