@@ -1,4 +1,8 @@
 ﻿from fastapi import FastAPI
+from sqlalchemy import text
+
+from app.database.database import engine
+
 
 app = FastAPI(
     title="NEXUS API",
@@ -21,3 +25,22 @@ def health():
     return {
         "status": "healthy"
     }
+
+
+@app.get("/health/database")
+def database_health():
+    try:
+        with engine.connect() as connection:
+            connection.execute(text("SELECT 1"))
+
+        return {
+            "status": "healthy",
+            "database": "connected"
+        }
+
+    except Exception as e:
+        return {
+            "status": "error",
+            "database": "disconnected",
+            "detail": str(e)
+        }
