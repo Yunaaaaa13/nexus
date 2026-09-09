@@ -1,4 +1,5 @@
-﻿import yfinance as yf
+﻿import time
+import yfinance as yf
 from app.services.market_data.base import MarketDataProvider
 
 
@@ -41,6 +42,13 @@ class YahooFinanceProvider(MarketDataProvider):
             period="1y",
             interval="1d"
         )
+
+        if history.empty:
+            time.sleep(1)
+            history = ticker.history(
+                period="1y",
+                interval="1d"
+            )
 
         if history.empty:
             raise ValueError(

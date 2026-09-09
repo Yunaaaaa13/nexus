@@ -1,4 +1,4 @@
-﻿from fastapi import APIRouter, HTTPException, Depends
+from fastapi import APIRouter, HTTPException, Depends
 from sqlalchemy.orm import Session
 
 from app.database.database import get_db
@@ -111,3 +111,29 @@ async def sync_stock(
             status_code=500,
             detail=f"Failed to sync stock data: {str(e)}",
         )
+
+
+@router.post("/sync/stocks/{symbol}/history")
+async def sync_stock_history(
+    symbol: str,
+    db: Session = Depends(get_db),
+):
+    try:
+        result = ingestion_service.sync_stock_history(
+            db=db,
+            symbol=symbol.upper(),
+        )
+
+        return {
+            "success": True,
+            "data": result,
+        }
+
+    except Exception as e:
+        db.rollback()
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to sync stock historical data: {str(e)}",
+        )
+

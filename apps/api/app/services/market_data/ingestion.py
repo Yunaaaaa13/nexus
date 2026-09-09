@@ -1,4 +1,4 @@
-﻿from datetime import datetime
+from datetime import datetime
 
 from sqlalchemy.orm import Session
 
@@ -160,3 +160,81 @@ class MarketDataIngestionService:
             "stock": data,
             "database_id": existing_price.id,
         }
+
+    def sync_stock_history(
+        self,
+        db: Session,
+        symbol: str,
+    ):
+        symbol = symbol.upper()
+
+        # Ambil historical data dari provider
+        data_list = self.provider.get_stock_history(symbol)
+
+        if not data_list:
+            raise ValueError(
+                f"No historical data found for {symbol}"
+            )
+
+        # Cari stock master
+        stock = (
+            db.query(Stock)
+            .filter(Stock.symbol == symbol)
+            .first()
+        )
+
+        # Jika belum ada, buat stock master
+        if not stock:
+            stock = Stock(
+                symbol=symbol,
+                name=symbol,
+            )
+
+            db.add(stock)
+            db.flush()
+
+        inserted = 0
+        skipped = 0
+
+        for data in data_list:
+            timestamp = self._parse_timestamp(
+                data["timestamp"]
+            )
+
+            # Cek apakah candle sudah ada
+            existing_price = (
+                db.query(StockPrice)
+                .filter(
+                    StockPrice.stock_id == stock.id,
+                    StockPrice.timestamp == timestamp,
+                )
+                .first()
+            )
+
+            if existing_price:
+                skipped += 1
+                continue
+
+            stock_price = StockPrice(
+                stock_id=stock.id,
+                timestamp=timestamp,
+                open=data["open"],
+                high=data["high"],
+                low=data["low"],
+                close=data["close"],
+                volume=data["volume"],
+                source="Yahoo Finance",
+            )
+
+            db.add(stock_price)
+            inserted += 1
+
+        db.commit()
+
+        return {
+            "symbol": symbol,
+            "total_records": len(data_list),
+            "inserted": inserted,
+            "skipped": skipped,
+        }
+
