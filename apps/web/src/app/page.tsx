@@ -1,148 +1,49 @@
+﻿import Navbar from "@/components/layout/Navbar";
+import MarketPulse from "@/components/market/MarketPulse";
+import IndexOverview from "@/components/market/IndexOverview";
+import MarketBreadth from "@/components/market/MarketBreadth";
+import MarketActivity from "@/components/market/MarketActivity";
+import TopMovers from "@/components/market/TopMovers";
+import MarketInsight from "@/components/market/MarketInsight";
+
 export default function Home() {
   return (
-    <main className="min-h-screen bg-zinc-950 text-white">
-      <div className="mx-auto max-w-7xl px-6 py-10">
+    <div className="min-h-screen bg-zinc-950 text-white">
+      <Navbar />
 
-        {/* Header */}
-        <header className="mb-10">
-          <p className="text-sm font-medium tracking-[0.25em] text-zinc-500">
-            NEXUS
-          </p>
+      <main className="mx-auto max-w-7xl px-5 py-8 md:px-6 md:py-10">
+        {/* Hero */}
+        <MarketPulse />
 
-          <h1 className="mt-2 text-4xl font-bold tracking-tight">
-            Market Intelligence
-          </h1>
+        {/* Index */}
+        <div className="mt-10">
+          <IndexOverview />
+        </div>
 
-          <p className="mt-2 text-zinc-400">
-            Indonesian stock market overview
-          </p>
-        </header>
+        {/* Intelligence Grid */}
+        <div className="mt-10 grid gap-4 lg:grid-cols-2">
+          <MarketBreadth />
+          <MarketActivity />
+        </div>
 
-        {/* Market Overview */}
-        <section>
-          <div className="mb-4 flex items-center justify-between">
-            <h2 className="text-xl font-semibold">
-              Market Overview
-            </h2>
+        {/* Movers */}
+        <div className="mt-4">
+          <TopMovers />
+        </div>
 
-            <span className="text-sm text-zinc-500">
-              Live delayed data
-            </span>
+        {/* Insight */}
+        <div className="mt-4">
+          <MarketInsight />
+        </div>
+
+        {/* Footer */}
+        <footer className="mt-12 border-t border-white/[0.05] py-6">
+          <div className="flex flex-col justify-between gap-2 text-[10px] tracking-wider text-zinc-700 md:flex-row">
+            <span>NEXUS · INDONESIAN MARKET INTELLIGENCE</span>
+            <span>DATA LAYER v0.1</span>
           </div>
-
-          <div className="grid gap-4 md:grid-cols-3">
-
-            {/* IHSG */}
-            <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
-              <p className="text-sm text-zinc-400">
-                IHSG
-              </p>
-
-              <p className="mt-3 text-3xl font-bold">
-                6,675.13
-              </p>
-
-              <p className="mt-2 text-sm text-zinc-500">
-                IDX Composite
-              </p>
-            </div>
-
-            {/* LQ45 */}
-            <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
-              <p className="text-sm text-zinc-400">
-                LQ45
-              </p>
-
-              <p className="mt-3 text-3xl font-bold">
-                —
-              </p>
-
-              <p className="mt-2 text-sm text-zinc-500">
-                Coming soon
-              </p>
-            </div>
-
-            {/* IDX30 */}
-            <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
-              <p className="text-sm text-zinc-400">
-                IDX30
-              </p>
-
-              <p className="mt-3 text-3xl font-bold">
-                —
-              </p>
-
-              <p className="mt-2 text-sm text-zinc-500">
-                Coming soon
-              </p>
-            </div>
-
-          </div>
-        </section>
-
-        {/* Stock Focus */}
-        <section className="mt-10">
-
-          <div className="mb-4">
-            <h2 className="text-xl font-semibold">
-              Stock Focus
-            </h2>
-
-            <p className="mt-1 text-sm text-zinc-500">
-              Selected Indonesian equities
-            </p>
-          </div>
-
-          <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
-
-            <div className="flex items-start justify-between">
-
-              <div>
-                <p className="text-sm text-zinc-400">
-                  BBCA
-                </p>
-
-                <p className="mt-2 text-3xl font-bold">
-                  Rp 6,525
-                </p>
-
-                <p className="mt-1 text-sm text-zinc-500">
-                  Bank Central Asia
-                </p>
-              </div>
-
-              <div className="text-right">
-                <p className="text-sm text-zinc-500">
-                  Volume
-                </p>
-
-                <p className="mt-1 font-semibold">
-                  139.3M
-                </p>
-              </div>
-
-            </div>
-
-            {/* Chart Placeholder */}
-            <div className="mt-8 flex h-64 items-center justify-center rounded-xl border border-dashed border-zinc-700 bg-zinc-950">
-
-              <div className="text-center">
-                <p className="text-zinc-400">
-                  Price Chart
-                </p>
-
-                <p className="mt-1 text-sm text-zinc-600">
-                  Interactive chart coming next
-                </p>
-              </div>
-
-            </div>
-
-          </div>
-
-        </section>
-
-      </div>
-    </main>
+        </footer>
+      </main>
+    </div>
   );
 }
