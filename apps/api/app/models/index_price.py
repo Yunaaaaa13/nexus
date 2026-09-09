@@ -1,5 +1,4 @@
 ﻿from sqlalchemy import (
-    Integer,
     Numeric,
     BigInteger,
     DateTime,
@@ -52,10 +51,14 @@ class IndexPrice(Base):
         nullable=False
     )
 
-    volume: Mapped[int] = mapped_column(
-        BigInteger,
-        nullable=False,
-        default=0
+    change: Mapped[float | None] = mapped_column(
+        Numeric(18, 4),
+        nullable=True
+    )
+
+    change_percent: Mapped[float | None] = mapped_column(
+        Numeric(10, 4),
+        nullable=True
     )
 
     source: Mapped[str | None] = mapped_column(
