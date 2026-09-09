@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useState } from "react";
 
@@ -88,7 +88,7 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
         <div className="flex items-center gap-4">
           <div className="hidden items-center gap-2 sm:flex">
             <span className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="text-xs text-zinc-500">Market Data Live</span>
+            <span className="text-xs text-zinc-500">Delayed Market Data</span>
           </div>
 
           {/* Mobile menu button */}

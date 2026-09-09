@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useState } from "react";
 import Navbar, { TabType } from "@/components/layout/Navbar";
@@ -9,6 +9,7 @@ import MarketActivity from "@/components/market/MarketActivity";
 import TopMovers from "@/components/market/TopMovers";
 import MarketInsight from "@/components/market/MarketInsight";
 import StockTerminal from "@/components/stocks/StockTerminal";
+import StockFocus from "@/components/market/StockFocus";
 import ScreenerView from "@/components/screener/ScreenerView";
 import PortfolioView from "@/components/portfolio/PortfolioView";
 import BacktestView from "@/components/backtest/BacktestView";
@@ -29,6 +30,9 @@ export default function Home() {
 
             {/* Index */}
             <IndexOverview />
+
+            {/* Stock Focus */}
+            <StockFocus />
 
             {/* Intelligence Grid */}
             <div className="grid gap-4 lg:grid-cols-2">

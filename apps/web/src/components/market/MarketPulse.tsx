@@ -1,7 +1,41 @@
-﻿export default function MarketPulse() {
+"use client";
+
+import { useEffect, useState } from "react";
+import { getIndex } from "@/lib/api";
+
+interface IndexData {
+  symbol: string;
+  name: string;
+  price: number;
+  open: number;
+  high: number;
+  low: number;
+  volume: number;
+  timestamp: string;
+  source: string;
+}
+
+export default function MarketPulse() {
+  const [data, setData] = useState<IndexData | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadMarketData() {
+      try {
+        const response = await getIndex("IHSG");
+        setData(response.data);
+      } catch (error) {
+        console.error("Failed to load IHSG:", error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadMarketData();
+  }, []);
+
   return (
     <section className="relative overflow-hidden rounded-3xl border border-white/[0.07] bg-gradient-to-br from-zinc-900 to-zinc-950 p-6 md:p-8">
-      {/* Decorative glow */}
       <div className="pointer-events-none absolute -right-24 -top-24 h-64 w-64 rounded-full bg-white/[0.03] blur-3xl" />
 
       <div className="relative">
@@ -21,13 +55,14 @@
             </h1>
 
             <p className="mt-2 max-w-xl text-sm leading-6 text-zinc-500">
-              A real-time intelligence layer for understanding Indonesia&apos;s equity market.
+              A market intelligence layer for understanding Indonesia&apos;s
+              equity market.
             </p>
           </div>
 
           <div className="flex items-center gap-2 self-start rounded-full border border-white/[0.07] bg-black/20 px-3 py-2">
             <span className="h-2 w-2 rounded-full bg-emerald-400" />
-            <span className="text-xs text-zinc-400">Market Closed</span>
+            <span className="text-xs text-zinc-400">Delayed Market Data</span>
           </div>
         </div>
 
@@ -37,21 +72,30 @@
               IHSG
             </p>
 
-            <div className="mt-2 flex flex-wrap items-end gap-4">
-              <span className="text-5xl font-semibold tracking-tight md:text-6xl">
-                6,675.13
-              </span>
-              <span className="mb-2 text-sm font-medium text-red-400">
-                ▼ 0.38%
-              </span>
-            </div>
+            {loading ? (
+              <div className="mt-2 h-16 w-72 animate-pulse rounded-lg bg-white/[0.05]" />
+            ) : data ? (
+              <>
+                <div className="mt-2 flex flex-wrap items-end gap-4">
+                  <span className="text-5xl font-semibold tracking-tight md:text-6xl">
+                    {data.price.toLocaleString("id-ID", {
+                      minimumFractionDigits: 2,
+                      maximumFractionDigits: 2,
+                    })}
+                  </span>
+                </div>
 
-            <p className="mt-3 text-xs text-zinc-600">
-              IDX Composite · Delayed market data
-            </p>
+                <p className="mt-3 text-xs text-zinc-600">
+                  IDX Composite · {data.source}
+                </p>
+              </>
+            ) : (
+              <p className="mt-3 text-sm text-red-400">
+                Failed to load market data
+              </p>
+            )}
           </div>
 
-          {/* Mini visual */}
           <div className="hidden h-24 w-64 md:block">
             <svg
               viewBox="0 0 260 100"
