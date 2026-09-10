@@ -1,9 +1,11 @@
-from fastapi import APIRouter, HTTPException, Depends
+from fastapi import APIRouter, HTTPException, Depends, Query
 from sqlalchemy.orm import Session
 
 from app.database.database import get_db
 from app.models.stock import Stock
 from app.models.stock_price import StockPrice
+from app.services.analytics.movers import get_top_movers
+from app.services.analytics.breadth import get_market_breadth
 
 from app.services.market_data.providers.yahoo_provider import (
     YahooFinanceProvider,
@@ -109,6 +111,33 @@ async def get_stock(symbol: str):
         raise HTTPException(
             status_code=502,
             detail=f"Failed to fetch stock data: {str(e)}",
+        )
+
+
+@router.get("/movers")
+async def get_market_movers(
+    limit: int = Query(
+        default=5,
+        ge=1,
+        le=20,
+    ),
+    db: Session = Depends(get_db),
+):
+    try:
+        data = get_top_movers(
+            db=db,
+            limit=limit,
+        )
+
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to calculate market movers: {str(e)}",
         )
 
 
@@ -251,5 +280,24 @@ async def get_stock_history(
             status_code=500,
             detail=f"Failed to fetch stored stock history: {str(e)}",
         )
+@router.get("/breadth")
+async def get_breadth(
+    db: Session = Depends(get_db),
+):
+    try:
+        data = get_market_breadth(db)
 
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                "Failed to calculate market breadth: "
+                f"{str(e)}"
+            ),
+        )
 

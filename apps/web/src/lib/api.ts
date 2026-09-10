@@ -1,5 +1,6 @@
-const API_URL =
+export const API_URL =
   process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+
 
 export async function getStockHistory(symbol: string) {
   const response = await fetch(
@@ -86,3 +87,19 @@ export async function getIndexOverview() {
   return response.json();
 }
 
+export async function getMarketMovers(limit = 5) {
+  const response = await fetch(
+    `${API_URL}/api/market/movers?limit=${limit}`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch market movers: ${response.status}`
+    );
+  }
+
+  return response.json();
+}

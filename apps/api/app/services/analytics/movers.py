@@ -59,13 +59,21 @@ def get_top_movers(
         )
 
     gainers = sorted(
-        movers,
+        [
+            item
+            for item in movers
+            if item["change_percent"] > 0
+        ],
         key=lambda x: x["change_percent"],
         reverse=True,
     )[:limit]
 
     losers = sorted(
-        movers,
+        [
+            item
+            for item in movers
+            if item["change_percent"] < 0
+        ],
         key=lambda x: x["change_percent"],
     )[:limit]
 
