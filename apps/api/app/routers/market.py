@@ -6,6 +6,9 @@ from app.models.stock import Stock
 from app.models.stock_price import StockPrice
 from app.services.analytics.movers import get_top_movers
 from app.services.analytics.breadth import get_market_breadth
+from app.services.analytics.sectors import (
+    get_sector_performance
+)
 
 from app.services.market_data.providers.yahoo_provider import (
     YahooFinanceProvider,
@@ -297,6 +300,28 @@ async def get_breadth(
             status_code=500,
             detail=(
                 "Failed to calculate market breadth: "
+                f"{str(e)}"
+            ),
+        )
+
+
+@router.get("/sectors")
+async def get_sectors(
+    db: Session = Depends(get_db),
+):
+    try:
+        data = get_sector_performance(db)
+
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                "Failed to calculate sector performance: "
                 f"{str(e)}"
             ),
         )

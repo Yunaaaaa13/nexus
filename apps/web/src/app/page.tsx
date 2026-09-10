@@ -34,17 +34,17 @@ export default function Home() {
             {/* Stock Focus */}
             <StockFocus />
 
-            {/* Intelligence Grid */}
-            <div className="grid gap-4 lg:grid-cols-2">
-              <MarketBreadth />
-              <MarketActivity />
-            </div>
-
             {/* Movers */}
             <TopMovers />
 
-            {/* Insight */}
-            <MarketInsight />
+            {/* Market Breadth */}
+            <MarketBreadth />
+
+            {/* Activity & Insight */}
+            <div className="grid gap-4 lg:grid-cols-2">
+              <MarketActivity />
+              <MarketInsight />
+            </div>
           </div>
         )}
 

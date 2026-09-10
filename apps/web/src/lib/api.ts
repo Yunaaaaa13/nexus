@@ -103,3 +103,22 @@ export async function getMarketMovers(limit = 5) {
 
   return response.json();
 }
+
+export async function getMarketBreadth() {
+  const response = await fetch(
+    `${API_URL}/api/market/breadth`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch market breadth: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+

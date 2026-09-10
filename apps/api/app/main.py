@@ -1,4 +1,4 @@
-﻿from fastapi import FastAPI
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import text
 
@@ -9,7 +9,7 @@ from app.models import (
     StockPrice,
     IndexPrice,
 )
-from app.api.market import router as market_router
+from app.routers.market import router as market_router
 
 
 app = FastAPI(
