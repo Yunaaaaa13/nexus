@@ -56,9 +56,13 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
           onClick={() => onSelectTab?.("Market")}
           className="flex items-center gap-3 text-left focus:outline-none cursor-pointer"
         >
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-white text-sm font-black text-black">
-            N
-          </div>
+          <img
+            src="/logo.svg"
+            alt="NEXUS Logo"
+            width={32}
+            height={32}
+            className="h-8 w-8 rounded-lg object-contain"
+          />
           <div>
             <div className="text-sm font-bold tracking-[0.2em] text-white">NEXUS</div>
             <div className="text-[9px] tracking-[0.18em] text-zinc-500">

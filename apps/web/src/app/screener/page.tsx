@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Navbar from "@/components/layout/Navbar";
 import { getScreener } from "@/lib/api";
 
 interface ScreenerStock {
@@ -85,7 +86,30 @@ export default function ScreenerView() {
   // FETCH DATA
   // =========================
 
-  const fetchScreener = async (targetPage = page) => {
+  const buildFilters = () => ({
+    search: search.trim() || undefined,
+    sector: sector !== "ALL" ? sector : undefined,
+
+    min_price:
+      minPrice !== "" ? Number(minPrice) : undefined,
+
+    max_price:
+      maxPrice !== "" ? Number(maxPrice) : undefined,
+
+    min_change:
+      minChange !== "" ? Number(minChange) : undefined,
+
+    max_change:
+      maxChange !== "" ? Number(maxChange) : undefined,
+
+    min_volume:
+      minVolume !== "" ? Number(minVolume) : undefined,
+  });
+
+  const fetchScreener = async (
+    targetPage = page,
+    filters = buildFilters()
+  ) => {
     try {
       setLoading(true);
       setError(null);
@@ -93,24 +117,7 @@ export default function ScreenerView() {
       const offset = (targetPage - 1) * pageSize;
 
       const response: ScreenerResponse = await getScreener({
-        search: search.trim() || undefined,
-        sector: sector !== "ALL" ? sector : undefined,
-
-        min_price:
-          minPrice !== "" ? Number(minPrice) : undefined,
-
-        max_price:
-          maxPrice !== "" ? Number(maxPrice) : undefined,
-
-        min_change:
-          minChange !== "" ? Number(minChange) : undefined,
-
-        max_change:
-          maxChange !== "" ? Number(maxChange) : undefined,
-
-        min_volume:
-          minVolume !== "" ? Number(minVolume) : undefined,
-
+        ...filters,
         limit: pageSize,
         offset,
       });
@@ -167,10 +174,15 @@ export default function ScreenerView() {
 
     setPage(1);
 
-    // Fetch default dataset
-    setTimeout(() => {
-      fetchScreener(1);
-    }, 0);
+    fetchScreener(1, {
+      search: undefined,
+      sector: undefined,
+      min_price: undefined,
+      max_price: undefined,
+      min_change: undefined,
+      max_change: undefined,
+      min_volume: undefined,
+    });
   };
 
   // =========================
@@ -324,7 +336,12 @@ export default function ScreenerView() {
   // =========================
 
   return (
-    <div className="space-y-6">
+    <div className="min-h-screen bg-zinc-950 text-white">
+      <Navbar activeTab="Screener" />
+
+      <main className="mx-auto max-w-7xl px-5 py-8 md:px-6 md:py-10">
+
+      <div className="space-y-6">
 
       {/* ================= HEADER ================= */}
 
@@ -872,6 +889,16 @@ export default function ScreenerView() {
 
       </div>
 
+      </div>
+
+      <footer className="mt-16 border-t border-white/[0.05] py-6">
+        <div className="flex flex-col justify-between gap-2 text-[10px] tracking-wider text-zinc-600 md:flex-row">
+          <span>NEXUS · INDONESIAN MARKET INTELLIGENCE</span>
+          <span>DATA LAYER v0.1 · CONNECTED TO POSTGRESQL</span>
+        </div>
+      </footer>
+
+      </main>
     </div>
   );
 }

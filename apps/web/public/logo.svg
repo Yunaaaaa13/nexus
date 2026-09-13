@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="nGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0e0e0"/>
+      <stop offset="30%" stop-color="#a0a0a0"/>
+      <stop offset="50%" stop-color="#d0d0d0"/>
+      <stop offset="70%" stop-color="#808080"/>
+      <stop offset="100%" stop-color="#c0c0c0"/>
+    </linearGradient>
+    <linearGradient id="nShine" x1="0%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c0c0c0"/>
+      <stop offset="100%" stop-color="#909090"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main N shape - left stem -->
+  <path d="M12 48 L12 16 L18 16 L18 42 L32 16 L38 16 L24 42 L24 48 Z"
+        fill="url(#nGrad)" filter="url(#glow)"/>
+
+  <!-- N shape - right stem -->
+  <path d="M38 48 L38 16 L44 16 L44 48 Z"
+        fill="url(#nGrad)" filter="url(#glow)"/>
+
+  <!-- Diagonal connector -->
+  <path d="M18 42 L38 16 L44 16 L24 48 L12 48 L12 48 Z"
+        fill="url(#nGrad)" opacity="0.9" filter="url(#glow)"/>
+
+  <!-- Shine overlay -->
+  <path d="M12 48 L12 16 L18 16 L18 42 L32 16 L38 16 L24 42 L24 48 Z"
+        fill="url(#nShine)"/>
+
+  <!-- 4-pointed star / sparkle -->
+  <g transform="translate(50, 18)" filter="url(#glow)">
+    <path d="M0 -5 L1.2 -1.2 L5 0 L1.2 1.2 L0 5 L-1.2 1.2 L-5 0 L-1.2 -1.2 Z"
+          fill="url(#starGrad)"/>
+  </g>
+</svg>
