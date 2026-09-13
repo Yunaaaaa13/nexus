@@ -1,34 +1,31 @@
-from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from app.models.stock import Stock
-from app.models.stock_price import StockPrice
+from app.services.analytics.latest_prices import (
+    get_latest_two_prices,
+)
 
 
 def get_market_breadth(db: Session):
-    stocks = db.execute(
-        select(Stock)
-        .order_by(Stock.symbol)
-    ).scalars().all()
+
+    rows = get_latest_two_prices(db)
+
+    stocks = {}
+
+    for row in rows:
+
+        stock_id = row.stock_id
+
+        if stock_id not in stocks:
+            stocks[stock_id] = []
+
+        stocks[stock_id].append(row)
 
     advancing = []
     declining = []
     unchanged = []
 
-    for stock in stocks:
-        prices = db.execute(
-            select(StockPrice)
-            .where(
-                StockPrice.stock_id == stock.id
-            )
-            .order_by(
-                StockPrice.timestamp.desc()
-            )
-            .limit(2)
-        ).scalars().all()
+    for stock_id, prices in stocks.items():
 
-        # Membutuhkan harga terbaru
-        # dan harga sebelumnya
         if len(prices) < 2:
             continue
 
@@ -39,13 +36,22 @@ def get_market_breadth(db: Session):
         previous_close = float(previous.close)
 
         if latest_close > previous_close:
-            advancing.append(stock.symbol)
+
+            advancing.append(
+                latest.symbol
+            )
 
         elif latest_close < previous_close:
-            declining.append(stock.symbol)
+
+            declining.append(
+                latest.symbol
+            )
 
         else:
-            unchanged.append(stock.symbol)
+
+            unchanged.append(
+                latest.symbol
+            )
 
     total = (
         len(advancing)
@@ -54,28 +60,40 @@ def get_market_breadth(db: Session):
     )
 
     if total > 0:
+
         advancing_percent = (
-            len(advancing) / total
-        ) * 100
+            len(advancing)
+            / total
+            * 100
+        )
 
         declining_percent = (
-            len(declining) / total
-        ) * 100
+            len(declining)
+            / total
+            * 100
+        )
 
         unchanged_percent = (
-            len(unchanged) / total
-        ) * 100
+            len(unchanged)
+            / total
+            * 100
+        )
+
     else:
+
         advancing_percent = 0
         declining_percent = 0
         unchanged_percent = 0
 
     if len(declining) > 0:
+
         advance_decline_ratio = (
             len(advancing)
             / len(declining)
         )
+
     else:
+
         advance_decline_ratio = None
 
     return {
@@ -99,7 +117,6 @@ def get_market_breadth(db: Session):
             "symbols": unchanged,
         },
 
-        "advance_decline_ratio": (
-            advance_decline_ratio
-        ),
+        "advance_decline_ratio":
+            advance_decline_ratio,
     }

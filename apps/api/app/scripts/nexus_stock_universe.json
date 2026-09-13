@@ -1,0 +1,6904 @@
+[
+  {
+    "symbol": "AADI",
+    "yahoo_symbol": "AADI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AALI",
+    "yahoo_symbol": "AALI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ABBA",
+    "yahoo_symbol": "ABBA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ABDA",
+    "yahoo_symbol": "ABDA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ABMM",
+    "yahoo_symbol": "ABMM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ACES",
+    "yahoo_symbol": "ACES.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ACRO",
+    "yahoo_symbol": "ACRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ACST",
+    "yahoo_symbol": "ACST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADCP",
+    "yahoo_symbol": "ADCP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADES",
+    "yahoo_symbol": "ADES.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADHI",
+    "yahoo_symbol": "ADHI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADMF",
+    "yahoo_symbol": "ADMF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADMG",
+    "yahoo_symbol": "ADMG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADMR",
+    "yahoo_symbol": "ADMR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ADRO",
+    "yahoo_symbol": "ADRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AEGS",
+    "yahoo_symbol": "AEGS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AGAR",
+    "yahoo_symbol": "AGAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AGII",
+    "yahoo_symbol": "AGII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AGRO",
+    "yahoo_symbol": "AGRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AGRS",
+    "yahoo_symbol": "AGRS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AHAP",
+    "yahoo_symbol": "AHAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AIMS",
+    "yahoo_symbol": "AIMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AISA",
+    "yahoo_symbol": "AISA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AKKU",
+    "yahoo_symbol": "AKKU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AKPI",
+    "yahoo_symbol": "AKPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AKRA",
+    "yahoo_symbol": "AKRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AKSI",
+    "yahoo_symbol": "AKSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ALDO",
+    "yahoo_symbol": "ALDO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ALII",
+    "yahoo_symbol": "ALII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ALKA",
+    "yahoo_symbol": "ALKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ALMI",
+    "yahoo_symbol": "ALMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ALTO",
+    "yahoo_symbol": "ALTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMAG",
+    "yahoo_symbol": "AMAG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMAN",
+    "yahoo_symbol": "AMAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMAR",
+    "yahoo_symbol": "AMAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMFG",
+    "yahoo_symbol": "AMFG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMIN",
+    "yahoo_symbol": "AMIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMMN",
+    "yahoo_symbol": "AMMN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMMS",
+    "yahoo_symbol": "AMMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMOR",
+    "yahoo_symbol": "AMOR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AMRT",
+    "yahoo_symbol": "AMRT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ANDI",
+    "yahoo_symbol": "ANDI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ANJT",
+    "yahoo_symbol": "ANJT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ANTM",
+    "yahoo_symbol": "ANTM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APEX",
+    "yahoo_symbol": "APEX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APIC",
+    "yahoo_symbol": "APIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APII",
+    "yahoo_symbol": "APII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APLI",
+    "yahoo_symbol": "APLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APLN",
+    "yahoo_symbol": "APLN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "APOL",
+    "yahoo_symbol": "APOL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "ARCI",
+    "yahoo_symbol": "ARCI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AREA",
+    "yahoo_symbol": "AREA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARGO",
+    "yahoo_symbol": "ARGO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARII",
+    "yahoo_symbol": "ARII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARKA",
+    "yahoo_symbol": "ARKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARKO",
+    "yahoo_symbol": "ARKO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARMY",
+    "yahoo_symbol": "ARMY.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "ARNA",
+    "yahoo_symbol": "ARNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARTA",
+    "yahoo_symbol": "ARTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARTI",
+    "yahoo_symbol": "ARTI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ARTO",
+    "yahoo_symbol": "ARTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASBI",
+    "yahoo_symbol": "ASBI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASDM",
+    "yahoo_symbol": "ASDM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASGR",
+    "yahoo_symbol": "ASGR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASHA",
+    "yahoo_symbol": "ASHA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASII",
+    "yahoo_symbol": "ASII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASJT",
+    "yahoo_symbol": "ASJT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASLC",
+    "yahoo_symbol": "ASLC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASLI",
+    "yahoo_symbol": "ASLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASMI",
+    "yahoo_symbol": "ASMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASPI",
+    "yahoo_symbol": "ASPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASPR",
+    "yahoo_symbol": "ASPR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASRI",
+    "yahoo_symbol": "ASRI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASRM",
+    "yahoo_symbol": "ASRM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ASSA",
+    "yahoo_symbol": "ASSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ATAP",
+    "yahoo_symbol": "ATAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ATIC",
+    "yahoo_symbol": "ATIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ATLA",
+    "yahoo_symbol": "ATLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AUTO",
+    "yahoo_symbol": "AUTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AVIA",
+    "yahoo_symbol": "AVIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AWAN",
+    "yahoo_symbol": "AWAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AXIO",
+    "yahoo_symbol": "AXIO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AYAM",
+    "yahoo_symbol": "AYAM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "AYLS",
+    "yahoo_symbol": "AYLS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BABP",
+    "yahoo_symbol": "BABP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BABY",
+    "yahoo_symbol": "BABY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BACA",
+    "yahoo_symbol": "BACA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAIK",
+    "yahoo_symbol": "BAIK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAJA",
+    "yahoo_symbol": "BAJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BALI",
+    "yahoo_symbol": "BALI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BANK",
+    "yahoo_symbol": "BANK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAPA",
+    "yahoo_symbol": "BAPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAPI",
+    "yahoo_symbol": "BAPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BATA",
+    "yahoo_symbol": "BATA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BATR",
+    "yahoo_symbol": "BATR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAUT",
+    "yahoo_symbol": "BAUT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BAYU",
+    "yahoo_symbol": "BAYU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBCA",
+    "yahoo_symbol": "BBCA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBHI",
+    "yahoo_symbol": "BBHI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBKP",
+    "yahoo_symbol": "BBKP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBLD",
+    "yahoo_symbol": "BBLD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBMD",
+    "yahoo_symbol": "BBMD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBNI",
+    "yahoo_symbol": "BBNI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBRI",
+    "yahoo_symbol": "BBRI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBRM",
+    "yahoo_symbol": "BBRM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBSI",
+    "yahoo_symbol": "BBSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBSS",
+    "yahoo_symbol": "BBSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBTN",
+    "yahoo_symbol": "BBTN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BBYB",
+    "yahoo_symbol": "BBYB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BCAP",
+    "yahoo_symbol": "BCAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BCIC",
+    "yahoo_symbol": "BCIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BCIP",
+    "yahoo_symbol": "BCIP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BDKR",
+    "yahoo_symbol": "BDKR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BDMN",
+    "yahoo_symbol": "BDMN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BEBS",
+    "yahoo_symbol": "BEBS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BEEF",
+    "yahoo_symbol": "BEEF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BEER",
+    "yahoo_symbol": "BEER.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BEKS",
+    "yahoo_symbol": "BEKS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BELI",
+    "yahoo_symbol": "BELI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BELL",
+    "yahoo_symbol": "BELL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BESS",
+    "yahoo_symbol": "BESS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BEST",
+    "yahoo_symbol": "BEST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BFIN",
+    "yahoo_symbol": "BFIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BGTG",
+    "yahoo_symbol": "BGTG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BHAT",
+    "yahoo_symbol": "BHAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BHIT",
+    "yahoo_symbol": "BHIT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIKA",
+    "yahoo_symbol": "BIKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIKE",
+    "yahoo_symbol": "BIKE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIMA",
+    "yahoo_symbol": "BIMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BINA",
+    "yahoo_symbol": "BINA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BINO",
+    "yahoo_symbol": "BINO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIPI",
+    "yahoo_symbol": "BIPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIPP",
+    "yahoo_symbol": "BIPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BIRD",
+    "yahoo_symbol": "BIRD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BISI",
+    "yahoo_symbol": "BISI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BJBR",
+    "yahoo_symbol": "BJBR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BJTM",
+    "yahoo_symbol": "BJTM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BKDP",
+    "yahoo_symbol": "BKDP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BKSL",
+    "yahoo_symbol": "BKSL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BKSW",
+    "yahoo_symbol": "BKSW.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BLES",
+    "yahoo_symbol": "BLES.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BLOG",
+    "yahoo_symbol": "BLOG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BLTA",
+    "yahoo_symbol": "BLTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BLTZ",
+    "yahoo_symbol": "BLTZ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BLUE",
+    "yahoo_symbol": "BLUE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMAS",
+    "yahoo_symbol": "BMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMBL",
+    "yahoo_symbol": "BMBL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMHS",
+    "yahoo_symbol": "BMHS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMRI",
+    "yahoo_symbol": "BMRI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMSR",
+    "yahoo_symbol": "BMSR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BMTR",
+    "yahoo_symbol": "BMTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BNBA",
+    "yahoo_symbol": "BNBA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BNBR",
+    "yahoo_symbol": "BNBR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BNGA",
+    "yahoo_symbol": "BNGA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BNII",
+    "yahoo_symbol": "BNII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BNLI",
+    "yahoo_symbol": "BNLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BOAT",
+    "yahoo_symbol": "BOAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BOBA",
+    "yahoo_symbol": "BOBA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BOGA",
+    "yahoo_symbol": "BOGA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BOLA",
+    "yahoo_symbol": "BOLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BOLT",
+    "yahoo_symbol": "BOLT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BORN",
+    "yahoo_symbol": "BORN.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "BOSS",
+    "yahoo_symbol": "BOSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BPFI",
+    "yahoo_symbol": "BPFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BPII",
+    "yahoo_symbol": "BPII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BPTR",
+    "yahoo_symbol": "BPTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRAM",
+    "yahoo_symbol": "BRAM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BREN",
+    "yahoo_symbol": "BREN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRIS",
+    "yahoo_symbol": "BRIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRMS",
+    "yahoo_symbol": "BRMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRNA",
+    "yahoo_symbol": "BRNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRPT",
+    "yahoo_symbol": "BRPT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BRRC",
+    "yahoo_symbol": "BRRC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSBK",
+    "yahoo_symbol": "BSBK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSDE",
+    "yahoo_symbol": "BSDE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSIM",
+    "yahoo_symbol": "BSIM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSML",
+    "yahoo_symbol": "BSML.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSSR",
+    "yahoo_symbol": "BSSR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BSWD",
+    "yahoo_symbol": "BSWD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BTEK",
+    "yahoo_symbol": "BTEK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BTEL",
+    "yahoo_symbol": "BTEL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "BTON",
+    "yahoo_symbol": "BTON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BTPN",
+    "yahoo_symbol": "BTPN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BTPS",
+    "yahoo_symbol": "BTPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUAH",
+    "yahoo_symbol": "BUAH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUDI",
+    "yahoo_symbol": "BUDI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUKA",
+    "yahoo_symbol": "BUKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUKK",
+    "yahoo_symbol": "BUKK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BULL",
+    "yahoo_symbol": "BULL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUMI",
+    "yahoo_symbol": "BUMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BUVA",
+    "yahoo_symbol": "BUVA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BVIC",
+    "yahoo_symbol": "BVIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BWPT",
+    "yahoo_symbol": "BWPT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "BYAN",
+    "yahoo_symbol": "BYAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CAKK",
+    "yahoo_symbol": "CAKK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CAMP",
+    "yahoo_symbol": "CAMP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CANI",
+    "yahoo_symbol": "CANI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CARE",
+    "yahoo_symbol": "CARE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CARS",
+    "yahoo_symbol": "CARS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CASA",
+    "yahoo_symbol": "CASA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CASH",
+    "yahoo_symbol": "CASH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CASS",
+    "yahoo_symbol": "CASS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CBDK",
+    "yahoo_symbol": "CBDK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CBMF",
+    "yahoo_symbol": "CBMF.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "CBPE",
+    "yahoo_symbol": "CBPE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CBRE",
+    "yahoo_symbol": "CBRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CBUT",
+    "yahoo_symbol": "CBUT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CCSI",
+    "yahoo_symbol": "CCSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CDIA",
+    "yahoo_symbol": "CDIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CEKA",
+    "yahoo_symbol": "CEKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CENT",
+    "yahoo_symbol": "CENT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CFIN",
+    "yahoo_symbol": "CFIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CGAS",
+    "yahoo_symbol": "CGAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CHEK",
+    "yahoo_symbol": "CHEK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CHEM",
+    "yahoo_symbol": "CHEM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CHIP",
+    "yahoo_symbol": "CHIP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CINT",
+    "yahoo_symbol": "CINT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CITA",
+    "yahoo_symbol": "CITA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CITY",
+    "yahoo_symbol": "CITY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CKRA",
+    "yahoo_symbol": "CKRA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "CLAY",
+    "yahoo_symbol": "CLAY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CLEO",
+    "yahoo_symbol": "CLEO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CLPI",
+    "yahoo_symbol": "CLPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CMNP",
+    "yahoo_symbol": "CMNP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CMNT",
+    "yahoo_symbol": "CMNT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CMPP",
+    "yahoo_symbol": "CMPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CMRY",
+    "yahoo_symbol": "CMRY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CNKO",
+    "yahoo_symbol": "CNKO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CNMA",
+    "yahoo_symbol": "CNMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CNTB",
+    "yahoo_symbol": "CNTB.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "CNTX",
+    "yahoo_symbol": "CNTX.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "COAL",
+    "yahoo_symbol": "COAL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "COCO",
+    "yahoo_symbol": "COCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "COIN",
+    "yahoo_symbol": "COIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "COWL",
+    "yahoo_symbol": "COWL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "CPIN",
+    "yahoo_symbol": "CPIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CPRI",
+    "yahoo_symbol": "CPRI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "CPRO",
+    "yahoo_symbol": "CPRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CRAB",
+    "yahoo_symbol": "CRAB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CRSN",
+    "yahoo_symbol": "CRSN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CSAP",
+    "yahoo_symbol": "CSAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CSIS",
+    "yahoo_symbol": "CSIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CSMI",
+    "yahoo_symbol": "CSMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CSRA",
+    "yahoo_symbol": "CSRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CTBN",
+    "yahoo_symbol": "CTBN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CTRA",
+    "yahoo_symbol": "CTRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CTTH",
+    "yahoo_symbol": "CTTH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CUAN",
+    "yahoo_symbol": "CUAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "CYBR",
+    "yahoo_symbol": "CYBR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DAAZ",
+    "yahoo_symbol": "DAAZ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DADA",
+    "yahoo_symbol": "DADA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DART",
+    "yahoo_symbol": "DART.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DATA",
+    "yahoo_symbol": "DATA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DAYA",
+    "yahoo_symbol": "DAYA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DCII",
+    "yahoo_symbol": "DCII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DEAL",
+    "yahoo_symbol": "DEAL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DEFI",
+    "yahoo_symbol": "DEFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DEPO",
+    "yahoo_symbol": "DEPO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DEWA",
+    "yahoo_symbol": "DEWA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DEWI",
+    "yahoo_symbol": "DEWI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DFAM",
+    "yahoo_symbol": "DFAM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DGIK",
+    "yahoo_symbol": "DGIK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DGNS",
+    "yahoo_symbol": "DGNS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DGWG",
+    "yahoo_symbol": "DGWG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DIGI",
+    "yahoo_symbol": "DIGI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DILD",
+    "yahoo_symbol": "DILD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DIVA",
+    "yahoo_symbol": "DIVA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DKFT",
+    "yahoo_symbol": "DKFT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DKHH",
+    "yahoo_symbol": "DKHH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DLTA",
+    "yahoo_symbol": "DLTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DMAS",
+    "yahoo_symbol": "DMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DMMX",
+    "yahoo_symbol": "DMMX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DMND",
+    "yahoo_symbol": "DMND.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DNAR",
+    "yahoo_symbol": "DNAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DNET",
+    "yahoo_symbol": "DNET.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DOID",
+    "yahoo_symbol": "DOID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DOOH",
+    "yahoo_symbol": "DOOH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DOSS",
+    "yahoo_symbol": "DOSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DPNS",
+    "yahoo_symbol": "DPNS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DPUM",
+    "yahoo_symbol": "DPUM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DRMA",
+    "yahoo_symbol": "DRMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DSFI",
+    "yahoo_symbol": "DSFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DSNG",
+    "yahoo_symbol": "DSNG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DSSA",
+    "yahoo_symbol": "DSSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DUCK",
+    "yahoo_symbol": "DUCK.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "DUTI",
+    "yahoo_symbol": "DUTI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DVLA",
+    "yahoo_symbol": "DVLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DWGL",
+    "yahoo_symbol": "DWGL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "DYAN",
+    "yahoo_symbol": "DYAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EAST",
+    "yahoo_symbol": "EAST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ECII",
+    "yahoo_symbol": "ECII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EDGE",
+    "yahoo_symbol": "EDGE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EKAD",
+    "yahoo_symbol": "EKAD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ELIT",
+    "yahoo_symbol": "ELIT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ELPI",
+    "yahoo_symbol": "ELPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ELSA",
+    "yahoo_symbol": "ELSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ELTY",
+    "yahoo_symbol": "ELTY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EMAS",
+    "yahoo_symbol": "EMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EMDE",
+    "yahoo_symbol": "EMDE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EMTK",
+    "yahoo_symbol": "EMTK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ENAK",
+    "yahoo_symbol": "ENAK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ENRG",
+    "yahoo_symbol": "ENRG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ENVY",
+    "yahoo_symbol": "ENVY.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "ENZO",
+    "yahoo_symbol": "ENZO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EPAC",
+    "yahoo_symbol": "EPAC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EPMT",
+    "yahoo_symbol": "EPMT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ERAA",
+    "yahoo_symbol": "ERAA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ERAL",
+    "yahoo_symbol": "ERAL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ERTX",
+    "yahoo_symbol": "ERTX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ESIP",
+    "yahoo_symbol": "ESIP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ESSA",
+    "yahoo_symbol": "ESSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ESTA",
+    "yahoo_symbol": "ESTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ESTI",
+    "yahoo_symbol": "ESTI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ETWA",
+    "yahoo_symbol": "ETWA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EURO",
+    "yahoo_symbol": "EURO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "EXCL",
+    "yahoo_symbol": "EXCL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FAPA",
+    "yahoo_symbol": "FAPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FAST",
+    "yahoo_symbol": "FAST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FASW",
+    "yahoo_symbol": "FASW.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FILM",
+    "yahoo_symbol": "FILM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FIMP",
+    "yahoo_symbol": "FIMP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FINN",
+    "yahoo_symbol": "FINN.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "FIRE",
+    "yahoo_symbol": "FIRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FISH",
+    "yahoo_symbol": "FISH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FITT",
+    "yahoo_symbol": "FITT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FLMC",
+    "yahoo_symbol": "FLMC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FMII",
+    "yahoo_symbol": "FMII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FOLK",
+    "yahoo_symbol": "FOLK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FOOD",
+    "yahoo_symbol": "FOOD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FORE",
+    "yahoo_symbol": "FORE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FORU",
+    "yahoo_symbol": "FORU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FORZ",
+    "yahoo_symbol": "FORZ.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "FPNI",
+    "yahoo_symbol": "FPNI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FREN",
+    "yahoo_symbol": "FREN.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "FUJI",
+    "yahoo_symbol": "FUJI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FUTR",
+    "yahoo_symbol": "FUTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "FWCT",
+    "yahoo_symbol": "FWCT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GAMA",
+    "yahoo_symbol": "GAMA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "GDST",
+    "yahoo_symbol": "GDST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GDYR",
+    "yahoo_symbol": "GDYR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GEMA",
+    "yahoo_symbol": "GEMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GEMS",
+    "yahoo_symbol": "GEMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GGRM",
+    "yahoo_symbol": "GGRM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GGRP",
+    "yahoo_symbol": "GGRP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GHON",
+    "yahoo_symbol": "GHON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GIAA",
+    "yahoo_symbol": "GIAA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GJTL",
+    "yahoo_symbol": "GJTL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GLOB",
+    "yahoo_symbol": "GLOB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GLVA",
+    "yahoo_symbol": "GLVA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GMFI",
+    "yahoo_symbol": "GMFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GMTD",
+    "yahoo_symbol": "GMTD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GOLD",
+    "yahoo_symbol": "GOLD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GOLF",
+    "yahoo_symbol": "GOLF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GOLL",
+    "yahoo_symbol": "GOLL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "GOOD",
+    "yahoo_symbol": "GOOD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GOTO",
+    "yahoo_symbol": "GOTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GOTOM",
+    "yahoo_symbol": "GOTOM.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "GPRA",
+    "yahoo_symbol": "GPRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GPSO",
+    "yahoo_symbol": "GPSO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GREN",
+    "yahoo_symbol": "GREN.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "GRIA",
+    "yahoo_symbol": "GRIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GRPH",
+    "yahoo_symbol": "GRPH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GRPM",
+    "yahoo_symbol": "GRPM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GSMF",
+    "yahoo_symbol": "GSMF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GTBO",
+    "yahoo_symbol": "GTBO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GTRA",
+    "yahoo_symbol": "GTRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GTSI",
+    "yahoo_symbol": "GTSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GULA",
+    "yahoo_symbol": "GULA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GUNA",
+    "yahoo_symbol": "GUNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GWSA",
+    "yahoo_symbol": "GWSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "GZCO",
+    "yahoo_symbol": "GZCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HADE",
+    "yahoo_symbol": "HADE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HAIS",
+    "yahoo_symbol": "HAIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HAJJ",
+    "yahoo_symbol": "HAJJ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HALO",
+    "yahoo_symbol": "HALO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HATM",
+    "yahoo_symbol": "HATM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HBAT",
+    "yahoo_symbol": "HBAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HDFA",
+    "yahoo_symbol": "HDFA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HDIT",
+    "yahoo_symbol": "HDIT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HDTX",
+    "yahoo_symbol": "HDTX.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "HEAL",
+    "yahoo_symbol": "HEAL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HELI",
+    "yahoo_symbol": "HELI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HERA",
+    "yahoo_symbol": "HERA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "HERO",
+    "yahoo_symbol": "HERO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HEXA",
+    "yahoo_symbol": "HEXA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HGII",
+    "yahoo_symbol": "HGII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HILL",
+    "yahoo_symbol": "HILL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HITS",
+    "yahoo_symbol": "HITS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HKMU",
+    "yahoo_symbol": "HKMU.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "HMSP",
+    "yahoo_symbol": "HMSP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HOKI",
+    "yahoo_symbol": "HOKI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HOME",
+    "yahoo_symbol": "HOME.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "HOMI",
+    "yahoo_symbol": "HOMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HOPE",
+    "yahoo_symbol": "HOPE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HOTL",
+    "yahoo_symbol": "HOTL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "HRME",
+    "yahoo_symbol": "HRME.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HRTA",
+    "yahoo_symbol": "HRTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HRUM",
+    "yahoo_symbol": "HRUM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HUMI",
+    "yahoo_symbol": "HUMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "HYGN",
+    "yahoo_symbol": "HYGN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IATA",
+    "yahoo_symbol": "IATA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IBFN",
+    "yahoo_symbol": "IBFN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IBOS",
+    "yahoo_symbol": "IBOS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IBST",
+    "yahoo_symbol": "IBST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ICBP",
+    "yahoo_symbol": "ICBP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ICON",
+    "yahoo_symbol": "ICON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IDEA",
+    "yahoo_symbol": "IDEA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IDPR",
+    "yahoo_symbol": "IDPR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IFII",
+    "yahoo_symbol": "IFII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IFISH",
+    "yahoo_symbol": "IFISH.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "IFSH",
+    "yahoo_symbol": "IFSH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IGAR",
+    "yahoo_symbol": "IGAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IIKP",
+    "yahoo_symbol": "IIKP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "IKAI",
+    "yahoo_symbol": "IKAI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IKAN",
+    "yahoo_symbol": "IKAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IKBI",
+    "yahoo_symbol": "IKBI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IKPM",
+    "yahoo_symbol": "IKPM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IMAS",
+    "yahoo_symbol": "IMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IMJS",
+    "yahoo_symbol": "IMJS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IMPC",
+    "yahoo_symbol": "IMPC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INAF",
+    "yahoo_symbol": "INAF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INAI",
+    "yahoo_symbol": "INAI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INCF",
+    "yahoo_symbol": "INCF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INCI",
+    "yahoo_symbol": "INCI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INCO",
+    "yahoo_symbol": "INCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDF",
+    "yahoo_symbol": "INDF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDO",
+    "yahoo_symbol": "INDO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDR",
+    "yahoo_symbol": "INDR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDS",
+    "yahoo_symbol": "INDS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDX",
+    "yahoo_symbol": "INDX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INDY",
+    "yahoo_symbol": "INDY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INET",
+    "yahoo_symbol": "INET.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INKP",
+    "yahoo_symbol": "INKP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INOV",
+    "yahoo_symbol": "INOV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INPC",
+    "yahoo_symbol": "INPC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INPP",
+    "yahoo_symbol": "INPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INPS",
+    "yahoo_symbol": "INPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INRU",
+    "yahoo_symbol": "INRU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INTA",
+    "yahoo_symbol": "INTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INTD",
+    "yahoo_symbol": "INTD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "INTP",
+    "yahoo_symbol": "INTP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IOTF",
+    "yahoo_symbol": "IOTF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPAC",
+    "yahoo_symbol": "IPAC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPCC",
+    "yahoo_symbol": "IPCC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPCM",
+    "yahoo_symbol": "IPCM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPOL",
+    "yahoo_symbol": "IPOL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPPE",
+    "yahoo_symbol": "IPPE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IPTV",
+    "yahoo_symbol": "IPTV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IRRA",
+    "yahoo_symbol": "IRRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "IRSX",
+    "yahoo_symbol": "IRSX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ISAP",
+    "yahoo_symbol": "ISAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ISAT",
+    "yahoo_symbol": "ISAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ISEA",
+    "yahoo_symbol": "ISEA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ISSP",
+    "yahoo_symbol": "ISSP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ITIC",
+    "yahoo_symbol": "ITIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ITMA",
+    "yahoo_symbol": "ITMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ITMG",
+    "yahoo_symbol": "ITMG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ITTG",
+    "yahoo_symbol": "ITTG.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "JARR",
+    "yahoo_symbol": "JARR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JAST",
+    "yahoo_symbol": "JAST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JATI",
+    "yahoo_symbol": "JATI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JAWA",
+    "yahoo_symbol": "JAWA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JAYA",
+    "yahoo_symbol": "JAYA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JECC",
+    "yahoo_symbol": "JECC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JGLE",
+    "yahoo_symbol": "JGLE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JIHD",
+    "yahoo_symbol": "JIHD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JKON",
+    "yahoo_symbol": "JKON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JKSW",
+    "yahoo_symbol": "JKSW.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "JMAS",
+    "yahoo_symbol": "JMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JPFA",
+    "yahoo_symbol": "JPFA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JRPT",
+    "yahoo_symbol": "JRPT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JSKY",
+    "yahoo_symbol": "JSKY.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "JSMR",
+    "yahoo_symbol": "JSMR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JSPT",
+    "yahoo_symbol": "JSPT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "JTPE",
+    "yahoo_symbol": "JTPE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KAEF",
+    "yahoo_symbol": "KAEF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KAQI",
+    "yahoo_symbol": "KAQI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KARW",
+    "yahoo_symbol": "KARW.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KAYU",
+    "yahoo_symbol": "KAYU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KBAG",
+    "yahoo_symbol": "KBAG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KBLI",
+    "yahoo_symbol": "KBLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KBLM",
+    "yahoo_symbol": "KBLM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KBLV",
+    "yahoo_symbol": "KBLV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KBRI",
+    "yahoo_symbol": "KBRI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "KDSI",
+    "yahoo_symbol": "KDSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KDTN",
+    "yahoo_symbol": "KDTN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KEEN",
+    "yahoo_symbol": "KEEN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KEJU",
+    "yahoo_symbol": "KEJU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KETR",
+    "yahoo_symbol": "KETR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KIAS",
+    "yahoo_symbol": "KIAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KICI",
+    "yahoo_symbol": "KICI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KIJA",
+    "yahoo_symbol": "KIJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KING",
+    "yahoo_symbol": "KING.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KINO",
+    "yahoo_symbol": "KINO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KIOS",
+    "yahoo_symbol": "KIOS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KJEN",
+    "yahoo_symbol": "KJEN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KKES",
+    "yahoo_symbol": "KKES.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KKGI",
+    "yahoo_symbol": "KKGI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KLAS",
+    "yahoo_symbol": "KLAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KLBF",
+    "yahoo_symbol": "KLBF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KLIN",
+    "yahoo_symbol": "KLIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KMDS",
+    "yahoo_symbol": "KMDS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KMTR",
+    "yahoo_symbol": "KMTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOBX",
+    "yahoo_symbol": "KOBX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOCI",
+    "yahoo_symbol": "KOCI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOIN",
+    "yahoo_symbol": "KOIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOJA",
+    "yahoo_symbol": "KOJA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "KOKA",
+    "yahoo_symbol": "KOKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KONI",
+    "yahoo_symbol": "KONI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOPI",
+    "yahoo_symbol": "KOPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KOTA",
+    "yahoo_symbol": "KOTA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KPAL",
+    "yahoo_symbol": "KPAL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "KPAS",
+    "yahoo_symbol": "KPAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "KPIG",
+    "yahoo_symbol": "KPIG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KRAH",
+    "yahoo_symbol": "KRAH.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "KRAS",
+    "yahoo_symbol": "KRAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KREN",
+    "yahoo_symbol": "KREN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KRYA",
+    "yahoo_symbol": "KRYA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KSIX",
+    "yahoo_symbol": "KSIX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "KUAS",
+    "yahoo_symbol": "KUAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LABA",
+    "yahoo_symbol": "LABA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LABS",
+    "yahoo_symbol": "LABS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LAJU",
+    "yahoo_symbol": "LAJU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LAND",
+    "yahoo_symbol": "LAND.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LAPD",
+    "yahoo_symbol": "LAPD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LCGP",
+    "yahoo_symbol": "LCGP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "LCKM",
+    "yahoo_symbol": "LCKM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LEAD",
+    "yahoo_symbol": "LEAD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LFLO",
+    "yahoo_symbol": "LFLO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LIFE",
+    "yahoo_symbol": "LIFE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LINK",
+    "yahoo_symbol": "LINK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LION",
+    "yahoo_symbol": "LION.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LIVE",
+    "yahoo_symbol": "LIVE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LMAS",
+    "yahoo_symbol": "LMAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "LMAX",
+    "yahoo_symbol": "LMAX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LMPI",
+    "yahoo_symbol": "LMPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LMSH",
+    "yahoo_symbol": "LMSH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LOPI",
+    "yahoo_symbol": "LOPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPCK",
+    "yahoo_symbol": "LPCK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPGI",
+    "yahoo_symbol": "LPGI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPIN",
+    "yahoo_symbol": "LPIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPKR",
+    "yahoo_symbol": "LPKR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPLI",
+    "yahoo_symbol": "LPLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPPF",
+    "yahoo_symbol": "LPPF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LPPS",
+    "yahoo_symbol": "LPPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LRNA",
+    "yahoo_symbol": "LRNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LSIP",
+    "yahoo_symbol": "LSIP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LTLS",
+    "yahoo_symbol": "LTLS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LUCK",
+    "yahoo_symbol": "LUCK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "LUCY",
+    "yahoo_symbol": "LUCY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MABA",
+    "yahoo_symbol": "MABA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MAGP",
+    "yahoo_symbol": "MAGP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MAHA",
+    "yahoo_symbol": "MAHA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAIN",
+    "yahoo_symbol": "MAIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAMI",
+    "yahoo_symbol": "MAMI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MAMIP",
+    "yahoo_symbol": "MAMIP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MANG",
+    "yahoo_symbol": "MANG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAPA",
+    "yahoo_symbol": "MAPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAPB",
+    "yahoo_symbol": "MAPB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAPI",
+    "yahoo_symbol": "MAPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MARI",
+    "yahoo_symbol": "MARI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MARK",
+    "yahoo_symbol": "MARK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MASA",
+    "yahoo_symbol": "MASA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MASB",
+    "yahoo_symbol": "MASB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAXI",
+    "yahoo_symbol": "MAXI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MAYA",
+    "yahoo_symbol": "MAYA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MBAP",
+    "yahoo_symbol": "MBAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MBMA",
+    "yahoo_symbol": "MBMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MBSS",
+    "yahoo_symbol": "MBSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MBTO",
+    "yahoo_symbol": "MBTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MCAS",
+    "yahoo_symbol": "MCAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MCOL",
+    "yahoo_symbol": "MCOL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MCOR",
+    "yahoo_symbol": "MCOR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDIA",
+    "yahoo_symbol": "MDIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDIY",
+    "yahoo_symbol": "MDIY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDKA",
+    "yahoo_symbol": "MDKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDKI",
+    "yahoo_symbol": "MDKI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDLA",
+    "yahoo_symbol": "MDLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDLN",
+    "yahoo_symbol": "MDLN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MDRN",
+    "yahoo_symbol": "MDRN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MEDC",
+    "yahoo_symbol": "MEDC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MEDS",
+    "yahoo_symbol": "MEDS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MEGA",
+    "yahoo_symbol": "MEGA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MEJA",
+    "yahoo_symbol": "MEJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MENN",
+    "yahoo_symbol": "MENN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MERI",
+    "yahoo_symbol": "MERI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MERK",
+    "yahoo_symbol": "MERK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "META",
+    "yahoo_symbol": "META.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MFIN",
+    "yahoo_symbol": "MFIN.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MFMI",
+    "yahoo_symbol": "MFMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MGLV",
+    "yahoo_symbol": "MGLV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MGNA",
+    "yahoo_symbol": "MGNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MGRO",
+    "yahoo_symbol": "MGRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MHKI",
+    "yahoo_symbol": "MHKI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MICE",
+    "yahoo_symbol": "MICE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MIDI",
+    "yahoo_symbol": "MIDI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MIKA",
+    "yahoo_symbol": "MIKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MINA",
+    "yahoo_symbol": "MINA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MINE",
+    "yahoo_symbol": "MINE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MIRA",
+    "yahoo_symbol": "MIRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MITI",
+    "yahoo_symbol": "MITI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MKAP",
+    "yahoo_symbol": "MKAP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MKNT",
+    "yahoo_symbol": "MKNT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MKPI",
+    "yahoo_symbol": "MKPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MKTR",
+    "yahoo_symbol": "MKTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MLBI",
+    "yahoo_symbol": "MLBI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MLIA",
+    "yahoo_symbol": "MLIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MLPL",
+    "yahoo_symbol": "MLPL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MLPT",
+    "yahoo_symbol": "MLPT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MMIX",
+    "yahoo_symbol": "MMIX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MMLP",
+    "yahoo_symbol": "MMLP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MNCN",
+    "yahoo_symbol": "MNCN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MOLI",
+    "yahoo_symbol": "MOLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MORA",
+    "yahoo_symbol": "MORA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPIX",
+    "yahoo_symbol": "MPIX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPMX",
+    "yahoo_symbol": "MPMX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPOW",
+    "yahoo_symbol": "MPOW.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPPA",
+    "yahoo_symbol": "MPPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPRO",
+    "yahoo_symbol": "MPRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MPXL",
+    "yahoo_symbol": "MPXL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MRAT",
+    "yahoo_symbol": "MRAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MREI",
+    "yahoo_symbol": "MREI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MSIE",
+    "yahoo_symbol": "MSIE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MSIN",
+    "yahoo_symbol": "MSIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MSJA",
+    "yahoo_symbol": "MSJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MSKY",
+    "yahoo_symbol": "MSKY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MSTI",
+    "yahoo_symbol": "MSTI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTDL",
+    "yahoo_symbol": "MTDL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTEL",
+    "yahoo_symbol": "MTEL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTFN",
+    "yahoo_symbol": "MTFN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTLA",
+    "yahoo_symbol": "MTLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTMH",
+    "yahoo_symbol": "MTMH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTPS",
+    "yahoo_symbol": "MTPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTRA",
+    "yahoo_symbol": "MTRA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MTSM",
+    "yahoo_symbol": "MTSM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MTWI",
+    "yahoo_symbol": "MTWI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MUTU",
+    "yahoo_symbol": "MUTU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MYOH",
+    "yahoo_symbol": "MYOH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MYOR",
+    "yahoo_symbol": "MYOR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "MYRX",
+    "yahoo_symbol": "MYRX.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MYRXP",
+    "yahoo_symbol": "MYRXP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "MYTX",
+    "yahoo_symbol": "MYTX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NAIK",
+    "yahoo_symbol": "NAIK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NANO",
+    "yahoo_symbol": "NANO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NASA",
+    "yahoo_symbol": "NASA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NASI",
+    "yahoo_symbol": "NASI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NATO",
+    "yahoo_symbol": "NATO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NAYZ",
+    "yahoo_symbol": "NAYZ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NCKL",
+    "yahoo_symbol": "NCKL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NELY",
+    "yahoo_symbol": "NELY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NEST",
+    "yahoo_symbol": "NEST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NETV",
+    "yahoo_symbol": "NETV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NFCX",
+    "yahoo_symbol": "NFCX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NICE",
+    "yahoo_symbol": "NICE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NICK",
+    "yahoo_symbol": "NICK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NICL",
+    "yahoo_symbol": "NICL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NIKL",
+    "yahoo_symbol": "NIKL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NINE",
+    "yahoo_symbol": "NINE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NIPS",
+    "yahoo_symbol": "NIPS.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "NIRO",
+    "yahoo_symbol": "NIRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NISP",
+    "yahoo_symbol": "NISP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NOBU",
+    "yahoo_symbol": "NOBU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NPGF",
+    "yahoo_symbol": "NPGF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NRCA",
+    "yahoo_symbol": "NRCA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NSSS",
+    "yahoo_symbol": "NSSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NTBK",
+    "yahoo_symbol": "NTBK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "NUSA",
+    "yahoo_symbol": "NUSA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "NZIA",
+    "yahoo_symbol": "NZIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OASA",
+    "yahoo_symbol": "OASA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OBAT",
+    "yahoo_symbol": "OBAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OBMD",
+    "yahoo_symbol": "OBMD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OCAP",
+    "yahoo_symbol": "OCAP.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "OILS",
+    "yahoo_symbol": "OILS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OKAS",
+    "yahoo_symbol": "OKAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OLIV",
+    "yahoo_symbol": "OLIV.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OMED",
+    "yahoo_symbol": "OMED.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OMRE",
+    "yahoo_symbol": "OMRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "OPMS",
+    "yahoo_symbol": "OPMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PACK",
+    "yahoo_symbol": "PACK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PADA",
+    "yahoo_symbol": "PADA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PADI",
+    "yahoo_symbol": "PADI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PALM",
+    "yahoo_symbol": "PALM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PAMG",
+    "yahoo_symbol": "PAMG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PANI",
+    "yahoo_symbol": "PANI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PANR",
+    "yahoo_symbol": "PANR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PANS",
+    "yahoo_symbol": "PANS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PART",
+    "yahoo_symbol": "PART.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PBID",
+    "yahoo_symbol": "PBID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PBRX",
+    "yahoo_symbol": "PBRX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PBSA",
+    "yahoo_symbol": "PBSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PCAR",
+    "yahoo_symbol": "PCAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PDES",
+    "yahoo_symbol": "PDES.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PDPP",
+    "yahoo_symbol": "PDPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PEGE",
+    "yahoo_symbol": "PEGE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PEHA",
+    "yahoo_symbol": "PEHA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PEVE",
+    "yahoo_symbol": "PEVE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PGAS",
+    "yahoo_symbol": "PGAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PGEO",
+    "yahoo_symbol": "PGEO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PGJO",
+    "yahoo_symbol": "PGJO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PGLI",
+    "yahoo_symbol": "PGLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PGUN",
+    "yahoo_symbol": "PGUN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PICO",
+    "yahoo_symbol": "PICO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PIPA",
+    "yahoo_symbol": "PIPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PJAA",
+    "yahoo_symbol": "PJAA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PJHB",
+    "yahoo_symbol": "PJHB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PKPK",
+    "yahoo_symbol": "PKPK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PLAN",
+    "yahoo_symbol": "PLAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PLAS",
+    "yahoo_symbol": "PLAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "PLIN",
+    "yahoo_symbol": "PLIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PMJS",
+    "yahoo_symbol": "PMJS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PMMP",
+    "yahoo_symbol": "PMMP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PMUI",
+    "yahoo_symbol": "PMUI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNBN",
+    "yahoo_symbol": "PNBN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNBS",
+    "yahoo_symbol": "PNBS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNGO",
+    "yahoo_symbol": "PNGO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNIN",
+    "yahoo_symbol": "PNIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNLF",
+    "yahoo_symbol": "PNLF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PNSE",
+    "yahoo_symbol": "PNSE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POLA",
+    "yahoo_symbol": "POLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POLI",
+    "yahoo_symbol": "POLI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POLL",
+    "yahoo_symbol": "POLL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POLU",
+    "yahoo_symbol": "POLU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POLY",
+    "yahoo_symbol": "POLY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POOL",
+    "yahoo_symbol": "POOL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "PORT",
+    "yahoo_symbol": "PORT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "POSA",
+    "yahoo_symbol": "POSA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "POWR",
+    "yahoo_symbol": "POWR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PPGL",
+    "yahoo_symbol": "PPGL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PPRE",
+    "yahoo_symbol": "PPRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PPRI",
+    "yahoo_symbol": "PPRI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PPRO",
+    "yahoo_symbol": "PPRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PRAS",
+    "yahoo_symbol": "PRAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "PRAY",
+    "yahoo_symbol": "PRAY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PRDA",
+    "yahoo_symbol": "PRDA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PRIM",
+    "yahoo_symbol": "PRIM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSAB",
+    "yahoo_symbol": "PSAB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSAT",
+    "yahoo_symbol": "PSAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSDN",
+    "yahoo_symbol": "PSDN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSGO",
+    "yahoo_symbol": "PSGO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSKT",
+    "yahoo_symbol": "PSKT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PSSI",
+    "yahoo_symbol": "PSSI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTBA",
+    "yahoo_symbol": "PTBA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTDU",
+    "yahoo_symbol": "PTDU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTIS",
+    "yahoo_symbol": "PTIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTMP",
+    "yahoo_symbol": "PTMP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTMR",
+    "yahoo_symbol": "PTMR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTPP",
+    "yahoo_symbol": "PTPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTPS",
+    "yahoo_symbol": "PTPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTPW",
+    "yahoo_symbol": "PTPW.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTRO",
+    "yahoo_symbol": "PTRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTSN",
+    "yahoo_symbol": "PTSN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PTSP",
+    "yahoo_symbol": "PTSP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PUDP",
+    "yahoo_symbol": "PUDP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PURA",
+    "yahoo_symbol": "PURA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PURE",
+    "yahoo_symbol": "PURE.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "PURI",
+    "yahoo_symbol": "PURI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PWON",
+    "yahoo_symbol": "PWON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PYFA",
+    "yahoo_symbol": "PYFA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "PZZA",
+    "yahoo_symbol": "PZZA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RAAM",
+    "yahoo_symbol": "RAAM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RAFI",
+    "yahoo_symbol": "RAFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RAJA",
+    "yahoo_symbol": "RAJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RALS",
+    "yahoo_symbol": "RALS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RANC",
+    "yahoo_symbol": "RANC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RATU",
+    "yahoo_symbol": "RATU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RBMS",
+    "yahoo_symbol": "RBMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RCCC",
+    "yahoo_symbol": "RCCC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RDTX",
+    "yahoo_symbol": "RDTX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "REAL",
+    "yahoo_symbol": "REAL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RELF",
+    "yahoo_symbol": "RELF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RELI",
+    "yahoo_symbol": "RELI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RGAS",
+    "yahoo_symbol": "RGAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RICY",
+    "yahoo_symbol": "RICY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RIGS",
+    "yahoo_symbol": "RIGS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RIMO",
+    "yahoo_symbol": "RIMO.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "RISE",
+    "yahoo_symbol": "RISE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RLCO",
+    "yahoo_symbol": "RLCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RMBA",
+    "yahoo_symbol": "RMBA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "RMKE",
+    "yahoo_symbol": "RMKE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RMKO",
+    "yahoo_symbol": "RMKO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ROCK",
+    "yahoo_symbol": "ROCK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RODA",
+    "yahoo_symbol": "RODA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RONY",
+    "yahoo_symbol": "RONY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ROTI",
+    "yahoo_symbol": "ROTI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RSCH",
+    "yahoo_symbol": "RSCH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RSGK",
+    "yahoo_symbol": "RSGK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RUIS",
+    "yahoo_symbol": "RUIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "RUNS",
+    "yahoo_symbol": "RUNS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SAFE",
+    "yahoo_symbol": "SAFE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SAGE",
+    "yahoo_symbol": "SAGE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SAME",
+    "yahoo_symbol": "SAME.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SAMF",
+    "yahoo_symbol": "SAMF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SAPX",
+    "yahoo_symbol": "SAPX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SATU",
+    "yahoo_symbol": "SATU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SBAT",
+    "yahoo_symbol": "SBAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SBMA",
+    "yahoo_symbol": "SBMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SCBD",
+    "yahoo_symbol": "SCBD.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SCCO",
+    "yahoo_symbol": "SCCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SCMA",
+    "yahoo_symbol": "SCMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SCNP",
+    "yahoo_symbol": "SCNP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SCPI",
+    "yahoo_symbol": "SCPI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SDMU",
+    "yahoo_symbol": "SDMU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SDPC",
+    "yahoo_symbol": "SDPC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SDRA",
+    "yahoo_symbol": "SDRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SEMA",
+    "yahoo_symbol": "SEMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SFAN",
+    "yahoo_symbol": "SFAN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SGER",
+    "yahoo_symbol": "SGER.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SGRO",
+    "yahoo_symbol": "SGRO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SHID",
+    "yahoo_symbol": "SHID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SHIP",
+    "yahoo_symbol": "SHIP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SICO",
+    "yahoo_symbol": "SICO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SIDO",
+    "yahoo_symbol": "SIDO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SILO",
+    "yahoo_symbol": "SILO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SIMA",
+    "yahoo_symbol": "SIMA.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SIMP",
+    "yahoo_symbol": "SIMP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SINI",
+    "yahoo_symbol": "SINI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SIPD",
+    "yahoo_symbol": "SIPD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SKBM",
+    "yahoo_symbol": "SKBM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SKLT",
+    "yahoo_symbol": "SKLT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SKRN",
+    "yahoo_symbol": "SKRN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SKYB",
+    "yahoo_symbol": "SKYB.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SLIS",
+    "yahoo_symbol": "SLIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMAR",
+    "yahoo_symbol": "SMAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMBR",
+    "yahoo_symbol": "SMBR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMCB",
+    "yahoo_symbol": "SMCB.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMDM",
+    "yahoo_symbol": "SMDM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMDR",
+    "yahoo_symbol": "SMDR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMGA",
+    "yahoo_symbol": "SMGA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMGR",
+    "yahoo_symbol": "SMGR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMIL",
+    "yahoo_symbol": "SMIL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMKL",
+    "yahoo_symbol": "SMKL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMKM",
+    "yahoo_symbol": "SMKM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMLE",
+    "yahoo_symbol": "SMLE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMMA",
+    "yahoo_symbol": "SMMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMMT",
+    "yahoo_symbol": "SMMT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMRA",
+    "yahoo_symbol": "SMRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SMRU",
+    "yahoo_symbol": "SMRU.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SMSM",
+    "yahoo_symbol": "SMSM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SNLK",
+    "yahoo_symbol": "SNLK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOCI",
+    "yahoo_symbol": "SOCI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOFA",
+    "yahoo_symbol": "SOFA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOHO",
+    "yahoo_symbol": "SOHO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOLA",
+    "yahoo_symbol": "SOLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SONA",
+    "yahoo_symbol": "SONA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOSS",
+    "yahoo_symbol": "SOSS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOTS",
+    "yahoo_symbol": "SOTS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SOUL",
+    "yahoo_symbol": "SOUL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SPMA",
+    "yahoo_symbol": "SPMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SPRE",
+    "yahoo_symbol": "SPRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SPTO",
+    "yahoo_symbol": "SPTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SQMI",
+    "yahoo_symbol": "SQMI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SRAJ",
+    "yahoo_symbol": "SRAJ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SRIL",
+    "yahoo_symbol": "SRIL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SRSN",
+    "yahoo_symbol": "SRSN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SRTG",
+    "yahoo_symbol": "SRTG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SSIA",
+    "yahoo_symbol": "SSIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SSMS",
+    "yahoo_symbol": "SSMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SSTM",
+    "yahoo_symbol": "SSTM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "STAA",
+    "yahoo_symbol": "STAA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "STAR",
+    "yahoo_symbol": "STAR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "STRK",
+    "yahoo_symbol": "STRK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "STTP",
+    "yahoo_symbol": "STTP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SUGI",
+    "yahoo_symbol": "SUGI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "SULI",
+    "yahoo_symbol": "SULI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SUNI",
+    "yahoo_symbol": "SUNI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SUPA",
+    "yahoo_symbol": "SUPA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SUPR",
+    "yahoo_symbol": "SUPR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SURE",
+    "yahoo_symbol": "SURE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SURI",
+    "yahoo_symbol": "SURI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SWAT",
+    "yahoo_symbol": "SWAT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "SWID",
+    "yahoo_symbol": "SWID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TALF",
+    "yahoo_symbol": "TALF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TAMA",
+    "yahoo_symbol": "TAMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TAMU",
+    "yahoo_symbol": "TAMU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TAPG",
+    "yahoo_symbol": "TAPG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TARA",
+    "yahoo_symbol": "TARA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TAXI",
+    "yahoo_symbol": "TAXI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TAYS",
+    "yahoo_symbol": "TAYS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TBIG",
+    "yahoo_symbol": "TBIG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TBLA",
+    "yahoo_symbol": "TBLA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TBMS",
+    "yahoo_symbol": "TBMS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TCID",
+    "yahoo_symbol": "TCID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TCPI",
+    "yahoo_symbol": "TCPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TDPM",
+    "yahoo_symbol": "TDPM.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TEBE",
+    "yahoo_symbol": "TEBE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TECH",
+    "yahoo_symbol": "TECH.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TELE",
+    "yahoo_symbol": "TELE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TFAS",
+    "yahoo_symbol": "TFAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TFCO",
+    "yahoo_symbol": "TFCO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TGKA",
+    "yahoo_symbol": "TGKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TGRA",
+    "yahoo_symbol": "TGRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TGUK",
+    "yahoo_symbol": "TGUK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TIFA",
+    "yahoo_symbol": "TIFA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TINS",
+    "yahoo_symbol": "TINS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TIRA",
+    "yahoo_symbol": "TIRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TIRT",
+    "yahoo_symbol": "TIRT.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TKIM",
+    "yahoo_symbol": "TKIM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TLDN",
+    "yahoo_symbol": "TLDN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TLKM",
+    "yahoo_symbol": "TLKM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TMAS",
+    "yahoo_symbol": "TMAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TMPO",
+    "yahoo_symbol": "TMPO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TNCA",
+    "yahoo_symbol": "TNCA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOBA",
+    "yahoo_symbol": "TOBA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOOL",
+    "yahoo_symbol": "TOOL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOPS",
+    "yahoo_symbol": "TOPS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOSK",
+    "yahoo_symbol": "TOSK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOTL",
+    "yahoo_symbol": "TOTL.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOTO",
+    "yahoo_symbol": "TOTO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOWR",
+    "yahoo_symbol": "TOWR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TOYS",
+    "yahoo_symbol": "TOYS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TPIA",
+    "yahoo_symbol": "TPIA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TPMA",
+    "yahoo_symbol": "TPMA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRAM",
+    "yahoo_symbol": "TRAM.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TRGU",
+    "yahoo_symbol": "TRGU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRIL",
+    "yahoo_symbol": "TRIL.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TRIM",
+    "yahoo_symbol": "TRIM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRIN",
+    "yahoo_symbol": "TRIN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRIO",
+    "yahoo_symbol": "TRIO.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TRIS",
+    "yahoo_symbol": "TRIS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRJA",
+    "yahoo_symbol": "TRJA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRON",
+    "yahoo_symbol": "TRON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRST",
+    "yahoo_symbol": "TRST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRUE",
+    "yahoo_symbol": "TRUE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRUK",
+    "yahoo_symbol": "TRUK.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TRUS",
+    "yahoo_symbol": "TRUS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TSPC",
+    "yahoo_symbol": "TSPC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TUGU",
+    "yahoo_symbol": "TUGU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "TURI",
+    "yahoo_symbol": "TURI.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "TYRE",
+    "yahoo_symbol": "TYRE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UANG",
+    "yahoo_symbol": "UANG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UCID",
+    "yahoo_symbol": "UCID.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UDNG",
+    "yahoo_symbol": "UDNG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UFOE",
+    "yahoo_symbol": "UFOE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ULTJ",
+    "yahoo_symbol": "ULTJ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNIC",
+    "yahoo_symbol": "UNIC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNIQ",
+    "yahoo_symbol": "UNIQ.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNIT",
+    "yahoo_symbol": "UNIT.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "UNSP",
+    "yahoo_symbol": "UNSP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNTD",
+    "yahoo_symbol": "UNTD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNTR",
+    "yahoo_symbol": "UNTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UNVR",
+    "yahoo_symbol": "UNVR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "URBN",
+    "yahoo_symbol": "URBN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "UVCR",
+    "yahoo_symbol": "UVCR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VAST",
+    "yahoo_symbol": "VAST.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VERN",
+    "yahoo_symbol": "VERN.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VICI",
+    "yahoo_symbol": "VICI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VICO",
+    "yahoo_symbol": "VICO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VINS",
+    "yahoo_symbol": "VINS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VISI",
+    "yahoo_symbol": "VISI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VIVA",
+    "yahoo_symbol": "VIVA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VKTR",
+    "yahoo_symbol": "VKTR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VOKS",
+    "yahoo_symbol": "VOKS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VRNA",
+    "yahoo_symbol": "VRNA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "VTNY",
+    "yahoo_symbol": "VTNY.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WAPO",
+    "yahoo_symbol": "WAPO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WBSA",
+    "yahoo_symbol": "WBSA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WEGE",
+    "yahoo_symbol": "WEGE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WEHA",
+    "yahoo_symbol": "WEHA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WGSH",
+    "yahoo_symbol": "WGSH.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WICO",
+    "yahoo_symbol": "WICO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WIDI",
+    "yahoo_symbol": "WIDI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WIFI",
+    "yahoo_symbol": "WIFI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WIIM",
+    "yahoo_symbol": "WIIM.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WIKA",
+    "yahoo_symbol": "WIKA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WINE",
+    "yahoo_symbol": "WINE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WINR",
+    "yahoo_symbol": "WINR.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WINS",
+    "yahoo_symbol": "WINS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WIRG",
+    "yahoo_symbol": "WIRG.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WMPP",
+    "yahoo_symbol": "WMPP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WMUU",
+    "yahoo_symbol": "WMUU.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WOMF",
+    "yahoo_symbol": "WOMF.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WOOD",
+    "yahoo_symbol": "WOOD.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WOWS",
+    "yahoo_symbol": "WOWS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WSBP",
+    "yahoo_symbol": "WSBP.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "WSKT",
+    "yahoo_symbol": "WSKT.JK",
+    "status": "unavailable",
+    "yahoo_available": false,
+    "source": "Pholenk/IDX-Dataset"
+  },
+  {
+    "symbol": "WTON",
+    "yahoo_symbol": "WTON.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "YELO",
+    "yahoo_symbol": "YELO.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "YOII",
+    "yahoo_symbol": "YOII.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "YPAS",
+    "yahoo_symbol": "YPAS.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "YULE",
+    "yahoo_symbol": "YULE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "YUPI",
+    "yahoo_symbol": "YUPI.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ZATA",
+    "yahoo_symbol": "ZATA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ZBRA",
+    "yahoo_symbol": "ZBRA.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ZINC",
+    "yahoo_symbol": "ZINC.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ZONE",
+    "yahoo_symbol": "ZONE.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  },
+  {
+    "symbol": "ZYRX",
+    "yahoo_symbol": "ZYRX.JK",
+    "status": "active",
+    "yahoo_available": true,
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+  }
+]

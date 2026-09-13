@@ -1,0 +1,422 @@
+[
+  {
+    "symbol": "APOL",
+    "yahoo_symbol": "APOL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "ARMY",
+    "yahoo_symbol": "ARMY.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "BORN",
+    "yahoo_symbol": "BORN.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "BTEL",
+    "yahoo_symbol": "BTEL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "CBMF",
+    "yahoo_symbol": "CBMF.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "CKRA",
+    "yahoo_symbol": "CKRA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "CNTB",
+    "yahoo_symbol": "CNTB.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "CNTX",
+    "yahoo_symbol": "CNTX.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "COWL",
+    "yahoo_symbol": "COWL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "CPRI",
+    "yahoo_symbol": "CPRI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "DUCK",
+    "yahoo_symbol": "DUCK.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "ENVY",
+    "yahoo_symbol": "ENVY.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "FINN",
+    "yahoo_symbol": "FINN.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "FORZ",
+    "yahoo_symbol": "FORZ.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "FREN",
+    "yahoo_symbol": "FREN.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "GAMA",
+    "yahoo_symbol": "GAMA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "GOLL",
+    "yahoo_symbol": "GOLL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "GOTOM",
+    "yahoo_symbol": "GOTOM.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "GREN",
+    "yahoo_symbol": "GREN.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "HDTX",
+    "yahoo_symbol": "HDTX.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "HERA",
+    "yahoo_symbol": "HERA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "HKMU",
+    "yahoo_symbol": "HKMU.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "HOME",
+    "yahoo_symbol": "HOME.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "HOTL",
+    "yahoo_symbol": "HOTL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "IFISH",
+    "yahoo_symbol": "IFISH.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "IIKP",
+    "yahoo_symbol": "IIKP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "ITTG",
+    "yahoo_symbol": "ITTG.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "JKSW",
+    "yahoo_symbol": "JKSW.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "JSKY",
+    "yahoo_symbol": "JSKY.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "KBRI",
+    "yahoo_symbol": "KBRI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "KOJA",
+    "yahoo_symbol": "KOJA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "KPAL",
+    "yahoo_symbol": "KPAL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "KPAS",
+    "yahoo_symbol": "KPAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "KRAH",
+    "yahoo_symbol": "KRAH.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "LCGP",
+    "yahoo_symbol": "LCGP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "LMAS",
+    "yahoo_symbol": "LMAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MABA",
+    "yahoo_symbol": "MABA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MAGP",
+    "yahoo_symbol": "MAGP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MAMI",
+    "yahoo_symbol": "MAMI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MAMIP",
+    "yahoo_symbol": "MAMIP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MASA",
+    "yahoo_symbol": "MASA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MFIN",
+    "yahoo_symbol": "MFIN.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MTRA",
+    "yahoo_symbol": "MTRA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MYRX",
+    "yahoo_symbol": "MYRX.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "MYRXP",
+    "yahoo_symbol": "MYRXP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "NIPS",
+    "yahoo_symbol": "NIPS.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "NUSA",
+    "yahoo_symbol": "NUSA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "OCAP",
+    "yahoo_symbol": "OCAP.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "PLAS",
+    "yahoo_symbol": "PLAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "POOL",
+    "yahoo_symbol": "POOL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "POSA",
+    "yahoo_symbol": "POSA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "PRAS",
+    "yahoo_symbol": "PRAS.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "PURE",
+    "yahoo_symbol": "PURE.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "RIMO",
+    "yahoo_symbol": "RIMO.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "RMBA",
+    "yahoo_symbol": "RMBA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SCBD",
+    "yahoo_symbol": "SCBD.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SCPI",
+    "yahoo_symbol": "SCPI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SIMA",
+    "yahoo_symbol": "SIMA.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SKYB",
+    "yahoo_symbol": "SKYB.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SMRU",
+    "yahoo_symbol": "SMRU.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SRIL",
+    "yahoo_symbol": "SRIL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "SUGI",
+    "yahoo_symbol": "SUGI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TDPM",
+    "yahoo_symbol": "TDPM.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TECH",
+    "yahoo_symbol": "TECH.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TRAM",
+    "yahoo_symbol": "TRAM.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TRIL",
+    "yahoo_symbol": "TRIL.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TRIO",
+    "yahoo_symbol": "TRIO.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "TURI",
+    "yahoo_symbol": "TURI.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "UNIT",
+    "yahoo_symbol": "UNIT.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  },
+  {
+    "symbol": "WSKT",
+    "yahoo_symbol": "WSKT.JK",
+    "status": "unavailable",
+    "yahoo_available": false
+  }
+]

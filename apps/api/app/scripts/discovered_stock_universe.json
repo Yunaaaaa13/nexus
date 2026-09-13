@@ -1,0 +1,1778 @@
+[
+  {
+    "symbol": "AALI",
+    "name": ""
+  },
+  {
+    "symbol": "ABBA",
+    "name": ""
+  },
+  {
+    "symbol": "ABDA",
+    "name": ""
+  },
+  {
+    "symbol": "ABMM",
+    "name": ""
+  },
+  {
+    "symbol": "ACES",
+    "name": ""
+  },
+  {
+    "symbol": "ACRO",
+    "name": ""
+  },
+  {
+    "symbol": "ACST",
+    "name": ""
+  },
+  {
+    "symbol": "ADCP",
+    "name": ""
+  },
+  {
+    "symbol": "ADES",
+    "name": ""
+  },
+  {
+    "symbol": "ADHI",
+    "name": ""
+  },
+  {
+    "symbol": "ADMF",
+    "name": ""
+  },
+  {
+    "symbol": "ADMR",
+    "name": ""
+  },
+  {
+    "symbol": "ADRO",
+    "name": ""
+  },
+  {
+    "symbol": "AGII",
+    "name": ""
+  },
+  {
+    "symbol": "AGRS",
+    "name": ""
+  },
+  {
+    "symbol": "AISA",
+    "name": ""
+  },
+  {
+    "symbol": "AKRA",
+    "name": ""
+  },
+  {
+    "symbol": "AKSI",
+    "name": ""
+  },
+  {
+    "symbol": "ALDO",
+    "name": ""
+  },
+  {
+    "symbol": "ALKA",
+    "name": ""
+  },
+  {
+    "symbol": "ALMI",
+    "name": ""
+  },
+  {
+    "symbol": "AMAG",
+    "name": ""
+  },
+  {
+    "symbol": "AMAN",
+    "name": ""
+  },
+  {
+    "symbol": "AMAR",
+    "name": ""
+  },
+  {
+    "symbol": "AMFG",
+    "name": ""
+  },
+  {
+    "symbol": "AMMN",
+    "name": ""
+  },
+  {
+    "symbol": "AMRT",
+    "name": ""
+  },
+  {
+    "symbol": "ANJT",
+    "name": ""
+  },
+  {
+    "symbol": "ANTM",
+    "name": ""
+  },
+  {
+    "symbol": "APIC",
+    "name": ""
+  },
+  {
+    "symbol": "APLN",
+    "name": ""
+  },
+  {
+    "symbol": "ARCI",
+    "name": ""
+  },
+  {
+    "symbol": "AREA",
+    "name": ""
+  },
+  {
+    "symbol": "ARII",
+    "name": ""
+  },
+  {
+    "symbol": "ARNA",
+    "name": ""
+  },
+  {
+    "symbol": "ASGR",
+    "name": ""
+  },
+  {
+    "symbol": "ASII",
+    "name": ""
+  },
+  {
+    "symbol": "ASJT",
+    "name": ""
+  },
+  {
+    "symbol": "ASLC",
+    "name": ""
+  },
+  {
+    "symbol": "ASMI",
+    "name": ""
+  },
+  {
+    "symbol": "ASRI",
+    "name": ""
+  },
+  {
+    "symbol": "ASRM",
+    "name": ""
+  },
+  {
+    "symbol": "ASSA",
+    "name": ""
+  },
+  {
+    "symbol": "AUTO",
+    "name": ""
+  },
+  {
+    "symbol": "AVIA",
+    "name": ""
+  },
+  {
+    "symbol": "BABP",
+    "name": ""
+  },
+  {
+    "symbol": "BACA",
+    "name": ""
+  },
+  {
+    "symbol": "BAJA",
+    "name": ""
+  },
+  {
+    "symbol": "BALI",
+    "name": ""
+  },
+  {
+    "symbol": "BANK",
+    "name": ""
+  },
+  {
+    "symbol": "BAPA",
+    "name": ""
+  },
+  {
+    "symbol": "BAPI",
+    "name": ""
+  },
+  {
+    "symbol": "BATA",
+    "name": ""
+  },
+  {
+    "symbol": "BAYU",
+    "name": ""
+  },
+  {
+    "symbol": "BBCA",
+    "name": ""
+  },
+  {
+    "symbol": "BBHI",
+    "name": ""
+  },
+  {
+    "symbol": "BBKP",
+    "name": ""
+  },
+  {
+    "symbol": "BBNI",
+    "name": ""
+  },
+  {
+    "symbol": "BBRI",
+    "name": ""
+  },
+  {
+    "symbol": "BBSI",
+    "name": ""
+  },
+  {
+    "symbol": "BBYB",
+    "name": ""
+  },
+  {
+    "symbol": "BCAP",
+    "name": ""
+  },
+  {
+    "symbol": "BCIC",
+    "name": ""
+  },
+  {
+    "symbol": "BDMN",
+    "name": ""
+  },
+  {
+    "symbol": "BEBS",
+    "name": ""
+  },
+  {
+    "symbol": "BEEF",
+    "name": ""
+  },
+  {
+    "symbol": "BEER",
+    "name": ""
+  },
+  {
+    "symbol": "BELI",
+    "name": ""
+  },
+  {
+    "symbol": "BELL",
+    "name": ""
+  },
+  {
+    "symbol": "BESS",
+    "name": ""
+  },
+  {
+    "symbol": "BEST",
+    "name": ""
+  },
+  {
+    "symbol": "BFIN",
+    "name": ""
+  },
+  {
+    "symbol": "BGTG",
+    "name": ""
+  },
+  {
+    "symbol": "BHAT",
+    "name": ""
+  },
+  {
+    "symbol": "BHIT",
+    "name": ""
+  },
+  {
+    "symbol": "BIPI",
+    "name": ""
+  },
+  {
+    "symbol": "BIRD",
+    "name": ""
+  },
+  {
+    "symbol": "BISI",
+    "name": ""
+  },
+  {
+    "symbol": "BJBR",
+    "name": ""
+  },
+  {
+    "symbol": "BJTM",
+    "name": ""
+  },
+  {
+    "symbol": "BKDP",
+    "name": ""
+  },
+  {
+    "symbol": "BKSL",
+    "name": ""
+  },
+  {
+    "symbol": "BKSW",
+    "name": ""
+  },
+  {
+    "symbol": "BLUE",
+    "name": ""
+  },
+  {
+    "symbol": "BMAS",
+    "name": ""
+  },
+  {
+    "symbol": "BMHS",
+    "name": ""
+  },
+  {
+    "symbol": "BMRI",
+    "name": ""
+  },
+  {
+    "symbol": "BMTR",
+    "name": ""
+  },
+  {
+    "symbol": "BNBA",
+    "name": ""
+  },
+  {
+    "symbol": "BNBR",
+    "name": ""
+  },
+  {
+    "symbol": "BNGA",
+    "name": ""
+  },
+  {
+    "symbol": "BNII",
+    "name": ""
+  },
+  {
+    "symbol": "BNLI",
+    "name": ""
+  },
+  {
+    "symbol": "BOGA",
+    "name": ""
+  },
+  {
+    "symbol": "BOLA",
+    "name": ""
+  },
+  {
+    "symbol": "BOSS",
+    "name": ""
+  },
+  {
+    "symbol": "BRAM",
+    "name": ""
+  },
+  {
+    "symbol": "BRIS",
+    "name": ""
+  },
+  {
+    "symbol": "BRMS",
+    "name": ""
+  },
+  {
+    "symbol": "BRPT",
+    "name": ""
+  },
+  {
+    "symbol": "BSDE",
+    "name": ""
+  },
+  {
+    "symbol": "BSSR",
+    "name": ""
+  },
+  {
+    "symbol": "BTON",
+    "name": ""
+  },
+  {
+    "symbol": "BTPS",
+    "name": ""
+  },
+  {
+    "symbol": "BUDI",
+    "name": ""
+  },
+  {
+    "symbol": "BUKA",
+    "name": ""
+  },
+  {
+    "symbol": "BULL",
+    "name": ""
+  },
+  {
+    "symbol": "BUMI",
+    "name": ""
+  },
+  {
+    "symbol": "BUVA",
+    "name": ""
+  },
+  {
+    "symbol": "BVIC",
+    "name": ""
+  },
+  {
+    "symbol": "BWPT",
+    "name": ""
+  },
+  {
+    "symbol": "BYAN",
+    "name": ""
+  },
+  {
+    "symbol": "CAKK",
+    "name": ""
+  },
+  {
+    "symbol": "CAMP",
+    "name": ""
+  },
+  {
+    "symbol": "CARE",
+    "name": ""
+  },
+  {
+    "symbol": "CARS",
+    "name": ""
+  },
+  {
+    "symbol": "CASA",
+    "name": ""
+  },
+  {
+    "symbol": "CASH",
+    "name": ""
+  },
+  {
+    "symbol": "CASS",
+    "name": ""
+  },
+  {
+    "symbol": "CCSI",
+    "name": ""
+  },
+  {
+    "symbol": "CEKA",
+    "name": ""
+  },
+  {
+    "symbol": "CENT",
+    "name": ""
+  },
+  {
+    "symbol": "CFIN",
+    "name": ""
+  },
+  {
+    "symbol": "CINT",
+    "name": ""
+  },
+  {
+    "symbol": "CLEO",
+    "name": ""
+  },
+  {
+    "symbol": "CLPI",
+    "name": ""
+  },
+  {
+    "symbol": "CMNP",
+    "name": ""
+  },
+  {
+    "symbol": "CMRY",
+    "name": ""
+  },
+  {
+    "symbol": "CNMA",
+    "name": ""
+  },
+  {
+    "symbol": "CPRO",
+    "name": ""
+  },
+  {
+    "symbol": "CSAP",
+    "name": ""
+  },
+  {
+    "symbol": "CSIS",
+    "name": ""
+  },
+  {
+    "symbol": "CSRA",
+    "name": ""
+  },
+  {
+    "symbol": "CTRA",
+    "name": ""
+  },
+  {
+    "symbol": "CUAN",
+    "name": ""
+  },
+  {
+    "symbol": "DADA",
+    "name": ""
+  },
+  {
+    "symbol": "DATA",
+    "name": ""
+  },
+  {
+    "symbol": "DCII",
+    "name": ""
+  },
+  {
+    "symbol": "DEPO",
+    "name": ""
+  },
+  {
+    "symbol": "DEWA",
+    "name": ""
+  },
+  {
+    "symbol": "DGIK",
+    "name": ""
+  },
+  {
+    "symbol": "DILD",
+    "name": ""
+  },
+  {
+    "symbol": "DIVA",
+    "name": ""
+  },
+  {
+    "symbol": "DKFT",
+    "name": ""
+  },
+  {
+    "symbol": "DMAS",
+    "name": ""
+  },
+  {
+    "symbol": "DMMX",
+    "name": ""
+  },
+  {
+    "symbol": "DNAR",
+    "name": ""
+  },
+  {
+    "symbol": "DOID",
+    "name": ""
+  },
+  {
+    "symbol": "DPNS",
+    "name": ""
+  },
+  {
+    "symbol": "DSFI",
+    "name": ""
+  },
+  {
+    "symbol": "DSNG",
+    "name": ""
+  },
+  {
+    "symbol": "DSSA",
+    "name": ""
+  },
+  {
+    "symbol": "DUTI",
+    "name": ""
+  },
+  {
+    "symbol": "DVLA",
+    "name": ""
+  },
+  {
+    "symbol": "EAST",
+    "name": ""
+  },
+  {
+    "symbol": "ECII",
+    "name": ""
+  },
+  {
+    "symbol": "ELSA",
+    "name": ""
+  },
+  {
+    "symbol": "ELTY",
+    "name": ""
+  },
+  {
+    "symbol": "EMDE",
+    "name": ""
+  },
+  {
+    "symbol": "EMTK",
+    "name": ""
+  },
+  {
+    "symbol": "ENAK",
+    "name": ""
+  },
+  {
+    "symbol": "ENRG",
+    "name": ""
+  },
+  {
+    "symbol": "ERAA",
+    "name": ""
+  },
+  {
+    "symbol": "ESSA",
+    "name": ""
+  },
+  {
+    "symbol": "EXCL",
+    "name": ""
+  },
+  {
+    "symbol": "FAST",
+    "name": ""
+  },
+  {
+    "symbol": "FILM",
+    "name": ""
+  },
+  {
+    "symbol": "FIRE",
+    "name": ""
+  },
+  {
+    "symbol": "FISH",
+    "name": ""
+  },
+  {
+    "symbol": "FITT",
+    "name": ""
+  },
+  {
+    "symbol": "FOOD",
+    "name": ""
+  },
+  {
+    "symbol": "FORU",
+    "name": ""
+  },
+  {
+    "symbol": "FPNI",
+    "name": ""
+  },
+  {
+    "symbol": "FREN",
+    "name": ""
+  },
+  {
+    "symbol": "GDST",
+    "name": ""
+  },
+  {
+    "symbol": "GDYR",
+    "name": ""
+  },
+  {
+    "symbol": "GEMA",
+    "name": ""
+  },
+  {
+    "symbol": "GEMS",
+    "name": ""
+  },
+  {
+    "symbol": "GGRM",
+    "name": ""
+  },
+  {
+    "symbol": "GIAA",
+    "name": ""
+  },
+  {
+    "symbol": "GJTL",
+    "name": ""
+  },
+  {
+    "symbol": "GLOB",
+    "name": ""
+  },
+  {
+    "symbol": "GMTD",
+    "name": ""
+  },
+  {
+    "symbol": "GOLD",
+    "name": ""
+  },
+  {
+    "symbol": "GOTO",
+    "name": ""
+  },
+  {
+    "symbol": "GPRA",
+    "name": ""
+  },
+  {
+    "symbol": "GPSO",
+    "name": ""
+  },
+  {
+    "symbol": "GTSI",
+    "name": ""
+  },
+  {
+    "symbol": "HAIS",
+    "name": ""
+  },
+  {
+    "symbol": "HATM",
+    "name": ""
+  },
+  {
+    "symbol": "HDIT",
+    "name": ""
+  },
+  {
+    "symbol": "HERA",
+    "name": ""
+  },
+  {
+    "symbol": "HEXA",
+    "name": ""
+  },
+  {
+    "symbol": "HMSP",
+    "name": ""
+  },
+  {
+    "symbol": "HOKI",
+    "name": ""
+  },
+  {
+    "symbol": "HOME",
+    "name": ""
+  },
+  {
+    "symbol": "HRTA",
+    "name": ""
+  },
+  {
+    "symbol": "HRUM",
+    "name": ""
+  },
+  {
+    "symbol": "IATA",
+    "name": ""
+  },
+  {
+    "symbol": "IBST",
+    "name": ""
+  },
+  {
+    "symbol": "ICBP",
+    "name": ""
+  },
+  {
+    "symbol": "IFII",
+    "name": ""
+  },
+  {
+    "symbol": "IFISH",
+    "name": ""
+  },
+  {
+    "symbol": "IGAR",
+    "name": ""
+  },
+  {
+    "symbol": "IIKP",
+    "name": ""
+  },
+  {
+    "symbol": "IKAI",
+    "name": ""
+  },
+  {
+    "symbol": "IKBI",
+    "name": ""
+  },
+  {
+    "symbol": "IMAS",
+    "name": ""
+  },
+  {
+    "symbol": "IMJS",
+    "name": ""
+  },
+  {
+    "symbol": "IMPC",
+    "name": ""
+  },
+  {
+    "symbol": "INAF",
+    "name": ""
+  },
+  {
+    "symbol": "INAI",
+    "name": ""
+  },
+  {
+    "symbol": "INCO",
+    "name": ""
+  },
+  {
+    "symbol": "INDF",
+    "name": ""
+  },
+  {
+    "symbol": "INDR",
+    "name": ""
+  },
+  {
+    "symbol": "INDY",
+    "name": ""
+  },
+  {
+    "symbol": "INKP",
+    "name": ""
+  },
+  {
+    "symbol": "INPP",
+    "name": ""
+  },
+  {
+    "symbol": "INTP",
+    "name": ""
+  },
+  {
+    "symbol": "IPCC",
+    "name": ""
+  },
+  {
+    "symbol": "IPCM",
+    "name": ""
+  },
+  {
+    "symbol": "IPOL",
+    "name": ""
+  },
+  {
+    "symbol": "IPTV",
+    "name": ""
+  },
+  {
+    "symbol": "IRRA",
+    "name": ""
+  },
+  {
+    "symbol": "ISAT",
+    "name": ""
+  },
+  {
+    "symbol": "ISSP",
+    "name": ""
+  },
+  {
+    "symbol": "ITMG",
+    "name": ""
+  },
+  {
+    "symbol": "JARR",
+    "name": ""
+  },
+  {
+    "symbol": "JAST",
+    "name": ""
+  },
+  {
+    "symbol": "JAWA",
+    "name": ""
+  },
+  {
+    "symbol": "JIHD",
+    "name": ""
+  },
+  {
+    "symbol": "JKON",
+    "name": ""
+  },
+  {
+    "symbol": "JPFA",
+    "name": ""
+  },
+  {
+    "symbol": "JRPT",
+    "name": ""
+  },
+  {
+    "symbol": "JSMR",
+    "name": ""
+  },
+  {
+    "symbol": "JTPE",
+    "name": ""
+  },
+  {
+    "symbol": "KAEF",
+    "name": ""
+  },
+  {
+    "symbol": "KBAG",
+    "name": ""
+  },
+  {
+    "symbol": "KBLI",
+    "name": ""
+  },
+  {
+    "symbol": "KBLM",
+    "name": ""
+  },
+  {
+    "symbol": "KBRI",
+    "name": ""
+  },
+  {
+    "symbol": "KEEN",
+    "name": ""
+  },
+  {
+    "symbol": "KIAS",
+    "name": ""
+  },
+  {
+    "symbol": "KICI",
+    "name": ""
+  },
+  {
+    "symbol": "KIJA",
+    "name": ""
+  },
+  {
+    "symbol": "KINO",
+    "name": ""
+  },
+  {
+    "symbol": "KIOS",
+    "name": ""
+  },
+  {
+    "symbol": "KKGI",
+    "name": ""
+  },
+  {
+    "symbol": "KLBF",
+    "name": ""
+  },
+  {
+    "symbol": "KMTR",
+    "name": ""
+  },
+  {
+    "symbol": "KOIN",
+    "name": ""
+  },
+  {
+    "symbol": "KOJA",
+    "name": ""
+  },
+  {
+    "symbol": "KPIG",
+    "name": ""
+  },
+  {
+    "symbol": "KRAS",
+    "name": ""
+  },
+  {
+    "symbol": "LAPD",
+    "name": ""
+  },
+  {
+    "symbol": "LIFE",
+    "name": ""
+  },
+  {
+    "symbol": "LINK",
+    "name": ""
+  },
+  {
+    "symbol": "LION",
+    "name": ""
+  },
+  {
+    "symbol": "LMAS",
+    "name": ""
+  },
+  {
+    "symbol": "LPCK",
+    "name": ""
+  },
+  {
+    "symbol": "LPGI",
+    "name": ""
+  },
+  {
+    "symbol": "LPKR",
+    "name": ""
+  },
+  {
+    "symbol": "LPPF",
+    "name": ""
+  },
+  {
+    "symbol": "LSIP",
+    "name": ""
+  },
+  {
+    "symbol": "LTLS",
+    "name": ""
+  },
+  {
+    "symbol": "LUCK",
+    "name": ""
+  },
+  {
+    "symbol": "MAPI",
+    "name": ""
+  },
+  {
+    "symbol": "MARK",
+    "name": ""
+  },
+  {
+    "symbol": "MASA",
+    "name": ""
+  },
+  {
+    "symbol": "MAYA",
+    "name": ""
+  },
+  {
+    "symbol": "MBAP",
+    "name": ""
+  },
+  {
+    "symbol": "MBMA",
+    "name": ""
+  },
+  {
+    "symbol": "MBSS",
+    "name": ""
+  },
+  {
+    "symbol": "MCAS",
+    "name": ""
+  },
+  {
+    "symbol": "MCOL",
+    "name": ""
+  },
+  {
+    "symbol": "MDKA",
+    "name": ""
+  },
+  {
+    "symbol": "MEDC",
+    "name": ""
+  },
+  {
+    "symbol": "MEGA",
+    "name": ""
+  },
+  {
+    "symbol": "MERK",
+    "name": ""
+  },
+  {
+    "symbol": "META",
+    "name": ""
+  },
+  {
+    "symbol": "MFIN",
+    "name": ""
+  },
+  {
+    "symbol": "MICE",
+    "name": ""
+  },
+  {
+    "symbol": "MIDI",
+    "name": ""
+  },
+  {
+    "symbol": "MIKA",
+    "name": ""
+  },
+  {
+    "symbol": "MINA",
+    "name": ""
+  },
+  {
+    "symbol": "MIRA",
+    "name": ""
+  },
+  {
+    "symbol": "MITI",
+    "name": ""
+  },
+  {
+    "symbol": "MKPI",
+    "name": ""
+  },
+  {
+    "symbol": "MLBI",
+    "name": ""
+  },
+  {
+    "symbol": "MLIA",
+    "name": ""
+  },
+  {
+    "symbol": "MLPL",
+    "name": ""
+  },
+  {
+    "symbol": "MLPT",
+    "name": ""
+  },
+  {
+    "symbol": "MMLP",
+    "name": ""
+  },
+  {
+    "symbol": "MNCN",
+    "name": ""
+  },
+  {
+    "symbol": "MPOW",
+    "name": ""
+  },
+  {
+    "symbol": "MPPA",
+    "name": ""
+  },
+  {
+    "symbol": "MSIN",
+    "name": ""
+  },
+  {
+    "symbol": "MTEL",
+    "name": ""
+  },
+  {
+    "symbol": "MTLA",
+    "name": ""
+  },
+  {
+    "symbol": "MYOR",
+    "name": ""
+  },
+  {
+    "symbol": "MYRX",
+    "name": ""
+  },
+  {
+    "symbol": "NASA",
+    "name": ""
+  },
+  {
+    "symbol": "NFCX",
+    "name": ""
+  },
+  {
+    "symbol": "NICK",
+    "name": ""
+  },
+  {
+    "symbol": "NICL",
+    "name": ""
+  },
+  {
+    "symbol": "NISP",
+    "name": ""
+  },
+  {
+    "symbol": "NOBU",
+    "name": ""
+  },
+  {
+    "symbol": "NRCA",
+    "name": ""
+  },
+  {
+    "symbol": "NUSA",
+    "name": ""
+  },
+  {
+    "symbol": "OILS",
+    "name": ""
+  },
+  {
+    "symbol": "OKAS",
+    "name": ""
+  },
+  {
+    "symbol": "OMRE",
+    "name": ""
+  },
+  {
+    "symbol": "PADA",
+    "name": ""
+  },
+  {
+    "symbol": "PANI",
+    "name": ""
+  },
+  {
+    "symbol": "PANR",
+    "name": ""
+  },
+  {
+    "symbol": "PANS",
+    "name": ""
+  },
+  {
+    "symbol": "PBID",
+    "name": ""
+  },
+  {
+    "symbol": "PEHA",
+    "name": ""
+  },
+  {
+    "symbol": "PGAS",
+    "name": ""
+  },
+  {
+    "symbol": "PGLI",
+    "name": ""
+  },
+  {
+    "symbol": "PGUN",
+    "name": ""
+  },
+  {
+    "symbol": "PJAA",
+    "name": ""
+  },
+  {
+    "symbol": "PNBN",
+    "name": ""
+  },
+  {
+    "symbol": "PNBS",
+    "name": ""
+  },
+  {
+    "symbol": "PNIN",
+    "name": ""
+  },
+  {
+    "symbol": "PNLF",
+    "name": ""
+  },
+  {
+    "symbol": "PNSE",
+    "name": ""
+  },
+  {
+    "symbol": "POLA",
+    "name": ""
+  },
+  {
+    "symbol": "POLL",
+    "name": ""
+  },
+  {
+    "symbol": "POLU",
+    "name": ""
+  },
+  {
+    "symbol": "POWR",
+    "name": ""
+  },
+  {
+    "symbol": "PPRE",
+    "name": ""
+  },
+  {
+    "symbol": "PRDA",
+    "name": ""
+  },
+  {
+    "symbol": "PSAB",
+    "name": ""
+  },
+  {
+    "symbol": "PSKT",
+    "name": ""
+  },
+  {
+    "symbol": "PSSI",
+    "name": ""
+  },
+  {
+    "symbol": "PTBA",
+    "name": ""
+  },
+  {
+    "symbol": "PTIS",
+    "name": ""
+  },
+  {
+    "symbol": "PTPP",
+    "name": ""
+  },
+  {
+    "symbol": "PYFA",
+    "name": ""
+  },
+  {
+    "symbol": "RAAM",
+    "name": ""
+  },
+  {
+    "symbol": "RAJA",
+    "name": ""
+  },
+  {
+    "symbol": "RALS",
+    "name": ""
+  },
+  {
+    "symbol": "RANC",
+    "name": ""
+  },
+  {
+    "symbol": "RBMS",
+    "name": ""
+  },
+  {
+    "symbol": "RDTX",
+    "name": ""
+  },
+  {
+    "symbol": "RICY",
+    "name": ""
+  },
+  {
+    "symbol": "RIGS",
+    "name": ""
+  },
+  {
+    "symbol": "RMKE",
+    "name": ""
+  },
+  {
+    "symbol": "RMKO",
+    "name": ""
+  },
+  {
+    "symbol": "RODA",
+    "name": ""
+  },
+  {
+    "symbol": "ROTI",
+    "name": ""
+  },
+  {
+    "symbol": "RUIS",
+    "name": ""
+  },
+  {
+    "symbol": "SAME",
+    "name": ""
+  },
+  {
+    "symbol": "SAPX",
+    "name": ""
+  },
+  {
+    "symbol": "SATU",
+    "name": ""
+  },
+  {
+    "symbol": "SBAT",
+    "name": ""
+  },
+  {
+    "symbol": "SCCO",
+    "name": ""
+  },
+  {
+    "symbol": "SCMA",
+    "name": ""
+  },
+  {
+    "symbol": "SDMU",
+    "name": ""
+  },
+  {
+    "symbol": "SDPC",
+    "name": ""
+  },
+  {
+    "symbol": "SDRA",
+    "name": ""
+  },
+  {
+    "symbol": "SGRO",
+    "name": ""
+  },
+  {
+    "symbol": "SHIP",
+    "name": ""
+  },
+  {
+    "symbol": "SIDO",
+    "name": ""
+  },
+  {
+    "symbol": "SILO",
+    "name": ""
+  },
+  {
+    "symbol": "SIMP",
+    "name": ""
+  },
+  {
+    "symbol": "SKBM",
+    "name": ""
+  },
+  {
+    "symbol": "SKLT",
+    "name": ""
+  },
+  {
+    "symbol": "SMAR",
+    "name": ""
+  },
+  {
+    "symbol": "SMBR",
+    "name": ""
+  },
+  {
+    "symbol": "SMCB",
+    "name": ""
+  },
+  {
+    "symbol": "SMDM",
+    "name": ""
+  },
+  {
+    "symbol": "SMDR",
+    "name": ""
+  },
+  {
+    "symbol": "SMGR",
+    "name": ""
+  },
+  {
+    "symbol": "SMMA",
+    "name": ""
+  },
+  {
+    "symbol": "SMMT",
+    "name": ""
+  },
+  {
+    "symbol": "SMRA",
+    "name": ""
+  },
+  {
+    "symbol": "SMSM",
+    "name": ""
+  },
+  {
+    "symbol": "SOCI",
+    "name": ""
+  },
+  {
+    "symbol": "SOHO",
+    "name": ""
+  },
+  {
+    "symbol": "SONA",
+    "name": ""
+  },
+  {
+    "symbol": "SOSS",
+    "name": ""
+  },
+  {
+    "symbol": "SPMA",
+    "name": ""
+  },
+  {
+    "symbol": "SRAJ",
+    "name": ""
+  },
+  {
+    "symbol": "SRTG",
+    "name": ""
+  },
+  {
+    "symbol": "SSIA",
+    "name": ""
+  },
+  {
+    "symbol": "SSMS",
+    "name": ""
+  },
+  {
+    "symbol": "STAA",
+    "name": ""
+  },
+  {
+    "symbol": "SULI",
+    "name": ""
+  },
+  {
+    "symbol": "SUPR",
+    "name": ""
+  },
+  {
+    "symbol": "SURE",
+    "name": ""
+  },
+  {
+    "symbol": "TAMU",
+    "name": ""
+  },
+  {
+    "symbol": "TAPG",
+    "name": ""
+  },
+  {
+    "symbol": "TAXI",
+    "name": ""
+  },
+  {
+    "symbol": "TBIG",
+    "name": ""
+  },
+  {
+    "symbol": "TBLA",
+    "name": ""
+  },
+  {
+    "symbol": "TCID",
+    "name": ""
+  },
+  {
+    "symbol": "TEBE",
+    "name": ""
+  },
+  {
+    "symbol": "TFAS",
+    "name": ""
+  },
+  {
+    "symbol": "TGKA",
+    "name": ""
+  },
+  {
+    "symbol": "TINS",
+    "name": ""
+  },
+  {
+    "symbol": "TKIM",
+    "name": ""
+  },
+  {
+    "symbol": "TLKM",
+    "name": ""
+  },
+  {
+    "symbol": "TMAS",
+    "name": ""
+  },
+  {
+    "symbol": "TOBA",
+    "name": ""
+  },
+  {
+    "symbol": "TOTL",
+    "name": ""
+  },
+  {
+    "symbol": "TOTO",
+    "name": ""
+  },
+  {
+    "symbol": "TOWR",
+    "name": ""
+  },
+  {
+    "symbol": "TPMA",
+    "name": ""
+  },
+  {
+    "symbol": "TRAM",
+    "name": ""
+  },
+  {
+    "symbol": "TRIL",
+    "name": ""
+  },
+  {
+    "symbol": "TRIM",
+    "name": ""
+  },
+  {
+    "symbol": "TRIN",
+    "name": ""
+  },
+  {
+    "symbol": "TRIS",
+    "name": ""
+  },
+  {
+    "symbol": "TSPC",
+    "name": ""
+  },
+  {
+    "symbol": "TUGU",
+    "name": ""
+  },
+  {
+    "symbol": "TURI",
+    "name": ""
+  },
+  {
+    "symbol": "UANG",
+    "name": ""
+  },
+  {
+    "symbol": "ULTJ",
+    "name": ""
+  },
+  {
+    "symbol": "UNIC",
+    "name": ""
+  },
+  {
+    "symbol": "UNTR",
+    "name": ""
+  },
+  {
+    "symbol": "UNVR",
+    "name": ""
+  },
+  {
+    "symbol": "VICO",
+    "name": ""
+  },
+  {
+    "symbol": "VINS",
+    "name": ""
+  },
+  {
+    "symbol": "VIVA",
+    "name": ""
+  },
+  {
+    "symbol": "VKTR",
+    "name": ""
+  },
+  {
+    "symbol": "WEGE",
+    "name": ""
+  },
+  {
+    "symbol": "WEHA",
+    "name": ""
+  },
+  {
+    "symbol": "WIFI",
+    "name": ""
+  },
+  {
+    "symbol": "WIIM",
+    "name": ""
+  },
+  {
+    "symbol": "WIKA",
+    "name": ""
+  },
+  {
+    "symbol": "WINS",
+    "name": ""
+  },
+  {
+    "symbol": "WIRG",
+    "name": ""
+  },
+  {
+    "symbol": "WMPP",
+    "name": ""
+  },
+  {
+    "symbol": "WOOD",
+    "name": ""
+  },
+  {
+    "symbol": "WSBP",
+    "name": ""
+  },
+  {
+    "symbol": "WSKT",
+    "name": ""
+  },
+  {
+    "symbol": "WTON",
+    "name": ""
+  },
+  {
+    "symbol": "YELO",
+    "name": ""
+  },
+  {
+    "symbol": "ZATA",
+    "name": ""
+  },
+  {
+    "symbol": "ZBRA",
+    "name": ""
+  },
+  {
+    "symbol": "ZINC",
+    "name": ""
+  },
+  {
+    "symbol": "ZYRX",
+    "name": ""
+  }
+]

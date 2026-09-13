@@ -14,6 +14,7 @@ import ScreenerView from "@/components/screener/ScreenerView";
 import PortfolioView from "@/components/portfolio/PortfolioView";
 import BacktestView from "@/components/backtest/BacktestView";
 import AIAnalystView from "@/components/ai/AIAnalystView";
+import SectorPerformance from "@/components/market/SectorPerformance";
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState<TabType>("Market");
@@ -45,6 +46,9 @@ export default function Home() {
               <MarketActivity />
               <MarketInsight />
             </div>
+
+            {/* Sector Performance */}
+            <SectorPerformance />
           </div>
         )}
 

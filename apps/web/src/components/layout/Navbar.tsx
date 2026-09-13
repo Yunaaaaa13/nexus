@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export type TabType =
   | "Market"
@@ -10,29 +12,48 @@ export type TabType =
   | "Backtest"
   | "AI Analyst";
 
-interface NavbarProps {
-  activeTab: TabType;
-  onSelectTab: (tab: TabType) => void;
+interface NavItem {
+  name: TabType;
+  href: string;
 }
 
-const NAV_ITEMS: TabType[] = [
-  "Market",
-  "Stocks",
-  "Screener",
-  "Portfolio",
-  "Backtest",
-  "AI Analyst",
+const NAV_ITEMS: NavItem[] = [
+  { name: "Market", href: "/" },
+  { name: "Stocks", href: "/stocks" },
+  { name: "Screener", href: "/screener" },
+  { name: "Portfolio", href: "/portfolio" },
+  { name: "Backtest", href: "/backtest" },
+  { name: "AI Analyst", href: "/ai-analyst" },
 ];
+
+interface NavbarProps {
+  activeTab?: TabType;
+  onSelectTab?: (tab: TabType) => void;
+}
 
 export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const pathname = usePathname();
+
+  const getEffectiveTab = (): TabType => {
+    if (pathname === "/") return "Market";
+    if (pathname.startsWith("/stocks")) return "Stocks";
+    if (pathname.startsWith("/screener")) return "Screener";
+    if (pathname.startsWith("/portfolio")) return "Portfolio";
+    if (pathname.startsWith("/backtest")) return "Backtest";
+    if (pathname.startsWith("/ai-analyst")) return "AI Analyst";
+    return activeTab || "Market";
+  };
+
+  const currentTab = getEffectiveTab();
 
   return (
     <nav className="sticky top-0 z-50 border-b border-white/[0.06] bg-zinc-950/80 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6">
         {/* Logo */}
-        <button
-          onClick={() => onSelectTab("Market")}
+        <Link
+          href="/"
+          onClick={() => onSelectTab?.("Market")}
           className="flex items-center gap-3 text-left focus:outline-none cursor-pointer"
         >
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-white text-sm font-black text-black">
@@ -44,42 +65,44 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
               MARKET INTELLIGENCE
             </div>
           </div>
-        </button>
+        </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden items-center gap-1 md:flex">
-          {NAV_ITEMS.map((tab) => {
-            const isActive = activeTab === tab;
-            const isAI = tab === "AI Analyst";
+          {NAV_ITEMS.map((item) => {
+            const isActive = currentTab === item.name;
+            const isAI = item.name === "AI Analyst";
 
             if (isAI) {
               return (
-                <button
-                  key={tab}
-                  onClick={() => onSelectTab(tab)}
+                <Link
+                  key={item.name}
+                  href={item.href}
+                  onClick={() => onSelectTab?.(item.name)}
                   className={`ml-2 rounded-lg px-4 py-2 text-sm font-medium transition cursor-pointer ${
                     isActive
                       ? "border border-indigo-400/60 bg-indigo-500/20 text-indigo-200 shadow-sm shadow-indigo-500/20"
                       : "border border-white/[0.08] text-zinc-400 hover:border-white/[0.15] hover:text-white"
                   }`}
                 >
-                  {tab}
-                </button>
+                  {item.name}
+                </Link>
               );
             }
 
             return (
-              <button
-                key={tab}
-                onClick={() => onSelectTab(tab)}
+              <Link
+                key={item.name}
+                href={item.href}
+                onClick={() => onSelectTab?.(item.name)}
                 className={`rounded-lg px-4 py-2 text-sm font-medium transition cursor-pointer ${
                   isActive
                     ? "bg-white/[0.08] text-white border border-white/[0.08] shadow-sm"
                     : "text-zinc-400 hover:bg-white/[0.04] hover:text-white"
                 }`}
               >
-                {tab}
-              </button>
+                {item.name}
+              </Link>
             );
           })}
         </div>
@@ -127,21 +150,22 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
       {mobileMenuOpen && (
         <div className="border-b border-white/[0.06] bg-zinc-950 px-6 py-4 md:hidden">
           <div className="flex flex-col gap-1">
-            {NAV_ITEMS.map((tab) => (
-              <button
-                key={tab}
+            {NAV_ITEMS.map((item) => (
+              <Link
+                key={item.name}
+                href={item.href}
                 onClick={() => {
-                  onSelectTab(tab);
+                  onSelectTab?.(item.name);
                   setMobileMenuOpen(false);
                 }}
                 className={`rounded-lg px-4 py-2.5 text-left text-sm font-medium transition cursor-pointer ${
-                  activeTab === tab
+                  currentTab === item.name
                     ? "bg-white/[0.08] text-white"
                     : "text-zinc-400 hover:bg-white/[0.04] hover:text-white"
                 }`}
               >
-                {tab}
-              </button>
+                {item.name}
+              </Link>
             ))}
           </div>
         </div>

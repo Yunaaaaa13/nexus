@@ -1,0 +1,5918 @@
+[
+  {
+    "symbol": "AADI",
+    "yahoo_symbol": "AADI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AALI",
+    "yahoo_symbol": "AALI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ABBA",
+    "yahoo_symbol": "ABBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ABDA",
+    "yahoo_symbol": "ABDA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ABMM",
+    "yahoo_symbol": "ABMM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ACES",
+    "yahoo_symbol": "ACES.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ACRO",
+    "yahoo_symbol": "ACRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ACST",
+    "yahoo_symbol": "ACST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADCP",
+    "yahoo_symbol": "ADCP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADES",
+    "yahoo_symbol": "ADES.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADHI",
+    "yahoo_symbol": "ADHI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADMF",
+    "yahoo_symbol": "ADMF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADMG",
+    "yahoo_symbol": "ADMG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADMR",
+    "yahoo_symbol": "ADMR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ADRO",
+    "yahoo_symbol": "ADRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AEGS",
+    "yahoo_symbol": "AEGS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AGAR",
+    "yahoo_symbol": "AGAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AGII",
+    "yahoo_symbol": "AGII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AGRO",
+    "yahoo_symbol": "AGRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AGRS",
+    "yahoo_symbol": "AGRS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AHAP",
+    "yahoo_symbol": "AHAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AIMS",
+    "yahoo_symbol": "AIMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AISA",
+    "yahoo_symbol": "AISA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AKKU",
+    "yahoo_symbol": "AKKU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AKPI",
+    "yahoo_symbol": "AKPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AKRA",
+    "yahoo_symbol": "AKRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AKSI",
+    "yahoo_symbol": "AKSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ALDO",
+    "yahoo_symbol": "ALDO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ALII",
+    "yahoo_symbol": "ALII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ALKA",
+    "yahoo_symbol": "ALKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ALMI",
+    "yahoo_symbol": "ALMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ALTO",
+    "yahoo_symbol": "ALTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMAG",
+    "yahoo_symbol": "AMAG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMAN",
+    "yahoo_symbol": "AMAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMAR",
+    "yahoo_symbol": "AMAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMFG",
+    "yahoo_symbol": "AMFG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMIN",
+    "yahoo_symbol": "AMIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMMN",
+    "yahoo_symbol": "AMMN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMMS",
+    "yahoo_symbol": "AMMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMOR",
+    "yahoo_symbol": "AMOR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AMRT",
+    "yahoo_symbol": "AMRT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ANDI",
+    "yahoo_symbol": "ANDI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ANJT",
+    "yahoo_symbol": "ANJT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ANTM",
+    "yahoo_symbol": "ANTM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APEX",
+    "yahoo_symbol": "APEX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APIC",
+    "yahoo_symbol": "APIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APII",
+    "yahoo_symbol": "APII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APLI",
+    "yahoo_symbol": "APLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APLN",
+    "yahoo_symbol": "APLN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "APOL",
+    "yahoo_symbol": "APOL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARCI",
+    "yahoo_symbol": "ARCI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AREA",
+    "yahoo_symbol": "AREA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARGO",
+    "yahoo_symbol": "ARGO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARII",
+    "yahoo_symbol": "ARII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARKA",
+    "yahoo_symbol": "ARKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARKO",
+    "yahoo_symbol": "ARKO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARMY",
+    "yahoo_symbol": "ARMY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARNA",
+    "yahoo_symbol": "ARNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARTA",
+    "yahoo_symbol": "ARTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARTI",
+    "yahoo_symbol": "ARTI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ARTO",
+    "yahoo_symbol": "ARTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASBI",
+    "yahoo_symbol": "ASBI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASDM",
+    "yahoo_symbol": "ASDM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASGR",
+    "yahoo_symbol": "ASGR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASHA",
+    "yahoo_symbol": "ASHA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASII",
+    "yahoo_symbol": "ASII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASJT",
+    "yahoo_symbol": "ASJT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASLC",
+    "yahoo_symbol": "ASLC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASLI",
+    "yahoo_symbol": "ASLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASMI",
+    "yahoo_symbol": "ASMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASPI",
+    "yahoo_symbol": "ASPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASPR",
+    "yahoo_symbol": "ASPR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASRI",
+    "yahoo_symbol": "ASRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASRM",
+    "yahoo_symbol": "ASRM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ASSA",
+    "yahoo_symbol": "ASSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ATAP",
+    "yahoo_symbol": "ATAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ATIC",
+    "yahoo_symbol": "ATIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ATLA",
+    "yahoo_symbol": "ATLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AUTO",
+    "yahoo_symbol": "AUTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AVIA",
+    "yahoo_symbol": "AVIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AWAN",
+    "yahoo_symbol": "AWAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AXIO",
+    "yahoo_symbol": "AXIO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AYAM",
+    "yahoo_symbol": "AYAM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "AYLS",
+    "yahoo_symbol": "AYLS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BABP",
+    "yahoo_symbol": "BABP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BABY",
+    "yahoo_symbol": "BABY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BACA",
+    "yahoo_symbol": "BACA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAIK",
+    "yahoo_symbol": "BAIK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAJA",
+    "yahoo_symbol": "BAJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BALI",
+    "yahoo_symbol": "BALI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BANK",
+    "yahoo_symbol": "BANK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAPA",
+    "yahoo_symbol": "BAPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAPI",
+    "yahoo_symbol": "BAPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BATA",
+    "yahoo_symbol": "BATA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BATR",
+    "yahoo_symbol": "BATR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAUT",
+    "yahoo_symbol": "BAUT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BAYU",
+    "yahoo_symbol": "BAYU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBCA",
+    "yahoo_symbol": "BBCA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBHI",
+    "yahoo_symbol": "BBHI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBKP",
+    "yahoo_symbol": "BBKP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBLD",
+    "yahoo_symbol": "BBLD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBMD",
+    "yahoo_symbol": "BBMD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBNI",
+    "yahoo_symbol": "BBNI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBRI",
+    "yahoo_symbol": "BBRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBRM",
+    "yahoo_symbol": "BBRM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBSI",
+    "yahoo_symbol": "BBSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBSS",
+    "yahoo_symbol": "BBSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBTN",
+    "yahoo_symbol": "BBTN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BBYB",
+    "yahoo_symbol": "BBYB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BCAP",
+    "yahoo_symbol": "BCAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BCIC",
+    "yahoo_symbol": "BCIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BCIP",
+    "yahoo_symbol": "BCIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BDKR",
+    "yahoo_symbol": "BDKR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BDMN",
+    "yahoo_symbol": "BDMN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BEBS",
+    "yahoo_symbol": "BEBS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BEEF",
+    "yahoo_symbol": "BEEF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BEER",
+    "yahoo_symbol": "BEER.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BEKS",
+    "yahoo_symbol": "BEKS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BELI",
+    "yahoo_symbol": "BELI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BELL",
+    "yahoo_symbol": "BELL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BESS",
+    "yahoo_symbol": "BESS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BEST",
+    "yahoo_symbol": "BEST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BFIN",
+    "yahoo_symbol": "BFIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BGTG",
+    "yahoo_symbol": "BGTG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BHAT",
+    "yahoo_symbol": "BHAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BHIT",
+    "yahoo_symbol": "BHIT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIKA",
+    "yahoo_symbol": "BIKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIKE",
+    "yahoo_symbol": "BIKE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIMA",
+    "yahoo_symbol": "BIMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BINA",
+    "yahoo_symbol": "BINA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BINO",
+    "yahoo_symbol": "BINO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIPI",
+    "yahoo_symbol": "BIPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIPP",
+    "yahoo_symbol": "BIPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BIRD",
+    "yahoo_symbol": "BIRD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BISI",
+    "yahoo_symbol": "BISI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BJBR",
+    "yahoo_symbol": "BJBR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BJTM",
+    "yahoo_symbol": "BJTM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BKDP",
+    "yahoo_symbol": "BKDP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BKSL",
+    "yahoo_symbol": "BKSL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BKSW",
+    "yahoo_symbol": "BKSW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BLES",
+    "yahoo_symbol": "BLES.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BLOG",
+    "yahoo_symbol": "BLOG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BLTA",
+    "yahoo_symbol": "BLTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BLTZ",
+    "yahoo_symbol": "BLTZ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BLUE",
+    "yahoo_symbol": "BLUE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMAS",
+    "yahoo_symbol": "BMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMBL",
+    "yahoo_symbol": "BMBL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMHS",
+    "yahoo_symbol": "BMHS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMRI",
+    "yahoo_symbol": "BMRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMSR",
+    "yahoo_symbol": "BMSR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BMTR",
+    "yahoo_symbol": "BMTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BNBA",
+    "yahoo_symbol": "BNBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BNBR",
+    "yahoo_symbol": "BNBR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BNGA",
+    "yahoo_symbol": "BNGA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BNII",
+    "yahoo_symbol": "BNII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BNLI",
+    "yahoo_symbol": "BNLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOAT",
+    "yahoo_symbol": "BOAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOBA",
+    "yahoo_symbol": "BOBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOGA",
+    "yahoo_symbol": "BOGA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOLA",
+    "yahoo_symbol": "BOLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOLT",
+    "yahoo_symbol": "BOLT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BORN",
+    "yahoo_symbol": "BORN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BOSS",
+    "yahoo_symbol": "BOSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BPFI",
+    "yahoo_symbol": "BPFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BPII",
+    "yahoo_symbol": "BPII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BPTR",
+    "yahoo_symbol": "BPTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRAM",
+    "yahoo_symbol": "BRAM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BREN",
+    "yahoo_symbol": "BREN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRIS",
+    "yahoo_symbol": "BRIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRMS",
+    "yahoo_symbol": "BRMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRNA",
+    "yahoo_symbol": "BRNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRPT",
+    "yahoo_symbol": "BRPT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BRRC",
+    "yahoo_symbol": "BRRC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSBK",
+    "yahoo_symbol": "BSBK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSDE",
+    "yahoo_symbol": "BSDE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSIM",
+    "yahoo_symbol": "BSIM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSML",
+    "yahoo_symbol": "BSML.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSSR",
+    "yahoo_symbol": "BSSR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BSWD",
+    "yahoo_symbol": "BSWD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BTEK",
+    "yahoo_symbol": "BTEK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BTEL",
+    "yahoo_symbol": "BTEL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BTON",
+    "yahoo_symbol": "BTON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BTPN",
+    "yahoo_symbol": "BTPN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BTPS",
+    "yahoo_symbol": "BTPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUAH",
+    "yahoo_symbol": "BUAH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUDI",
+    "yahoo_symbol": "BUDI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUKA",
+    "yahoo_symbol": "BUKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUKK",
+    "yahoo_symbol": "BUKK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BULL",
+    "yahoo_symbol": "BULL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUMI",
+    "yahoo_symbol": "BUMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BUVA",
+    "yahoo_symbol": "BUVA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BVIC",
+    "yahoo_symbol": "BVIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BWPT",
+    "yahoo_symbol": "BWPT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "BYAN",
+    "yahoo_symbol": "BYAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CAKK",
+    "yahoo_symbol": "CAKK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CAMP",
+    "yahoo_symbol": "CAMP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CANI",
+    "yahoo_symbol": "CANI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CARE",
+    "yahoo_symbol": "CARE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CARS",
+    "yahoo_symbol": "CARS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CASA",
+    "yahoo_symbol": "CASA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CASH",
+    "yahoo_symbol": "CASH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CASS",
+    "yahoo_symbol": "CASS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CBDK",
+    "yahoo_symbol": "CBDK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CBMF",
+    "yahoo_symbol": "CBMF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CBPE",
+    "yahoo_symbol": "CBPE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CBRE",
+    "yahoo_symbol": "CBRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CBUT",
+    "yahoo_symbol": "CBUT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CCSI",
+    "yahoo_symbol": "CCSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CDIA",
+    "yahoo_symbol": "CDIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CEKA",
+    "yahoo_symbol": "CEKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CENT",
+    "yahoo_symbol": "CENT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CFIN",
+    "yahoo_symbol": "CFIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CGAS",
+    "yahoo_symbol": "CGAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CHEK",
+    "yahoo_symbol": "CHEK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CHEM",
+    "yahoo_symbol": "CHEM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CHIP",
+    "yahoo_symbol": "CHIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CINT",
+    "yahoo_symbol": "CINT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CITA",
+    "yahoo_symbol": "CITA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CITY",
+    "yahoo_symbol": "CITY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CKRA",
+    "yahoo_symbol": "CKRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CLAY",
+    "yahoo_symbol": "CLAY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CLEO",
+    "yahoo_symbol": "CLEO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CLPI",
+    "yahoo_symbol": "CLPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CMNP",
+    "yahoo_symbol": "CMNP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CMNT",
+    "yahoo_symbol": "CMNT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CMPP",
+    "yahoo_symbol": "CMPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CMRY",
+    "yahoo_symbol": "CMRY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CNKO",
+    "yahoo_symbol": "CNKO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CNMA",
+    "yahoo_symbol": "CNMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CNTB",
+    "yahoo_symbol": "CNTB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CNTX",
+    "yahoo_symbol": "CNTX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "COAL",
+    "yahoo_symbol": "COAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "COCO",
+    "yahoo_symbol": "COCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "COIN",
+    "yahoo_symbol": "COIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "COWL",
+    "yahoo_symbol": "COWL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CPIN",
+    "yahoo_symbol": "CPIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CPRI",
+    "yahoo_symbol": "CPRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CPRO",
+    "yahoo_symbol": "CPRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CRAB",
+    "yahoo_symbol": "CRAB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CRSN",
+    "yahoo_symbol": "CRSN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CSAP",
+    "yahoo_symbol": "CSAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CSIS",
+    "yahoo_symbol": "CSIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CSMI",
+    "yahoo_symbol": "CSMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CSRA",
+    "yahoo_symbol": "CSRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CTBN",
+    "yahoo_symbol": "CTBN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CTRA",
+    "yahoo_symbol": "CTRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CTTH",
+    "yahoo_symbol": "CTTH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CUAN",
+    "yahoo_symbol": "CUAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "CYBR",
+    "yahoo_symbol": "CYBR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DAAZ",
+    "yahoo_symbol": "DAAZ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DADA",
+    "yahoo_symbol": "DADA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DART",
+    "yahoo_symbol": "DART.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DATA",
+    "yahoo_symbol": "DATA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DAYA",
+    "yahoo_symbol": "DAYA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DCII",
+    "yahoo_symbol": "DCII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DEAL",
+    "yahoo_symbol": "DEAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DEFI",
+    "yahoo_symbol": "DEFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DEPO",
+    "yahoo_symbol": "DEPO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DEWA",
+    "yahoo_symbol": "DEWA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DEWI",
+    "yahoo_symbol": "DEWI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DFAM",
+    "yahoo_symbol": "DFAM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DGIK",
+    "yahoo_symbol": "DGIK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DGNS",
+    "yahoo_symbol": "DGNS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DGWG",
+    "yahoo_symbol": "DGWG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DIGI",
+    "yahoo_symbol": "DIGI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DILD",
+    "yahoo_symbol": "DILD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DIVA",
+    "yahoo_symbol": "DIVA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DKFT",
+    "yahoo_symbol": "DKFT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DKHH",
+    "yahoo_symbol": "DKHH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DLTA",
+    "yahoo_symbol": "DLTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DMAS",
+    "yahoo_symbol": "DMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DMMX",
+    "yahoo_symbol": "DMMX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DMND",
+    "yahoo_symbol": "DMND.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DNAR",
+    "yahoo_symbol": "DNAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DNET",
+    "yahoo_symbol": "DNET.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DOID",
+    "yahoo_symbol": "DOID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DOOH",
+    "yahoo_symbol": "DOOH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DOSS",
+    "yahoo_symbol": "DOSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DPNS",
+    "yahoo_symbol": "DPNS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DPUM",
+    "yahoo_symbol": "DPUM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DRMA",
+    "yahoo_symbol": "DRMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DSFI",
+    "yahoo_symbol": "DSFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DSNG",
+    "yahoo_symbol": "DSNG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DSSA",
+    "yahoo_symbol": "DSSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DUCK",
+    "yahoo_symbol": "DUCK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DUTI",
+    "yahoo_symbol": "DUTI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DVLA",
+    "yahoo_symbol": "DVLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DWGL",
+    "yahoo_symbol": "DWGL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "DYAN",
+    "yahoo_symbol": "DYAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EAST",
+    "yahoo_symbol": "EAST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ECII",
+    "yahoo_symbol": "ECII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EDGE",
+    "yahoo_symbol": "EDGE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EKAD",
+    "yahoo_symbol": "EKAD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ELIT",
+    "yahoo_symbol": "ELIT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ELPI",
+    "yahoo_symbol": "ELPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ELSA",
+    "yahoo_symbol": "ELSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ELTY",
+    "yahoo_symbol": "ELTY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EMAS",
+    "yahoo_symbol": "EMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EMDE",
+    "yahoo_symbol": "EMDE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EMTK",
+    "yahoo_symbol": "EMTK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ENAK",
+    "yahoo_symbol": "ENAK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ENRG",
+    "yahoo_symbol": "ENRG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ENVY",
+    "yahoo_symbol": "ENVY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ENZO",
+    "yahoo_symbol": "ENZO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EPAC",
+    "yahoo_symbol": "EPAC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EPMT",
+    "yahoo_symbol": "EPMT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ERAA",
+    "yahoo_symbol": "ERAA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ERAL",
+    "yahoo_symbol": "ERAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ERTX",
+    "yahoo_symbol": "ERTX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ESIP",
+    "yahoo_symbol": "ESIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ESSA",
+    "yahoo_symbol": "ESSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ESTA",
+    "yahoo_symbol": "ESTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ESTI",
+    "yahoo_symbol": "ESTI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ETWA",
+    "yahoo_symbol": "ETWA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EURO",
+    "yahoo_symbol": "EURO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "EXCL",
+    "yahoo_symbol": "EXCL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FAPA",
+    "yahoo_symbol": "FAPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FAST",
+    "yahoo_symbol": "FAST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FASW",
+    "yahoo_symbol": "FASW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FILM",
+    "yahoo_symbol": "FILM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FIMP",
+    "yahoo_symbol": "FIMP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FINN",
+    "yahoo_symbol": "FINN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FIRE",
+    "yahoo_symbol": "FIRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FISH",
+    "yahoo_symbol": "FISH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FITT",
+    "yahoo_symbol": "FITT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FLMC",
+    "yahoo_symbol": "FLMC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FMII",
+    "yahoo_symbol": "FMII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FOLK",
+    "yahoo_symbol": "FOLK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FOOD",
+    "yahoo_symbol": "FOOD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FORE",
+    "yahoo_symbol": "FORE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FORU",
+    "yahoo_symbol": "FORU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FORZ",
+    "yahoo_symbol": "FORZ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FPNI",
+    "yahoo_symbol": "FPNI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FREN",
+    "yahoo_symbol": "FREN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FUJI",
+    "yahoo_symbol": "FUJI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FUTR",
+    "yahoo_symbol": "FUTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "FWCT",
+    "yahoo_symbol": "FWCT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GAMA",
+    "yahoo_symbol": "GAMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GDST",
+    "yahoo_symbol": "GDST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GDYR",
+    "yahoo_symbol": "GDYR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GEMA",
+    "yahoo_symbol": "GEMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GEMS",
+    "yahoo_symbol": "GEMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GGRM",
+    "yahoo_symbol": "GGRM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GGRP",
+    "yahoo_symbol": "GGRP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GHON",
+    "yahoo_symbol": "GHON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GIAA",
+    "yahoo_symbol": "GIAA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GJTL",
+    "yahoo_symbol": "GJTL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GLOB",
+    "yahoo_symbol": "GLOB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GLVA",
+    "yahoo_symbol": "GLVA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GMFI",
+    "yahoo_symbol": "GMFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GMTD",
+    "yahoo_symbol": "GMTD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOLD",
+    "yahoo_symbol": "GOLD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOLF",
+    "yahoo_symbol": "GOLF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOLL",
+    "yahoo_symbol": "GOLL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOOD",
+    "yahoo_symbol": "GOOD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOTO",
+    "yahoo_symbol": "GOTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GOTOM",
+    "yahoo_symbol": "GOTOM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GPRA",
+    "yahoo_symbol": "GPRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GPSO",
+    "yahoo_symbol": "GPSO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GREN",
+    "yahoo_symbol": "GREN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GRIA",
+    "yahoo_symbol": "GRIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GRPH",
+    "yahoo_symbol": "GRPH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GRPM",
+    "yahoo_symbol": "GRPM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GSMF",
+    "yahoo_symbol": "GSMF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GTBO",
+    "yahoo_symbol": "GTBO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GTRA",
+    "yahoo_symbol": "GTRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GTSI",
+    "yahoo_symbol": "GTSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GULA",
+    "yahoo_symbol": "GULA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GUNA",
+    "yahoo_symbol": "GUNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GWSA",
+    "yahoo_symbol": "GWSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "GZCO",
+    "yahoo_symbol": "GZCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HADE",
+    "yahoo_symbol": "HADE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HAIS",
+    "yahoo_symbol": "HAIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HAJJ",
+    "yahoo_symbol": "HAJJ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HALO",
+    "yahoo_symbol": "HALO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HATM",
+    "yahoo_symbol": "HATM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HBAT",
+    "yahoo_symbol": "HBAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HDFA",
+    "yahoo_symbol": "HDFA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HDIT",
+    "yahoo_symbol": "HDIT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HDTX",
+    "yahoo_symbol": "HDTX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HEAL",
+    "yahoo_symbol": "HEAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HELI",
+    "yahoo_symbol": "HELI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HERA",
+    "yahoo_symbol": "HERA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HERO",
+    "yahoo_symbol": "HERO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HEXA",
+    "yahoo_symbol": "HEXA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HGII",
+    "yahoo_symbol": "HGII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HILL",
+    "yahoo_symbol": "HILL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HITS",
+    "yahoo_symbol": "HITS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HKMU",
+    "yahoo_symbol": "HKMU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HMSP",
+    "yahoo_symbol": "HMSP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HOKI",
+    "yahoo_symbol": "HOKI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HOME",
+    "yahoo_symbol": "HOME.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HOMI",
+    "yahoo_symbol": "HOMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HOPE",
+    "yahoo_symbol": "HOPE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HOTL",
+    "yahoo_symbol": "HOTL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HRME",
+    "yahoo_symbol": "HRME.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HRTA",
+    "yahoo_symbol": "HRTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HRUM",
+    "yahoo_symbol": "HRUM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HUMI",
+    "yahoo_symbol": "HUMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "HYGN",
+    "yahoo_symbol": "HYGN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IATA",
+    "yahoo_symbol": "IATA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IBFN",
+    "yahoo_symbol": "IBFN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IBOS",
+    "yahoo_symbol": "IBOS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IBST",
+    "yahoo_symbol": "IBST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ICBP",
+    "yahoo_symbol": "ICBP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ICON",
+    "yahoo_symbol": "ICON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IDEA",
+    "yahoo_symbol": "IDEA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IDPR",
+    "yahoo_symbol": "IDPR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IFII",
+    "yahoo_symbol": "IFII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IFISH",
+    "yahoo_symbol": "IFISH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IFSH",
+    "yahoo_symbol": "IFSH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IGAR",
+    "yahoo_symbol": "IGAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IIKP",
+    "yahoo_symbol": "IIKP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IKAI",
+    "yahoo_symbol": "IKAI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IKAN",
+    "yahoo_symbol": "IKAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IKBI",
+    "yahoo_symbol": "IKBI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IKPM",
+    "yahoo_symbol": "IKPM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IMAS",
+    "yahoo_symbol": "IMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IMJS",
+    "yahoo_symbol": "IMJS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IMPC",
+    "yahoo_symbol": "IMPC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INAF",
+    "yahoo_symbol": "INAF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INAI",
+    "yahoo_symbol": "INAI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INCF",
+    "yahoo_symbol": "INCF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INCI",
+    "yahoo_symbol": "INCI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INCO",
+    "yahoo_symbol": "INCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDF",
+    "yahoo_symbol": "INDF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDO",
+    "yahoo_symbol": "INDO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDR",
+    "yahoo_symbol": "INDR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDS",
+    "yahoo_symbol": "INDS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDX",
+    "yahoo_symbol": "INDX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INDY",
+    "yahoo_symbol": "INDY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INET",
+    "yahoo_symbol": "INET.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INKP",
+    "yahoo_symbol": "INKP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INOV",
+    "yahoo_symbol": "INOV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INPC",
+    "yahoo_symbol": "INPC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INPP",
+    "yahoo_symbol": "INPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INPS",
+    "yahoo_symbol": "INPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INRU",
+    "yahoo_symbol": "INRU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INTA",
+    "yahoo_symbol": "INTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INTD",
+    "yahoo_symbol": "INTD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "INTP",
+    "yahoo_symbol": "INTP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IOTF",
+    "yahoo_symbol": "IOTF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPAC",
+    "yahoo_symbol": "IPAC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPCC",
+    "yahoo_symbol": "IPCC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPCM",
+    "yahoo_symbol": "IPCM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPOL",
+    "yahoo_symbol": "IPOL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPPE",
+    "yahoo_symbol": "IPPE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IPTV",
+    "yahoo_symbol": "IPTV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IRRA",
+    "yahoo_symbol": "IRRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "IRSX",
+    "yahoo_symbol": "IRSX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ISAP",
+    "yahoo_symbol": "ISAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ISAT",
+    "yahoo_symbol": "ISAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ISEA",
+    "yahoo_symbol": "ISEA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ISSP",
+    "yahoo_symbol": "ISSP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ITIC",
+    "yahoo_symbol": "ITIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ITMA",
+    "yahoo_symbol": "ITMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ITMG",
+    "yahoo_symbol": "ITMG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ITTG",
+    "yahoo_symbol": "ITTG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JARR",
+    "yahoo_symbol": "JARR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JAST",
+    "yahoo_symbol": "JAST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JATI",
+    "yahoo_symbol": "JATI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JAWA",
+    "yahoo_symbol": "JAWA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JAYA",
+    "yahoo_symbol": "JAYA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JECC",
+    "yahoo_symbol": "JECC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JGLE",
+    "yahoo_symbol": "JGLE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JIHD",
+    "yahoo_symbol": "JIHD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JKON",
+    "yahoo_symbol": "JKON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JKSW",
+    "yahoo_symbol": "JKSW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JMAS",
+    "yahoo_symbol": "JMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JPFA",
+    "yahoo_symbol": "JPFA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JRPT",
+    "yahoo_symbol": "JRPT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JSKY",
+    "yahoo_symbol": "JSKY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JSMR",
+    "yahoo_symbol": "JSMR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JSPT",
+    "yahoo_symbol": "JSPT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "JTPE",
+    "yahoo_symbol": "JTPE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KAEF",
+    "yahoo_symbol": "KAEF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KAQI",
+    "yahoo_symbol": "KAQI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KARW",
+    "yahoo_symbol": "KARW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KAYU",
+    "yahoo_symbol": "KAYU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KBAG",
+    "yahoo_symbol": "KBAG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KBLI",
+    "yahoo_symbol": "KBLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KBLM",
+    "yahoo_symbol": "KBLM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KBLV",
+    "yahoo_symbol": "KBLV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KBRI",
+    "yahoo_symbol": "KBRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KDSI",
+    "yahoo_symbol": "KDSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KDTN",
+    "yahoo_symbol": "KDTN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KEEN",
+    "yahoo_symbol": "KEEN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KEJU",
+    "yahoo_symbol": "KEJU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KETR",
+    "yahoo_symbol": "KETR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KIAS",
+    "yahoo_symbol": "KIAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KICI",
+    "yahoo_symbol": "KICI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KIJA",
+    "yahoo_symbol": "KIJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KING",
+    "yahoo_symbol": "KING.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KINO",
+    "yahoo_symbol": "KINO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KIOS",
+    "yahoo_symbol": "KIOS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KJEN",
+    "yahoo_symbol": "KJEN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KKES",
+    "yahoo_symbol": "KKES.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KKGI",
+    "yahoo_symbol": "KKGI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KLAS",
+    "yahoo_symbol": "KLAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KLBF",
+    "yahoo_symbol": "KLBF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KLIN",
+    "yahoo_symbol": "KLIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KMDS",
+    "yahoo_symbol": "KMDS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KMTR",
+    "yahoo_symbol": "KMTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOBX",
+    "yahoo_symbol": "KOBX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOCI",
+    "yahoo_symbol": "KOCI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOIN",
+    "yahoo_symbol": "KOIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOJA",
+    "yahoo_symbol": "KOJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOKA",
+    "yahoo_symbol": "KOKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KONI",
+    "yahoo_symbol": "KONI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOPI",
+    "yahoo_symbol": "KOPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KOTA",
+    "yahoo_symbol": "KOTA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KPAL",
+    "yahoo_symbol": "KPAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KPAS",
+    "yahoo_symbol": "KPAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KPIG",
+    "yahoo_symbol": "KPIG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KRAH",
+    "yahoo_symbol": "KRAH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KRAS",
+    "yahoo_symbol": "KRAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KREN",
+    "yahoo_symbol": "KREN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KRYA",
+    "yahoo_symbol": "KRYA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KSIX",
+    "yahoo_symbol": "KSIX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "KUAS",
+    "yahoo_symbol": "KUAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LABA",
+    "yahoo_symbol": "LABA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LABS",
+    "yahoo_symbol": "LABS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LAJU",
+    "yahoo_symbol": "LAJU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LAND",
+    "yahoo_symbol": "LAND.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LAPD",
+    "yahoo_symbol": "LAPD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LCGP",
+    "yahoo_symbol": "LCGP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LCKM",
+    "yahoo_symbol": "LCKM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LEAD",
+    "yahoo_symbol": "LEAD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LFLO",
+    "yahoo_symbol": "LFLO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LIFE",
+    "yahoo_symbol": "LIFE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LINK",
+    "yahoo_symbol": "LINK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LION",
+    "yahoo_symbol": "LION.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LIVE",
+    "yahoo_symbol": "LIVE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LMAS",
+    "yahoo_symbol": "LMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LMAX",
+    "yahoo_symbol": "LMAX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LMPI",
+    "yahoo_symbol": "LMPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LMSH",
+    "yahoo_symbol": "LMSH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LOPI",
+    "yahoo_symbol": "LOPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPCK",
+    "yahoo_symbol": "LPCK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPGI",
+    "yahoo_symbol": "LPGI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPIN",
+    "yahoo_symbol": "LPIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPKR",
+    "yahoo_symbol": "LPKR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPLI",
+    "yahoo_symbol": "LPLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPPF",
+    "yahoo_symbol": "LPPF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LPPS",
+    "yahoo_symbol": "LPPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LRNA",
+    "yahoo_symbol": "LRNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LSIP",
+    "yahoo_symbol": "LSIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LTLS",
+    "yahoo_symbol": "LTLS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LUCK",
+    "yahoo_symbol": "LUCK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "LUCY",
+    "yahoo_symbol": "LUCY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MABA",
+    "yahoo_symbol": "MABA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAGP",
+    "yahoo_symbol": "MAGP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAHA",
+    "yahoo_symbol": "MAHA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAIN",
+    "yahoo_symbol": "MAIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAMI",
+    "yahoo_symbol": "MAMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAMIP",
+    "yahoo_symbol": "MAMIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MANG",
+    "yahoo_symbol": "MANG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAPA",
+    "yahoo_symbol": "MAPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAPB",
+    "yahoo_symbol": "MAPB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAPI",
+    "yahoo_symbol": "MAPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MARI",
+    "yahoo_symbol": "MARI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MARK",
+    "yahoo_symbol": "MARK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MASA",
+    "yahoo_symbol": "MASA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MASB",
+    "yahoo_symbol": "MASB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAXI",
+    "yahoo_symbol": "MAXI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MAYA",
+    "yahoo_symbol": "MAYA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MBAP",
+    "yahoo_symbol": "MBAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MBMA",
+    "yahoo_symbol": "MBMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MBSS",
+    "yahoo_symbol": "MBSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MBTO",
+    "yahoo_symbol": "MBTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MCAS",
+    "yahoo_symbol": "MCAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MCOL",
+    "yahoo_symbol": "MCOL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MCOR",
+    "yahoo_symbol": "MCOR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDIA",
+    "yahoo_symbol": "MDIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDIY",
+    "yahoo_symbol": "MDIY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDKA",
+    "yahoo_symbol": "MDKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDKI",
+    "yahoo_symbol": "MDKI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDLA",
+    "yahoo_symbol": "MDLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDLN",
+    "yahoo_symbol": "MDLN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MDRN",
+    "yahoo_symbol": "MDRN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MEDC",
+    "yahoo_symbol": "MEDC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MEDS",
+    "yahoo_symbol": "MEDS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MEGA",
+    "yahoo_symbol": "MEGA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MEJA",
+    "yahoo_symbol": "MEJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MENN",
+    "yahoo_symbol": "MENN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MERI",
+    "yahoo_symbol": "MERI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MERK",
+    "yahoo_symbol": "MERK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "META",
+    "yahoo_symbol": "META.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MFIN",
+    "yahoo_symbol": "MFIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MFMI",
+    "yahoo_symbol": "MFMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MGLV",
+    "yahoo_symbol": "MGLV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MGNA",
+    "yahoo_symbol": "MGNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MGRO",
+    "yahoo_symbol": "MGRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MHKI",
+    "yahoo_symbol": "MHKI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MICE",
+    "yahoo_symbol": "MICE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MIDI",
+    "yahoo_symbol": "MIDI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MIKA",
+    "yahoo_symbol": "MIKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MINA",
+    "yahoo_symbol": "MINA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MINE",
+    "yahoo_symbol": "MINE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MIRA",
+    "yahoo_symbol": "MIRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MITI",
+    "yahoo_symbol": "MITI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MKAP",
+    "yahoo_symbol": "MKAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MKNT",
+    "yahoo_symbol": "MKNT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MKPI",
+    "yahoo_symbol": "MKPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MKTR",
+    "yahoo_symbol": "MKTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MLBI",
+    "yahoo_symbol": "MLBI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MLIA",
+    "yahoo_symbol": "MLIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MLPL",
+    "yahoo_symbol": "MLPL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MLPT",
+    "yahoo_symbol": "MLPT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MMIX",
+    "yahoo_symbol": "MMIX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MMLP",
+    "yahoo_symbol": "MMLP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MNCN",
+    "yahoo_symbol": "MNCN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MOLI",
+    "yahoo_symbol": "MOLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MORA",
+    "yahoo_symbol": "MORA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPIX",
+    "yahoo_symbol": "MPIX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPMX",
+    "yahoo_symbol": "MPMX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPOW",
+    "yahoo_symbol": "MPOW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPPA",
+    "yahoo_symbol": "MPPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPRO",
+    "yahoo_symbol": "MPRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MPXL",
+    "yahoo_symbol": "MPXL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MRAT",
+    "yahoo_symbol": "MRAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MREI",
+    "yahoo_symbol": "MREI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MSIE",
+    "yahoo_symbol": "MSIE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MSIN",
+    "yahoo_symbol": "MSIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MSJA",
+    "yahoo_symbol": "MSJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MSKY",
+    "yahoo_symbol": "MSKY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MSTI",
+    "yahoo_symbol": "MSTI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTDL",
+    "yahoo_symbol": "MTDL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTEL",
+    "yahoo_symbol": "MTEL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTFN",
+    "yahoo_symbol": "MTFN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTLA",
+    "yahoo_symbol": "MTLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTMH",
+    "yahoo_symbol": "MTMH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTPS",
+    "yahoo_symbol": "MTPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTRA",
+    "yahoo_symbol": "MTRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTSM",
+    "yahoo_symbol": "MTSM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MTWI",
+    "yahoo_symbol": "MTWI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MUTU",
+    "yahoo_symbol": "MUTU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MYOH",
+    "yahoo_symbol": "MYOH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MYOR",
+    "yahoo_symbol": "MYOR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MYRX",
+    "yahoo_symbol": "MYRX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MYRXP",
+    "yahoo_symbol": "MYRXP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "MYTX",
+    "yahoo_symbol": "MYTX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NAIK",
+    "yahoo_symbol": "NAIK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NANO",
+    "yahoo_symbol": "NANO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NASA",
+    "yahoo_symbol": "NASA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NASI",
+    "yahoo_symbol": "NASI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NATO",
+    "yahoo_symbol": "NATO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NAYZ",
+    "yahoo_symbol": "NAYZ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NCKL",
+    "yahoo_symbol": "NCKL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NELY",
+    "yahoo_symbol": "NELY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NEST",
+    "yahoo_symbol": "NEST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NETV",
+    "yahoo_symbol": "NETV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NFCX",
+    "yahoo_symbol": "NFCX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NICE",
+    "yahoo_symbol": "NICE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NICK",
+    "yahoo_symbol": "NICK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NICL",
+    "yahoo_symbol": "NICL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NIKL",
+    "yahoo_symbol": "NIKL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NINE",
+    "yahoo_symbol": "NINE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NIPS",
+    "yahoo_symbol": "NIPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NIRO",
+    "yahoo_symbol": "NIRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NISP",
+    "yahoo_symbol": "NISP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NOBU",
+    "yahoo_symbol": "NOBU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NPGF",
+    "yahoo_symbol": "NPGF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NRCA",
+    "yahoo_symbol": "NRCA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NSSS",
+    "yahoo_symbol": "NSSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NTBK",
+    "yahoo_symbol": "NTBK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NUSA",
+    "yahoo_symbol": "NUSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "NZIA",
+    "yahoo_symbol": "NZIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OASA",
+    "yahoo_symbol": "OASA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OBAT",
+    "yahoo_symbol": "OBAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OBMD",
+    "yahoo_symbol": "OBMD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OCAP",
+    "yahoo_symbol": "OCAP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OILS",
+    "yahoo_symbol": "OILS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OKAS",
+    "yahoo_symbol": "OKAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OLIV",
+    "yahoo_symbol": "OLIV.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OMED",
+    "yahoo_symbol": "OMED.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OMRE",
+    "yahoo_symbol": "OMRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "OPMS",
+    "yahoo_symbol": "OPMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PACK",
+    "yahoo_symbol": "PACK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PADA",
+    "yahoo_symbol": "PADA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PADI",
+    "yahoo_symbol": "PADI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PALM",
+    "yahoo_symbol": "PALM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PAMG",
+    "yahoo_symbol": "PAMG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PANI",
+    "yahoo_symbol": "PANI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PANR",
+    "yahoo_symbol": "PANR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PANS",
+    "yahoo_symbol": "PANS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PART",
+    "yahoo_symbol": "PART.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PBID",
+    "yahoo_symbol": "PBID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PBRX",
+    "yahoo_symbol": "PBRX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PBSA",
+    "yahoo_symbol": "PBSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PCAR",
+    "yahoo_symbol": "PCAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PDES",
+    "yahoo_symbol": "PDES.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PDPP",
+    "yahoo_symbol": "PDPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PEGE",
+    "yahoo_symbol": "PEGE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PEHA",
+    "yahoo_symbol": "PEHA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PEVE",
+    "yahoo_symbol": "PEVE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PGAS",
+    "yahoo_symbol": "PGAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PGEO",
+    "yahoo_symbol": "PGEO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PGJO",
+    "yahoo_symbol": "PGJO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PGLI",
+    "yahoo_symbol": "PGLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PGUN",
+    "yahoo_symbol": "PGUN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PICO",
+    "yahoo_symbol": "PICO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PIPA",
+    "yahoo_symbol": "PIPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PJAA",
+    "yahoo_symbol": "PJAA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PJHB",
+    "yahoo_symbol": "PJHB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PKPK",
+    "yahoo_symbol": "PKPK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PLAN",
+    "yahoo_symbol": "PLAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PLAS",
+    "yahoo_symbol": "PLAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PLIN",
+    "yahoo_symbol": "PLIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PMJS",
+    "yahoo_symbol": "PMJS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PMMP",
+    "yahoo_symbol": "PMMP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PMUI",
+    "yahoo_symbol": "PMUI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNBN",
+    "yahoo_symbol": "PNBN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNBS",
+    "yahoo_symbol": "PNBS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNGO",
+    "yahoo_symbol": "PNGO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNIN",
+    "yahoo_symbol": "PNIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNLF",
+    "yahoo_symbol": "PNLF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PNSE",
+    "yahoo_symbol": "PNSE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POLA",
+    "yahoo_symbol": "POLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POLI",
+    "yahoo_symbol": "POLI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POLL",
+    "yahoo_symbol": "POLL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POLU",
+    "yahoo_symbol": "POLU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POLY",
+    "yahoo_symbol": "POLY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POOL",
+    "yahoo_symbol": "POOL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PORT",
+    "yahoo_symbol": "PORT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POSA",
+    "yahoo_symbol": "POSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "POWR",
+    "yahoo_symbol": "POWR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PPGL",
+    "yahoo_symbol": "PPGL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PPRE",
+    "yahoo_symbol": "PPRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PPRI",
+    "yahoo_symbol": "PPRI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PPRO",
+    "yahoo_symbol": "PPRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PRAS",
+    "yahoo_symbol": "PRAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PRAY",
+    "yahoo_symbol": "PRAY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PRDA",
+    "yahoo_symbol": "PRDA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PRIM",
+    "yahoo_symbol": "PRIM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSAB",
+    "yahoo_symbol": "PSAB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSAT",
+    "yahoo_symbol": "PSAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSDN",
+    "yahoo_symbol": "PSDN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSGO",
+    "yahoo_symbol": "PSGO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSKT",
+    "yahoo_symbol": "PSKT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PSSI",
+    "yahoo_symbol": "PSSI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTBA",
+    "yahoo_symbol": "PTBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTDU",
+    "yahoo_symbol": "PTDU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTIS",
+    "yahoo_symbol": "PTIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTMP",
+    "yahoo_symbol": "PTMP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTMR",
+    "yahoo_symbol": "PTMR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTPP",
+    "yahoo_symbol": "PTPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTPS",
+    "yahoo_symbol": "PTPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTPW",
+    "yahoo_symbol": "PTPW.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTRO",
+    "yahoo_symbol": "PTRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTSN",
+    "yahoo_symbol": "PTSN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PTSP",
+    "yahoo_symbol": "PTSP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PUDP",
+    "yahoo_symbol": "PUDP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PURA",
+    "yahoo_symbol": "PURA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PURE",
+    "yahoo_symbol": "PURE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PURI",
+    "yahoo_symbol": "PURI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PWON",
+    "yahoo_symbol": "PWON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PYFA",
+    "yahoo_symbol": "PYFA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "PZZA",
+    "yahoo_symbol": "PZZA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RAAM",
+    "yahoo_symbol": "RAAM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RAFI",
+    "yahoo_symbol": "RAFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RAJA",
+    "yahoo_symbol": "RAJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RALS",
+    "yahoo_symbol": "RALS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RANC",
+    "yahoo_symbol": "RANC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RATU",
+    "yahoo_symbol": "RATU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RBMS",
+    "yahoo_symbol": "RBMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RCCC",
+    "yahoo_symbol": "RCCC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RDTX",
+    "yahoo_symbol": "RDTX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "REAL",
+    "yahoo_symbol": "REAL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RELF",
+    "yahoo_symbol": "RELF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RELI",
+    "yahoo_symbol": "RELI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RGAS",
+    "yahoo_symbol": "RGAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RICY",
+    "yahoo_symbol": "RICY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RIGS",
+    "yahoo_symbol": "RIGS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RIMO",
+    "yahoo_symbol": "RIMO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RISE",
+    "yahoo_symbol": "RISE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RLCO",
+    "yahoo_symbol": "RLCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RMBA",
+    "yahoo_symbol": "RMBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RMKE",
+    "yahoo_symbol": "RMKE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RMKO",
+    "yahoo_symbol": "RMKO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ROCK",
+    "yahoo_symbol": "ROCK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RODA",
+    "yahoo_symbol": "RODA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RONY",
+    "yahoo_symbol": "RONY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ROTI",
+    "yahoo_symbol": "ROTI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RSCH",
+    "yahoo_symbol": "RSCH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RSGK",
+    "yahoo_symbol": "RSGK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RUIS",
+    "yahoo_symbol": "RUIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "RUNS",
+    "yahoo_symbol": "RUNS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SAFE",
+    "yahoo_symbol": "SAFE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SAGE",
+    "yahoo_symbol": "SAGE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SAME",
+    "yahoo_symbol": "SAME.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SAMF",
+    "yahoo_symbol": "SAMF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SAPX",
+    "yahoo_symbol": "SAPX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SATU",
+    "yahoo_symbol": "SATU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SBAT",
+    "yahoo_symbol": "SBAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SBMA",
+    "yahoo_symbol": "SBMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SCBD",
+    "yahoo_symbol": "SCBD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SCCO",
+    "yahoo_symbol": "SCCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SCMA",
+    "yahoo_symbol": "SCMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SCNP",
+    "yahoo_symbol": "SCNP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SCPI",
+    "yahoo_symbol": "SCPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SDMU",
+    "yahoo_symbol": "SDMU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SDPC",
+    "yahoo_symbol": "SDPC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SDRA",
+    "yahoo_symbol": "SDRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SEMA",
+    "yahoo_symbol": "SEMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SFAN",
+    "yahoo_symbol": "SFAN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SGER",
+    "yahoo_symbol": "SGER.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SGRO",
+    "yahoo_symbol": "SGRO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SHID",
+    "yahoo_symbol": "SHID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SHIP",
+    "yahoo_symbol": "SHIP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SICO",
+    "yahoo_symbol": "SICO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SIDO",
+    "yahoo_symbol": "SIDO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SILO",
+    "yahoo_symbol": "SILO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SIMA",
+    "yahoo_symbol": "SIMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SIMP",
+    "yahoo_symbol": "SIMP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SINI",
+    "yahoo_symbol": "SINI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SIPD",
+    "yahoo_symbol": "SIPD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SKBM",
+    "yahoo_symbol": "SKBM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SKLT",
+    "yahoo_symbol": "SKLT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SKRN",
+    "yahoo_symbol": "SKRN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SKYB",
+    "yahoo_symbol": "SKYB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SLIS",
+    "yahoo_symbol": "SLIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMAR",
+    "yahoo_symbol": "SMAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMBR",
+    "yahoo_symbol": "SMBR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMCB",
+    "yahoo_symbol": "SMCB.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMDM",
+    "yahoo_symbol": "SMDM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMDR",
+    "yahoo_symbol": "SMDR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMGA",
+    "yahoo_symbol": "SMGA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMGR",
+    "yahoo_symbol": "SMGR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMIL",
+    "yahoo_symbol": "SMIL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMKL",
+    "yahoo_symbol": "SMKL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMKM",
+    "yahoo_symbol": "SMKM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMLE",
+    "yahoo_symbol": "SMLE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMMA",
+    "yahoo_symbol": "SMMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMMT",
+    "yahoo_symbol": "SMMT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMRA",
+    "yahoo_symbol": "SMRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMRU",
+    "yahoo_symbol": "SMRU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SMSM",
+    "yahoo_symbol": "SMSM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SNLK",
+    "yahoo_symbol": "SNLK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOCI",
+    "yahoo_symbol": "SOCI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOFA",
+    "yahoo_symbol": "SOFA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOHO",
+    "yahoo_symbol": "SOHO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOLA",
+    "yahoo_symbol": "SOLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SONA",
+    "yahoo_symbol": "SONA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOSS",
+    "yahoo_symbol": "SOSS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOTS",
+    "yahoo_symbol": "SOTS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SOUL",
+    "yahoo_symbol": "SOUL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SPMA",
+    "yahoo_symbol": "SPMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SPRE",
+    "yahoo_symbol": "SPRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SPTO",
+    "yahoo_symbol": "SPTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SQMI",
+    "yahoo_symbol": "SQMI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SRAJ",
+    "yahoo_symbol": "SRAJ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SRIL",
+    "yahoo_symbol": "SRIL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SRSN",
+    "yahoo_symbol": "SRSN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SRTG",
+    "yahoo_symbol": "SRTG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SSIA",
+    "yahoo_symbol": "SSIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SSMS",
+    "yahoo_symbol": "SSMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SSTM",
+    "yahoo_symbol": "SSTM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "STAA",
+    "yahoo_symbol": "STAA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "STAR",
+    "yahoo_symbol": "STAR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "STRK",
+    "yahoo_symbol": "STRK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "STTP",
+    "yahoo_symbol": "STTP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SUGI",
+    "yahoo_symbol": "SUGI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SULI",
+    "yahoo_symbol": "SULI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SUNI",
+    "yahoo_symbol": "SUNI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SUPA",
+    "yahoo_symbol": "SUPA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SUPR",
+    "yahoo_symbol": "SUPR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SURE",
+    "yahoo_symbol": "SURE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SURI",
+    "yahoo_symbol": "SURI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SWAT",
+    "yahoo_symbol": "SWAT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "SWID",
+    "yahoo_symbol": "SWID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TALF",
+    "yahoo_symbol": "TALF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TAMA",
+    "yahoo_symbol": "TAMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TAMU",
+    "yahoo_symbol": "TAMU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TAPG",
+    "yahoo_symbol": "TAPG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TARA",
+    "yahoo_symbol": "TARA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TAXI",
+    "yahoo_symbol": "TAXI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TAYS",
+    "yahoo_symbol": "TAYS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TBIG",
+    "yahoo_symbol": "TBIG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TBLA",
+    "yahoo_symbol": "TBLA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TBMS",
+    "yahoo_symbol": "TBMS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TCID",
+    "yahoo_symbol": "TCID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TCPI",
+    "yahoo_symbol": "TCPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TDPM",
+    "yahoo_symbol": "TDPM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TEBE",
+    "yahoo_symbol": "TEBE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TECH",
+    "yahoo_symbol": "TECH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TELE",
+    "yahoo_symbol": "TELE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TFAS",
+    "yahoo_symbol": "TFAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TFCO",
+    "yahoo_symbol": "TFCO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TGKA",
+    "yahoo_symbol": "TGKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TGRA",
+    "yahoo_symbol": "TGRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TGUK",
+    "yahoo_symbol": "TGUK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TIFA",
+    "yahoo_symbol": "TIFA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TINS",
+    "yahoo_symbol": "TINS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TIRA",
+    "yahoo_symbol": "TIRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TIRT",
+    "yahoo_symbol": "TIRT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TKIM",
+    "yahoo_symbol": "TKIM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TLDN",
+    "yahoo_symbol": "TLDN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TLKM",
+    "yahoo_symbol": "TLKM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TMAS",
+    "yahoo_symbol": "TMAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TMPO",
+    "yahoo_symbol": "TMPO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TNCA",
+    "yahoo_symbol": "TNCA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOBA",
+    "yahoo_symbol": "TOBA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOOL",
+    "yahoo_symbol": "TOOL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOPS",
+    "yahoo_symbol": "TOPS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOSK",
+    "yahoo_symbol": "TOSK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOTL",
+    "yahoo_symbol": "TOTL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOTO",
+    "yahoo_symbol": "TOTO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOWR",
+    "yahoo_symbol": "TOWR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TOYS",
+    "yahoo_symbol": "TOYS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TPIA",
+    "yahoo_symbol": "TPIA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TPMA",
+    "yahoo_symbol": "TPMA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRAM",
+    "yahoo_symbol": "TRAM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRGU",
+    "yahoo_symbol": "TRGU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRIL",
+    "yahoo_symbol": "TRIL.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRIM",
+    "yahoo_symbol": "TRIM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRIN",
+    "yahoo_symbol": "TRIN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRIO",
+    "yahoo_symbol": "TRIO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRIS",
+    "yahoo_symbol": "TRIS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRJA",
+    "yahoo_symbol": "TRJA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRON",
+    "yahoo_symbol": "TRON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRST",
+    "yahoo_symbol": "TRST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRUE",
+    "yahoo_symbol": "TRUE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRUK",
+    "yahoo_symbol": "TRUK.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TRUS",
+    "yahoo_symbol": "TRUS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TSPC",
+    "yahoo_symbol": "TSPC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TUGU",
+    "yahoo_symbol": "TUGU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TURI",
+    "yahoo_symbol": "TURI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "TYRE",
+    "yahoo_symbol": "TYRE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UANG",
+    "yahoo_symbol": "UANG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UCID",
+    "yahoo_symbol": "UCID.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UDNG",
+    "yahoo_symbol": "UDNG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UFOE",
+    "yahoo_symbol": "UFOE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ULTJ",
+    "yahoo_symbol": "ULTJ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNIC",
+    "yahoo_symbol": "UNIC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNIQ",
+    "yahoo_symbol": "UNIQ.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNIT",
+    "yahoo_symbol": "UNIT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNSP",
+    "yahoo_symbol": "UNSP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNTD",
+    "yahoo_symbol": "UNTD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNTR",
+    "yahoo_symbol": "UNTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UNVR",
+    "yahoo_symbol": "UNVR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "URBN",
+    "yahoo_symbol": "URBN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "UVCR",
+    "yahoo_symbol": "UVCR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VAST",
+    "yahoo_symbol": "VAST.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VERN",
+    "yahoo_symbol": "VERN.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VICI",
+    "yahoo_symbol": "VICI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VICO",
+    "yahoo_symbol": "VICO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VINS",
+    "yahoo_symbol": "VINS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VISI",
+    "yahoo_symbol": "VISI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VIVA",
+    "yahoo_symbol": "VIVA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VKTR",
+    "yahoo_symbol": "VKTR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VOKS",
+    "yahoo_symbol": "VOKS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VRNA",
+    "yahoo_symbol": "VRNA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "VTNY",
+    "yahoo_symbol": "VTNY.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WAPO",
+    "yahoo_symbol": "WAPO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WBSA",
+    "yahoo_symbol": "WBSA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WEGE",
+    "yahoo_symbol": "WEGE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WEHA",
+    "yahoo_symbol": "WEHA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WGSH",
+    "yahoo_symbol": "WGSH.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WICO",
+    "yahoo_symbol": "WICO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WIDI",
+    "yahoo_symbol": "WIDI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WIFI",
+    "yahoo_symbol": "WIFI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WIIM",
+    "yahoo_symbol": "WIIM.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WIKA",
+    "yahoo_symbol": "WIKA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WINE",
+    "yahoo_symbol": "WINE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WINR",
+    "yahoo_symbol": "WINR.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WINS",
+    "yahoo_symbol": "WINS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WIRG",
+    "yahoo_symbol": "WIRG.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WMPP",
+    "yahoo_symbol": "WMPP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WMUU",
+    "yahoo_symbol": "WMUU.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WOMF",
+    "yahoo_symbol": "WOMF.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WOOD",
+    "yahoo_symbol": "WOOD.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WOWS",
+    "yahoo_symbol": "WOWS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WSBP",
+    "yahoo_symbol": "WSBP.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WSKT",
+    "yahoo_symbol": "WSKT.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "WTON",
+    "yahoo_symbol": "WTON.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "YELO",
+    "yahoo_symbol": "YELO.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "YOII",
+    "yahoo_symbol": "YOII.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "YPAS",
+    "yahoo_symbol": "YPAS.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "YULE",
+    "yahoo_symbol": "YULE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "YUPI",
+    "yahoo_symbol": "YUPI.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ZATA",
+    "yahoo_symbol": "ZATA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ZBRA",
+    "yahoo_symbol": "ZBRA.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ZINC",
+    "yahoo_symbol": "ZINC.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ZONE",
+    "yahoo_symbol": "ZONE.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  },
+  {
+    "symbol": "ZYRX",
+    "yahoo_symbol": "ZYRX.JK",
+    "source": "Pholenk/IDX-Dataset",
+    "status": "candidate"
+  }
+]

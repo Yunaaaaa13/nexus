@@ -1,0 +1,5498 @@
+[
+  {
+    "symbol": "AADI",
+    "yahoo_symbol": "AADI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AALI",
+    "yahoo_symbol": "AALI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ABBA",
+    "yahoo_symbol": "ABBA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ABDA",
+    "yahoo_symbol": "ABDA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ABMM",
+    "yahoo_symbol": "ABMM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ACES",
+    "yahoo_symbol": "ACES.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ACRO",
+    "yahoo_symbol": "ACRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ACST",
+    "yahoo_symbol": "ACST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADCP",
+    "yahoo_symbol": "ADCP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADES",
+    "yahoo_symbol": "ADES.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADHI",
+    "yahoo_symbol": "ADHI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADMF",
+    "yahoo_symbol": "ADMF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADMG",
+    "yahoo_symbol": "ADMG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADMR",
+    "yahoo_symbol": "ADMR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ADRO",
+    "yahoo_symbol": "ADRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AEGS",
+    "yahoo_symbol": "AEGS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AGAR",
+    "yahoo_symbol": "AGAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AGII",
+    "yahoo_symbol": "AGII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AGRO",
+    "yahoo_symbol": "AGRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AGRS",
+    "yahoo_symbol": "AGRS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AHAP",
+    "yahoo_symbol": "AHAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AIMS",
+    "yahoo_symbol": "AIMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AISA",
+    "yahoo_symbol": "AISA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AKKU",
+    "yahoo_symbol": "AKKU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AKPI",
+    "yahoo_symbol": "AKPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AKRA",
+    "yahoo_symbol": "AKRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AKSI",
+    "yahoo_symbol": "AKSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ALDO",
+    "yahoo_symbol": "ALDO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ALII",
+    "yahoo_symbol": "ALII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ALKA",
+    "yahoo_symbol": "ALKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ALMI",
+    "yahoo_symbol": "ALMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ALTO",
+    "yahoo_symbol": "ALTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMAG",
+    "yahoo_symbol": "AMAG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMAN",
+    "yahoo_symbol": "AMAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMAR",
+    "yahoo_symbol": "AMAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMFG",
+    "yahoo_symbol": "AMFG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMIN",
+    "yahoo_symbol": "AMIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMMN",
+    "yahoo_symbol": "AMMN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMMS",
+    "yahoo_symbol": "AMMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMOR",
+    "yahoo_symbol": "AMOR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AMRT",
+    "yahoo_symbol": "AMRT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ANDI",
+    "yahoo_symbol": "ANDI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ANJT",
+    "yahoo_symbol": "ANJT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ANTM",
+    "yahoo_symbol": "ANTM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "APEX",
+    "yahoo_symbol": "APEX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "APIC",
+    "yahoo_symbol": "APIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "APII",
+    "yahoo_symbol": "APII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "APLI",
+    "yahoo_symbol": "APLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "APLN",
+    "yahoo_symbol": "APLN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARCI",
+    "yahoo_symbol": "ARCI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AREA",
+    "yahoo_symbol": "AREA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARGO",
+    "yahoo_symbol": "ARGO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARII",
+    "yahoo_symbol": "ARII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARKA",
+    "yahoo_symbol": "ARKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARKO",
+    "yahoo_symbol": "ARKO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARNA",
+    "yahoo_symbol": "ARNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARTA",
+    "yahoo_symbol": "ARTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARTI",
+    "yahoo_symbol": "ARTI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ARTO",
+    "yahoo_symbol": "ARTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASBI",
+    "yahoo_symbol": "ASBI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASDM",
+    "yahoo_symbol": "ASDM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASGR",
+    "yahoo_symbol": "ASGR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASHA",
+    "yahoo_symbol": "ASHA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASII",
+    "yahoo_symbol": "ASII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASJT",
+    "yahoo_symbol": "ASJT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASLC",
+    "yahoo_symbol": "ASLC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASLI",
+    "yahoo_symbol": "ASLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASMI",
+    "yahoo_symbol": "ASMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASPI",
+    "yahoo_symbol": "ASPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASPR",
+    "yahoo_symbol": "ASPR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASRI",
+    "yahoo_symbol": "ASRI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASRM",
+    "yahoo_symbol": "ASRM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ASSA",
+    "yahoo_symbol": "ASSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ATAP",
+    "yahoo_symbol": "ATAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ATIC",
+    "yahoo_symbol": "ATIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ATLA",
+    "yahoo_symbol": "ATLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AUTO",
+    "yahoo_symbol": "AUTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AVIA",
+    "yahoo_symbol": "AVIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AWAN",
+    "yahoo_symbol": "AWAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AXIO",
+    "yahoo_symbol": "AXIO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AYAM",
+    "yahoo_symbol": "AYAM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "AYLS",
+    "yahoo_symbol": "AYLS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BABP",
+    "yahoo_symbol": "BABP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BABY",
+    "yahoo_symbol": "BABY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BACA",
+    "yahoo_symbol": "BACA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAIK",
+    "yahoo_symbol": "BAIK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAJA",
+    "yahoo_symbol": "BAJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BALI",
+    "yahoo_symbol": "BALI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BANK",
+    "yahoo_symbol": "BANK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAPA",
+    "yahoo_symbol": "BAPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAPI",
+    "yahoo_symbol": "BAPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BATA",
+    "yahoo_symbol": "BATA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BATR",
+    "yahoo_symbol": "BATR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAUT",
+    "yahoo_symbol": "BAUT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BAYU",
+    "yahoo_symbol": "BAYU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBCA",
+    "yahoo_symbol": "BBCA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBHI",
+    "yahoo_symbol": "BBHI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBKP",
+    "yahoo_symbol": "BBKP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBLD",
+    "yahoo_symbol": "BBLD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBMD",
+    "yahoo_symbol": "BBMD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBNI",
+    "yahoo_symbol": "BBNI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBRI",
+    "yahoo_symbol": "BBRI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBRM",
+    "yahoo_symbol": "BBRM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBSI",
+    "yahoo_symbol": "BBSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBSS",
+    "yahoo_symbol": "BBSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBTN",
+    "yahoo_symbol": "BBTN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BBYB",
+    "yahoo_symbol": "BBYB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BCAP",
+    "yahoo_symbol": "BCAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BCIC",
+    "yahoo_symbol": "BCIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BCIP",
+    "yahoo_symbol": "BCIP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BDKR",
+    "yahoo_symbol": "BDKR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BDMN",
+    "yahoo_symbol": "BDMN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BEBS",
+    "yahoo_symbol": "BEBS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BEEF",
+    "yahoo_symbol": "BEEF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BEER",
+    "yahoo_symbol": "BEER.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BEKS",
+    "yahoo_symbol": "BEKS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BELI",
+    "yahoo_symbol": "BELI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BELL",
+    "yahoo_symbol": "BELL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BESS",
+    "yahoo_symbol": "BESS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BEST",
+    "yahoo_symbol": "BEST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BFIN",
+    "yahoo_symbol": "BFIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BGTG",
+    "yahoo_symbol": "BGTG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BHAT",
+    "yahoo_symbol": "BHAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BHIT",
+    "yahoo_symbol": "BHIT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIKA",
+    "yahoo_symbol": "BIKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIKE",
+    "yahoo_symbol": "BIKE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIMA",
+    "yahoo_symbol": "BIMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BINA",
+    "yahoo_symbol": "BINA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BINO",
+    "yahoo_symbol": "BINO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIPI",
+    "yahoo_symbol": "BIPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIPP",
+    "yahoo_symbol": "BIPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BIRD",
+    "yahoo_symbol": "BIRD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BISI",
+    "yahoo_symbol": "BISI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BJBR",
+    "yahoo_symbol": "BJBR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BJTM",
+    "yahoo_symbol": "BJTM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BKDP",
+    "yahoo_symbol": "BKDP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BKSL",
+    "yahoo_symbol": "BKSL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BKSW",
+    "yahoo_symbol": "BKSW.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BLES",
+    "yahoo_symbol": "BLES.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BLOG",
+    "yahoo_symbol": "BLOG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BLTA",
+    "yahoo_symbol": "BLTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BLTZ",
+    "yahoo_symbol": "BLTZ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BLUE",
+    "yahoo_symbol": "BLUE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMAS",
+    "yahoo_symbol": "BMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMBL",
+    "yahoo_symbol": "BMBL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMHS",
+    "yahoo_symbol": "BMHS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMRI",
+    "yahoo_symbol": "BMRI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMSR",
+    "yahoo_symbol": "BMSR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BMTR",
+    "yahoo_symbol": "BMTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BNBA",
+    "yahoo_symbol": "BNBA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BNBR",
+    "yahoo_symbol": "BNBR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BNGA",
+    "yahoo_symbol": "BNGA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BNII",
+    "yahoo_symbol": "BNII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BNLI",
+    "yahoo_symbol": "BNLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOAT",
+    "yahoo_symbol": "BOAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOBA",
+    "yahoo_symbol": "BOBA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOGA",
+    "yahoo_symbol": "BOGA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOLA",
+    "yahoo_symbol": "BOLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOLT",
+    "yahoo_symbol": "BOLT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BOSS",
+    "yahoo_symbol": "BOSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BPFI",
+    "yahoo_symbol": "BPFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BPII",
+    "yahoo_symbol": "BPII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BPTR",
+    "yahoo_symbol": "BPTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRAM",
+    "yahoo_symbol": "BRAM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BREN",
+    "yahoo_symbol": "BREN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRIS",
+    "yahoo_symbol": "BRIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRMS",
+    "yahoo_symbol": "BRMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRNA",
+    "yahoo_symbol": "BRNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRPT",
+    "yahoo_symbol": "BRPT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BRRC",
+    "yahoo_symbol": "BRRC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSBK",
+    "yahoo_symbol": "BSBK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSDE",
+    "yahoo_symbol": "BSDE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSIM",
+    "yahoo_symbol": "BSIM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSML",
+    "yahoo_symbol": "BSML.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSSR",
+    "yahoo_symbol": "BSSR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BSWD",
+    "yahoo_symbol": "BSWD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BTEK",
+    "yahoo_symbol": "BTEK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BTON",
+    "yahoo_symbol": "BTON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BTPN",
+    "yahoo_symbol": "BTPN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BTPS",
+    "yahoo_symbol": "BTPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUAH",
+    "yahoo_symbol": "BUAH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUDI",
+    "yahoo_symbol": "BUDI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUKA",
+    "yahoo_symbol": "BUKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUKK",
+    "yahoo_symbol": "BUKK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BULL",
+    "yahoo_symbol": "BULL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUMI",
+    "yahoo_symbol": "BUMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BUVA",
+    "yahoo_symbol": "BUVA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BVIC",
+    "yahoo_symbol": "BVIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BWPT",
+    "yahoo_symbol": "BWPT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "BYAN",
+    "yahoo_symbol": "BYAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CAKK",
+    "yahoo_symbol": "CAKK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CAMP",
+    "yahoo_symbol": "CAMP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CANI",
+    "yahoo_symbol": "CANI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CARE",
+    "yahoo_symbol": "CARE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CARS",
+    "yahoo_symbol": "CARS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CASA",
+    "yahoo_symbol": "CASA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CASH",
+    "yahoo_symbol": "CASH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CASS",
+    "yahoo_symbol": "CASS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CBDK",
+    "yahoo_symbol": "CBDK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CBPE",
+    "yahoo_symbol": "CBPE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CBRE",
+    "yahoo_symbol": "CBRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CBUT",
+    "yahoo_symbol": "CBUT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CCSI",
+    "yahoo_symbol": "CCSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CDIA",
+    "yahoo_symbol": "CDIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CEKA",
+    "yahoo_symbol": "CEKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CENT",
+    "yahoo_symbol": "CENT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CFIN",
+    "yahoo_symbol": "CFIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CGAS",
+    "yahoo_symbol": "CGAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CHEK",
+    "yahoo_symbol": "CHEK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CHEM",
+    "yahoo_symbol": "CHEM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CHIP",
+    "yahoo_symbol": "CHIP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CINT",
+    "yahoo_symbol": "CINT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CITA",
+    "yahoo_symbol": "CITA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CITY",
+    "yahoo_symbol": "CITY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CLAY",
+    "yahoo_symbol": "CLAY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CLEO",
+    "yahoo_symbol": "CLEO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CLPI",
+    "yahoo_symbol": "CLPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CMNP",
+    "yahoo_symbol": "CMNP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CMNT",
+    "yahoo_symbol": "CMNT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CMPP",
+    "yahoo_symbol": "CMPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CMRY",
+    "yahoo_symbol": "CMRY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CNKO",
+    "yahoo_symbol": "CNKO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CNMA",
+    "yahoo_symbol": "CNMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "COAL",
+    "yahoo_symbol": "COAL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "COCO",
+    "yahoo_symbol": "COCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "COIN",
+    "yahoo_symbol": "COIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CPIN",
+    "yahoo_symbol": "CPIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CPRO",
+    "yahoo_symbol": "CPRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CRAB",
+    "yahoo_symbol": "CRAB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CRSN",
+    "yahoo_symbol": "CRSN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CSAP",
+    "yahoo_symbol": "CSAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CSIS",
+    "yahoo_symbol": "CSIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CSMI",
+    "yahoo_symbol": "CSMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CSRA",
+    "yahoo_symbol": "CSRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CTBN",
+    "yahoo_symbol": "CTBN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CTRA",
+    "yahoo_symbol": "CTRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CTTH",
+    "yahoo_symbol": "CTTH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CUAN",
+    "yahoo_symbol": "CUAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "CYBR",
+    "yahoo_symbol": "CYBR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DAAZ",
+    "yahoo_symbol": "DAAZ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DADA",
+    "yahoo_symbol": "DADA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DART",
+    "yahoo_symbol": "DART.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DATA",
+    "yahoo_symbol": "DATA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DAYA",
+    "yahoo_symbol": "DAYA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DCII",
+    "yahoo_symbol": "DCII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DEAL",
+    "yahoo_symbol": "DEAL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DEFI",
+    "yahoo_symbol": "DEFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DEPO",
+    "yahoo_symbol": "DEPO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DEWA",
+    "yahoo_symbol": "DEWA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DEWI",
+    "yahoo_symbol": "DEWI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DFAM",
+    "yahoo_symbol": "DFAM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DGIK",
+    "yahoo_symbol": "DGIK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DGNS",
+    "yahoo_symbol": "DGNS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DGWG",
+    "yahoo_symbol": "DGWG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DIGI",
+    "yahoo_symbol": "DIGI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DILD",
+    "yahoo_symbol": "DILD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DIVA",
+    "yahoo_symbol": "DIVA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DKFT",
+    "yahoo_symbol": "DKFT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DKHH",
+    "yahoo_symbol": "DKHH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DLTA",
+    "yahoo_symbol": "DLTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DMAS",
+    "yahoo_symbol": "DMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DMMX",
+    "yahoo_symbol": "DMMX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DMND",
+    "yahoo_symbol": "DMND.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DNAR",
+    "yahoo_symbol": "DNAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DNET",
+    "yahoo_symbol": "DNET.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DOID",
+    "yahoo_symbol": "DOID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DOOH",
+    "yahoo_symbol": "DOOH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DOSS",
+    "yahoo_symbol": "DOSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DPNS",
+    "yahoo_symbol": "DPNS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DPUM",
+    "yahoo_symbol": "DPUM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DRMA",
+    "yahoo_symbol": "DRMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DSFI",
+    "yahoo_symbol": "DSFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DSNG",
+    "yahoo_symbol": "DSNG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DSSA",
+    "yahoo_symbol": "DSSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DUTI",
+    "yahoo_symbol": "DUTI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DVLA",
+    "yahoo_symbol": "DVLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DWGL",
+    "yahoo_symbol": "DWGL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "DYAN",
+    "yahoo_symbol": "DYAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EAST",
+    "yahoo_symbol": "EAST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ECII",
+    "yahoo_symbol": "ECII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EDGE",
+    "yahoo_symbol": "EDGE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EKAD",
+    "yahoo_symbol": "EKAD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ELIT",
+    "yahoo_symbol": "ELIT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ELPI",
+    "yahoo_symbol": "ELPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ELSA",
+    "yahoo_symbol": "ELSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ELTY",
+    "yahoo_symbol": "ELTY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EMAS",
+    "yahoo_symbol": "EMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EMDE",
+    "yahoo_symbol": "EMDE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EMTK",
+    "yahoo_symbol": "EMTK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ENAK",
+    "yahoo_symbol": "ENAK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ENRG",
+    "yahoo_symbol": "ENRG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ENZO",
+    "yahoo_symbol": "ENZO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EPAC",
+    "yahoo_symbol": "EPAC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EPMT",
+    "yahoo_symbol": "EPMT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ERAA",
+    "yahoo_symbol": "ERAA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ERAL",
+    "yahoo_symbol": "ERAL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ERTX",
+    "yahoo_symbol": "ERTX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ESIP",
+    "yahoo_symbol": "ESIP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ESSA",
+    "yahoo_symbol": "ESSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ESTA",
+    "yahoo_symbol": "ESTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ESTI",
+    "yahoo_symbol": "ESTI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ETWA",
+    "yahoo_symbol": "ETWA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EURO",
+    "yahoo_symbol": "EURO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "EXCL",
+    "yahoo_symbol": "EXCL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FAPA",
+    "yahoo_symbol": "FAPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FAST",
+    "yahoo_symbol": "FAST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FASW",
+    "yahoo_symbol": "FASW.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FILM",
+    "yahoo_symbol": "FILM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FIMP",
+    "yahoo_symbol": "FIMP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FIRE",
+    "yahoo_symbol": "FIRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FISH",
+    "yahoo_symbol": "FISH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FITT",
+    "yahoo_symbol": "FITT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FLMC",
+    "yahoo_symbol": "FLMC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FMII",
+    "yahoo_symbol": "FMII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FOLK",
+    "yahoo_symbol": "FOLK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FOOD",
+    "yahoo_symbol": "FOOD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FORE",
+    "yahoo_symbol": "FORE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FORU",
+    "yahoo_symbol": "FORU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FPNI",
+    "yahoo_symbol": "FPNI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FUJI",
+    "yahoo_symbol": "FUJI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FUTR",
+    "yahoo_symbol": "FUTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "FWCT",
+    "yahoo_symbol": "FWCT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GDST",
+    "yahoo_symbol": "GDST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GDYR",
+    "yahoo_symbol": "GDYR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GEMA",
+    "yahoo_symbol": "GEMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GEMS",
+    "yahoo_symbol": "GEMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GGRM",
+    "yahoo_symbol": "GGRM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GGRP",
+    "yahoo_symbol": "GGRP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GHON",
+    "yahoo_symbol": "GHON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GIAA",
+    "yahoo_symbol": "GIAA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GJTL",
+    "yahoo_symbol": "GJTL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GLOB",
+    "yahoo_symbol": "GLOB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GLVA",
+    "yahoo_symbol": "GLVA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GMFI",
+    "yahoo_symbol": "GMFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GMTD",
+    "yahoo_symbol": "GMTD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GOLD",
+    "yahoo_symbol": "GOLD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GOLF",
+    "yahoo_symbol": "GOLF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GOOD",
+    "yahoo_symbol": "GOOD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GOTO",
+    "yahoo_symbol": "GOTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GPRA",
+    "yahoo_symbol": "GPRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GPSO",
+    "yahoo_symbol": "GPSO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GRIA",
+    "yahoo_symbol": "GRIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GRPH",
+    "yahoo_symbol": "GRPH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GRPM",
+    "yahoo_symbol": "GRPM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GSMF",
+    "yahoo_symbol": "GSMF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GTBO",
+    "yahoo_symbol": "GTBO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GTRA",
+    "yahoo_symbol": "GTRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GTSI",
+    "yahoo_symbol": "GTSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GULA",
+    "yahoo_symbol": "GULA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GUNA",
+    "yahoo_symbol": "GUNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GWSA",
+    "yahoo_symbol": "GWSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "GZCO",
+    "yahoo_symbol": "GZCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HADE",
+    "yahoo_symbol": "HADE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HAIS",
+    "yahoo_symbol": "HAIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HAJJ",
+    "yahoo_symbol": "HAJJ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HALO",
+    "yahoo_symbol": "HALO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HATM",
+    "yahoo_symbol": "HATM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HBAT",
+    "yahoo_symbol": "HBAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HDFA",
+    "yahoo_symbol": "HDFA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HDIT",
+    "yahoo_symbol": "HDIT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HEAL",
+    "yahoo_symbol": "HEAL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HELI",
+    "yahoo_symbol": "HELI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HERO",
+    "yahoo_symbol": "HERO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HEXA",
+    "yahoo_symbol": "HEXA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HGII",
+    "yahoo_symbol": "HGII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HILL",
+    "yahoo_symbol": "HILL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HITS",
+    "yahoo_symbol": "HITS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HMSP",
+    "yahoo_symbol": "HMSP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HOKI",
+    "yahoo_symbol": "HOKI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HOMI",
+    "yahoo_symbol": "HOMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HOPE",
+    "yahoo_symbol": "HOPE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HRME",
+    "yahoo_symbol": "HRME.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HRTA",
+    "yahoo_symbol": "HRTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HRUM",
+    "yahoo_symbol": "HRUM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HUMI",
+    "yahoo_symbol": "HUMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "HYGN",
+    "yahoo_symbol": "HYGN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IATA",
+    "yahoo_symbol": "IATA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IBFN",
+    "yahoo_symbol": "IBFN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IBOS",
+    "yahoo_symbol": "IBOS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IBST",
+    "yahoo_symbol": "IBST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ICBP",
+    "yahoo_symbol": "ICBP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ICON",
+    "yahoo_symbol": "ICON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IDEA",
+    "yahoo_symbol": "IDEA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IDPR",
+    "yahoo_symbol": "IDPR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IFII",
+    "yahoo_symbol": "IFII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IFSH",
+    "yahoo_symbol": "IFSH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IGAR",
+    "yahoo_symbol": "IGAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IKAI",
+    "yahoo_symbol": "IKAI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IKAN",
+    "yahoo_symbol": "IKAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IKBI",
+    "yahoo_symbol": "IKBI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IKPM",
+    "yahoo_symbol": "IKPM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IMAS",
+    "yahoo_symbol": "IMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IMJS",
+    "yahoo_symbol": "IMJS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IMPC",
+    "yahoo_symbol": "IMPC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INAF",
+    "yahoo_symbol": "INAF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INAI",
+    "yahoo_symbol": "INAI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INCF",
+    "yahoo_symbol": "INCF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INCI",
+    "yahoo_symbol": "INCI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INCO",
+    "yahoo_symbol": "INCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDF",
+    "yahoo_symbol": "INDF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDO",
+    "yahoo_symbol": "INDO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDR",
+    "yahoo_symbol": "INDR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDS",
+    "yahoo_symbol": "INDS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDX",
+    "yahoo_symbol": "INDX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INDY",
+    "yahoo_symbol": "INDY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INET",
+    "yahoo_symbol": "INET.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INKP",
+    "yahoo_symbol": "INKP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INOV",
+    "yahoo_symbol": "INOV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INPC",
+    "yahoo_symbol": "INPC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INPP",
+    "yahoo_symbol": "INPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INPS",
+    "yahoo_symbol": "INPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INRU",
+    "yahoo_symbol": "INRU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INTA",
+    "yahoo_symbol": "INTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INTD",
+    "yahoo_symbol": "INTD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "INTP",
+    "yahoo_symbol": "INTP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IOTF",
+    "yahoo_symbol": "IOTF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPAC",
+    "yahoo_symbol": "IPAC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPCC",
+    "yahoo_symbol": "IPCC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPCM",
+    "yahoo_symbol": "IPCM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPOL",
+    "yahoo_symbol": "IPOL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPPE",
+    "yahoo_symbol": "IPPE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IPTV",
+    "yahoo_symbol": "IPTV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IRRA",
+    "yahoo_symbol": "IRRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "IRSX",
+    "yahoo_symbol": "IRSX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ISAP",
+    "yahoo_symbol": "ISAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ISAT",
+    "yahoo_symbol": "ISAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ISEA",
+    "yahoo_symbol": "ISEA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ISSP",
+    "yahoo_symbol": "ISSP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ITIC",
+    "yahoo_symbol": "ITIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ITMA",
+    "yahoo_symbol": "ITMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ITMG",
+    "yahoo_symbol": "ITMG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JARR",
+    "yahoo_symbol": "JARR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JAST",
+    "yahoo_symbol": "JAST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JATI",
+    "yahoo_symbol": "JATI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JAWA",
+    "yahoo_symbol": "JAWA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JAYA",
+    "yahoo_symbol": "JAYA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JECC",
+    "yahoo_symbol": "JECC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JGLE",
+    "yahoo_symbol": "JGLE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JIHD",
+    "yahoo_symbol": "JIHD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JKON",
+    "yahoo_symbol": "JKON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JMAS",
+    "yahoo_symbol": "JMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JPFA",
+    "yahoo_symbol": "JPFA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JRPT",
+    "yahoo_symbol": "JRPT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JSMR",
+    "yahoo_symbol": "JSMR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JSPT",
+    "yahoo_symbol": "JSPT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "JTPE",
+    "yahoo_symbol": "JTPE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KAEF",
+    "yahoo_symbol": "KAEF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KAQI",
+    "yahoo_symbol": "KAQI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KARW",
+    "yahoo_symbol": "KARW.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KAYU",
+    "yahoo_symbol": "KAYU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KBAG",
+    "yahoo_symbol": "KBAG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KBLI",
+    "yahoo_symbol": "KBLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KBLM",
+    "yahoo_symbol": "KBLM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KBLV",
+    "yahoo_symbol": "KBLV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KDSI",
+    "yahoo_symbol": "KDSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KDTN",
+    "yahoo_symbol": "KDTN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KEEN",
+    "yahoo_symbol": "KEEN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KEJU",
+    "yahoo_symbol": "KEJU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KETR",
+    "yahoo_symbol": "KETR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KIAS",
+    "yahoo_symbol": "KIAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KICI",
+    "yahoo_symbol": "KICI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KIJA",
+    "yahoo_symbol": "KIJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KING",
+    "yahoo_symbol": "KING.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KINO",
+    "yahoo_symbol": "KINO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KIOS",
+    "yahoo_symbol": "KIOS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KJEN",
+    "yahoo_symbol": "KJEN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KKES",
+    "yahoo_symbol": "KKES.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KKGI",
+    "yahoo_symbol": "KKGI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KLAS",
+    "yahoo_symbol": "KLAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KLBF",
+    "yahoo_symbol": "KLBF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KLIN",
+    "yahoo_symbol": "KLIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KMDS",
+    "yahoo_symbol": "KMDS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KMTR",
+    "yahoo_symbol": "KMTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOBX",
+    "yahoo_symbol": "KOBX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOCI",
+    "yahoo_symbol": "KOCI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOIN",
+    "yahoo_symbol": "KOIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOKA",
+    "yahoo_symbol": "KOKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KONI",
+    "yahoo_symbol": "KONI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOPI",
+    "yahoo_symbol": "KOPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KOTA",
+    "yahoo_symbol": "KOTA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KPIG",
+    "yahoo_symbol": "KPIG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KRAS",
+    "yahoo_symbol": "KRAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KREN",
+    "yahoo_symbol": "KREN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KRYA",
+    "yahoo_symbol": "KRYA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KSIX",
+    "yahoo_symbol": "KSIX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "KUAS",
+    "yahoo_symbol": "KUAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LABA",
+    "yahoo_symbol": "LABA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LABS",
+    "yahoo_symbol": "LABS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LAJU",
+    "yahoo_symbol": "LAJU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LAND",
+    "yahoo_symbol": "LAND.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LAPD",
+    "yahoo_symbol": "LAPD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LCKM",
+    "yahoo_symbol": "LCKM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LEAD",
+    "yahoo_symbol": "LEAD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LFLO",
+    "yahoo_symbol": "LFLO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LIFE",
+    "yahoo_symbol": "LIFE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LINK",
+    "yahoo_symbol": "LINK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LION",
+    "yahoo_symbol": "LION.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LIVE",
+    "yahoo_symbol": "LIVE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LMAX",
+    "yahoo_symbol": "LMAX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LMPI",
+    "yahoo_symbol": "LMPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LMSH",
+    "yahoo_symbol": "LMSH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LOPI",
+    "yahoo_symbol": "LOPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPCK",
+    "yahoo_symbol": "LPCK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPGI",
+    "yahoo_symbol": "LPGI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPIN",
+    "yahoo_symbol": "LPIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPKR",
+    "yahoo_symbol": "LPKR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPLI",
+    "yahoo_symbol": "LPLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPPF",
+    "yahoo_symbol": "LPPF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LPPS",
+    "yahoo_symbol": "LPPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LRNA",
+    "yahoo_symbol": "LRNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LSIP",
+    "yahoo_symbol": "LSIP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LTLS",
+    "yahoo_symbol": "LTLS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LUCK",
+    "yahoo_symbol": "LUCK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "LUCY",
+    "yahoo_symbol": "LUCY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAHA",
+    "yahoo_symbol": "MAHA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAIN",
+    "yahoo_symbol": "MAIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MANG",
+    "yahoo_symbol": "MANG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAPA",
+    "yahoo_symbol": "MAPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAPB",
+    "yahoo_symbol": "MAPB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAPI",
+    "yahoo_symbol": "MAPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MARI",
+    "yahoo_symbol": "MARI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MARK",
+    "yahoo_symbol": "MARK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MASB",
+    "yahoo_symbol": "MASB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAXI",
+    "yahoo_symbol": "MAXI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MAYA",
+    "yahoo_symbol": "MAYA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MBAP",
+    "yahoo_symbol": "MBAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MBMA",
+    "yahoo_symbol": "MBMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MBSS",
+    "yahoo_symbol": "MBSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MBTO",
+    "yahoo_symbol": "MBTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MCAS",
+    "yahoo_symbol": "MCAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MCOL",
+    "yahoo_symbol": "MCOL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MCOR",
+    "yahoo_symbol": "MCOR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDIA",
+    "yahoo_symbol": "MDIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDIY",
+    "yahoo_symbol": "MDIY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDKA",
+    "yahoo_symbol": "MDKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDKI",
+    "yahoo_symbol": "MDKI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDLA",
+    "yahoo_symbol": "MDLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDLN",
+    "yahoo_symbol": "MDLN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MDRN",
+    "yahoo_symbol": "MDRN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MEDC",
+    "yahoo_symbol": "MEDC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MEDS",
+    "yahoo_symbol": "MEDS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MEGA",
+    "yahoo_symbol": "MEGA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MEJA",
+    "yahoo_symbol": "MEJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MENN",
+    "yahoo_symbol": "MENN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MERI",
+    "yahoo_symbol": "MERI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MERK",
+    "yahoo_symbol": "MERK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "META",
+    "yahoo_symbol": "META.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MFMI",
+    "yahoo_symbol": "MFMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MGLV",
+    "yahoo_symbol": "MGLV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MGNA",
+    "yahoo_symbol": "MGNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MGRO",
+    "yahoo_symbol": "MGRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MHKI",
+    "yahoo_symbol": "MHKI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MICE",
+    "yahoo_symbol": "MICE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MIDI",
+    "yahoo_symbol": "MIDI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MIKA",
+    "yahoo_symbol": "MIKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MINA",
+    "yahoo_symbol": "MINA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MINE",
+    "yahoo_symbol": "MINE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MIRA",
+    "yahoo_symbol": "MIRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MITI",
+    "yahoo_symbol": "MITI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MKAP",
+    "yahoo_symbol": "MKAP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MKNT",
+    "yahoo_symbol": "MKNT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MKPI",
+    "yahoo_symbol": "MKPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MKTR",
+    "yahoo_symbol": "MKTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MLBI",
+    "yahoo_symbol": "MLBI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MLIA",
+    "yahoo_symbol": "MLIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MLPL",
+    "yahoo_symbol": "MLPL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MLPT",
+    "yahoo_symbol": "MLPT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MMIX",
+    "yahoo_symbol": "MMIX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MMLP",
+    "yahoo_symbol": "MMLP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MNCN",
+    "yahoo_symbol": "MNCN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MOLI",
+    "yahoo_symbol": "MOLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MORA",
+    "yahoo_symbol": "MORA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPIX",
+    "yahoo_symbol": "MPIX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPMX",
+    "yahoo_symbol": "MPMX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPOW",
+    "yahoo_symbol": "MPOW.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPPA",
+    "yahoo_symbol": "MPPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPRO",
+    "yahoo_symbol": "MPRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MPXL",
+    "yahoo_symbol": "MPXL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MRAT",
+    "yahoo_symbol": "MRAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MREI",
+    "yahoo_symbol": "MREI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MSIE",
+    "yahoo_symbol": "MSIE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MSIN",
+    "yahoo_symbol": "MSIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MSJA",
+    "yahoo_symbol": "MSJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MSKY",
+    "yahoo_symbol": "MSKY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MSTI",
+    "yahoo_symbol": "MSTI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTDL",
+    "yahoo_symbol": "MTDL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTEL",
+    "yahoo_symbol": "MTEL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTFN",
+    "yahoo_symbol": "MTFN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTLA",
+    "yahoo_symbol": "MTLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTMH",
+    "yahoo_symbol": "MTMH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTPS",
+    "yahoo_symbol": "MTPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTSM",
+    "yahoo_symbol": "MTSM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MTWI",
+    "yahoo_symbol": "MTWI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MUTU",
+    "yahoo_symbol": "MUTU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MYOH",
+    "yahoo_symbol": "MYOH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MYOR",
+    "yahoo_symbol": "MYOR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "MYTX",
+    "yahoo_symbol": "MYTX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NAIK",
+    "yahoo_symbol": "NAIK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NANO",
+    "yahoo_symbol": "NANO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NASA",
+    "yahoo_symbol": "NASA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NASI",
+    "yahoo_symbol": "NASI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NATO",
+    "yahoo_symbol": "NATO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NAYZ",
+    "yahoo_symbol": "NAYZ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NCKL",
+    "yahoo_symbol": "NCKL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NELY",
+    "yahoo_symbol": "NELY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NEST",
+    "yahoo_symbol": "NEST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NETV",
+    "yahoo_symbol": "NETV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NFCX",
+    "yahoo_symbol": "NFCX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NICE",
+    "yahoo_symbol": "NICE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NICK",
+    "yahoo_symbol": "NICK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NICL",
+    "yahoo_symbol": "NICL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NIKL",
+    "yahoo_symbol": "NIKL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NINE",
+    "yahoo_symbol": "NINE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NIRO",
+    "yahoo_symbol": "NIRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NISP",
+    "yahoo_symbol": "NISP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NOBU",
+    "yahoo_symbol": "NOBU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NPGF",
+    "yahoo_symbol": "NPGF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NRCA",
+    "yahoo_symbol": "NRCA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NSSS",
+    "yahoo_symbol": "NSSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NTBK",
+    "yahoo_symbol": "NTBK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "NZIA",
+    "yahoo_symbol": "NZIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OASA",
+    "yahoo_symbol": "OASA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OBAT",
+    "yahoo_symbol": "OBAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OBMD",
+    "yahoo_symbol": "OBMD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OILS",
+    "yahoo_symbol": "OILS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OKAS",
+    "yahoo_symbol": "OKAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OLIV",
+    "yahoo_symbol": "OLIV.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OMED",
+    "yahoo_symbol": "OMED.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OMRE",
+    "yahoo_symbol": "OMRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "OPMS",
+    "yahoo_symbol": "OPMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PACK",
+    "yahoo_symbol": "PACK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PADA",
+    "yahoo_symbol": "PADA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PADI",
+    "yahoo_symbol": "PADI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PALM",
+    "yahoo_symbol": "PALM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PAMG",
+    "yahoo_symbol": "PAMG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PANI",
+    "yahoo_symbol": "PANI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PANR",
+    "yahoo_symbol": "PANR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PANS",
+    "yahoo_symbol": "PANS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PART",
+    "yahoo_symbol": "PART.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PBID",
+    "yahoo_symbol": "PBID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PBRX",
+    "yahoo_symbol": "PBRX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PBSA",
+    "yahoo_symbol": "PBSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PCAR",
+    "yahoo_symbol": "PCAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PDES",
+    "yahoo_symbol": "PDES.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PDPP",
+    "yahoo_symbol": "PDPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PEGE",
+    "yahoo_symbol": "PEGE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PEHA",
+    "yahoo_symbol": "PEHA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PEVE",
+    "yahoo_symbol": "PEVE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PGAS",
+    "yahoo_symbol": "PGAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PGEO",
+    "yahoo_symbol": "PGEO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PGJO",
+    "yahoo_symbol": "PGJO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PGLI",
+    "yahoo_symbol": "PGLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PGUN",
+    "yahoo_symbol": "PGUN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PICO",
+    "yahoo_symbol": "PICO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PIPA",
+    "yahoo_symbol": "PIPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PJAA",
+    "yahoo_symbol": "PJAA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PJHB",
+    "yahoo_symbol": "PJHB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PKPK",
+    "yahoo_symbol": "PKPK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PLAN",
+    "yahoo_symbol": "PLAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PLIN",
+    "yahoo_symbol": "PLIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PMJS",
+    "yahoo_symbol": "PMJS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PMMP",
+    "yahoo_symbol": "PMMP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PMUI",
+    "yahoo_symbol": "PMUI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNBN",
+    "yahoo_symbol": "PNBN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNBS",
+    "yahoo_symbol": "PNBS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNGO",
+    "yahoo_symbol": "PNGO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNIN",
+    "yahoo_symbol": "PNIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNLF",
+    "yahoo_symbol": "PNLF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PNSE",
+    "yahoo_symbol": "PNSE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POLA",
+    "yahoo_symbol": "POLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POLI",
+    "yahoo_symbol": "POLI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POLL",
+    "yahoo_symbol": "POLL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POLU",
+    "yahoo_symbol": "POLU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POLY",
+    "yahoo_symbol": "POLY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PORT",
+    "yahoo_symbol": "PORT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "POWR",
+    "yahoo_symbol": "POWR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PPGL",
+    "yahoo_symbol": "PPGL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PPRE",
+    "yahoo_symbol": "PPRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PPRI",
+    "yahoo_symbol": "PPRI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PPRO",
+    "yahoo_symbol": "PPRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PRAY",
+    "yahoo_symbol": "PRAY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PRDA",
+    "yahoo_symbol": "PRDA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PRIM",
+    "yahoo_symbol": "PRIM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSAB",
+    "yahoo_symbol": "PSAB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSAT",
+    "yahoo_symbol": "PSAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSDN",
+    "yahoo_symbol": "PSDN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSGO",
+    "yahoo_symbol": "PSGO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSKT",
+    "yahoo_symbol": "PSKT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PSSI",
+    "yahoo_symbol": "PSSI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTBA",
+    "yahoo_symbol": "PTBA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTDU",
+    "yahoo_symbol": "PTDU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTIS",
+    "yahoo_symbol": "PTIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTMP",
+    "yahoo_symbol": "PTMP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTMR",
+    "yahoo_symbol": "PTMR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTPP",
+    "yahoo_symbol": "PTPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTPS",
+    "yahoo_symbol": "PTPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTPW",
+    "yahoo_symbol": "PTPW.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTRO",
+    "yahoo_symbol": "PTRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTSN",
+    "yahoo_symbol": "PTSN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PTSP",
+    "yahoo_symbol": "PTSP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PUDP",
+    "yahoo_symbol": "PUDP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PURA",
+    "yahoo_symbol": "PURA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PURI",
+    "yahoo_symbol": "PURI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PWON",
+    "yahoo_symbol": "PWON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PYFA",
+    "yahoo_symbol": "PYFA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "PZZA",
+    "yahoo_symbol": "PZZA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RAAM",
+    "yahoo_symbol": "RAAM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RAFI",
+    "yahoo_symbol": "RAFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RAJA",
+    "yahoo_symbol": "RAJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RALS",
+    "yahoo_symbol": "RALS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RANC",
+    "yahoo_symbol": "RANC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RATU",
+    "yahoo_symbol": "RATU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RBMS",
+    "yahoo_symbol": "RBMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RCCC",
+    "yahoo_symbol": "RCCC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RDTX",
+    "yahoo_symbol": "RDTX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "REAL",
+    "yahoo_symbol": "REAL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RELF",
+    "yahoo_symbol": "RELF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RELI",
+    "yahoo_symbol": "RELI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RGAS",
+    "yahoo_symbol": "RGAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RICY",
+    "yahoo_symbol": "RICY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RIGS",
+    "yahoo_symbol": "RIGS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RISE",
+    "yahoo_symbol": "RISE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RLCO",
+    "yahoo_symbol": "RLCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RMKE",
+    "yahoo_symbol": "RMKE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RMKO",
+    "yahoo_symbol": "RMKO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ROCK",
+    "yahoo_symbol": "ROCK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RODA",
+    "yahoo_symbol": "RODA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RONY",
+    "yahoo_symbol": "RONY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ROTI",
+    "yahoo_symbol": "ROTI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RSCH",
+    "yahoo_symbol": "RSCH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RSGK",
+    "yahoo_symbol": "RSGK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RUIS",
+    "yahoo_symbol": "RUIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "RUNS",
+    "yahoo_symbol": "RUNS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SAFE",
+    "yahoo_symbol": "SAFE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SAGE",
+    "yahoo_symbol": "SAGE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SAME",
+    "yahoo_symbol": "SAME.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SAMF",
+    "yahoo_symbol": "SAMF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SAPX",
+    "yahoo_symbol": "SAPX.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SATU",
+    "yahoo_symbol": "SATU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SBAT",
+    "yahoo_symbol": "SBAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SBMA",
+    "yahoo_symbol": "SBMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SCCO",
+    "yahoo_symbol": "SCCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SCMA",
+    "yahoo_symbol": "SCMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SCNP",
+    "yahoo_symbol": "SCNP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SDMU",
+    "yahoo_symbol": "SDMU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SDPC",
+    "yahoo_symbol": "SDPC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SDRA",
+    "yahoo_symbol": "SDRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SEMA",
+    "yahoo_symbol": "SEMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SFAN",
+    "yahoo_symbol": "SFAN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SGER",
+    "yahoo_symbol": "SGER.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SGRO",
+    "yahoo_symbol": "SGRO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SHID",
+    "yahoo_symbol": "SHID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SHIP",
+    "yahoo_symbol": "SHIP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SICO",
+    "yahoo_symbol": "SICO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SIDO",
+    "yahoo_symbol": "SIDO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SILO",
+    "yahoo_symbol": "SILO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SIMP",
+    "yahoo_symbol": "SIMP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SINI",
+    "yahoo_symbol": "SINI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SIPD",
+    "yahoo_symbol": "SIPD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SKBM",
+    "yahoo_symbol": "SKBM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SKLT",
+    "yahoo_symbol": "SKLT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SKRN",
+    "yahoo_symbol": "SKRN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SLIS",
+    "yahoo_symbol": "SLIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMAR",
+    "yahoo_symbol": "SMAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMBR",
+    "yahoo_symbol": "SMBR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMCB",
+    "yahoo_symbol": "SMCB.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMDM",
+    "yahoo_symbol": "SMDM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMDR",
+    "yahoo_symbol": "SMDR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMGA",
+    "yahoo_symbol": "SMGA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMGR",
+    "yahoo_symbol": "SMGR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMIL",
+    "yahoo_symbol": "SMIL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMKL",
+    "yahoo_symbol": "SMKL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMKM",
+    "yahoo_symbol": "SMKM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMLE",
+    "yahoo_symbol": "SMLE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMMA",
+    "yahoo_symbol": "SMMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMMT",
+    "yahoo_symbol": "SMMT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMRA",
+    "yahoo_symbol": "SMRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SMSM",
+    "yahoo_symbol": "SMSM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SNLK",
+    "yahoo_symbol": "SNLK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOCI",
+    "yahoo_symbol": "SOCI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOFA",
+    "yahoo_symbol": "SOFA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOHO",
+    "yahoo_symbol": "SOHO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOLA",
+    "yahoo_symbol": "SOLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SONA",
+    "yahoo_symbol": "SONA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOSS",
+    "yahoo_symbol": "SOSS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOTS",
+    "yahoo_symbol": "SOTS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SOUL",
+    "yahoo_symbol": "SOUL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SPMA",
+    "yahoo_symbol": "SPMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SPRE",
+    "yahoo_symbol": "SPRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SPTO",
+    "yahoo_symbol": "SPTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SQMI",
+    "yahoo_symbol": "SQMI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SRAJ",
+    "yahoo_symbol": "SRAJ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SRSN",
+    "yahoo_symbol": "SRSN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SRTG",
+    "yahoo_symbol": "SRTG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SSIA",
+    "yahoo_symbol": "SSIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SSMS",
+    "yahoo_symbol": "SSMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SSTM",
+    "yahoo_symbol": "SSTM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "STAA",
+    "yahoo_symbol": "STAA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "STAR",
+    "yahoo_symbol": "STAR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "STRK",
+    "yahoo_symbol": "STRK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "STTP",
+    "yahoo_symbol": "STTP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SULI",
+    "yahoo_symbol": "SULI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SUNI",
+    "yahoo_symbol": "SUNI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SUPA",
+    "yahoo_symbol": "SUPA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SUPR",
+    "yahoo_symbol": "SUPR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SURE",
+    "yahoo_symbol": "SURE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SURI",
+    "yahoo_symbol": "SURI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SWAT",
+    "yahoo_symbol": "SWAT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "SWID",
+    "yahoo_symbol": "SWID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TALF",
+    "yahoo_symbol": "TALF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TAMA",
+    "yahoo_symbol": "TAMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TAMU",
+    "yahoo_symbol": "TAMU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TAPG",
+    "yahoo_symbol": "TAPG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TARA",
+    "yahoo_symbol": "TARA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TAXI",
+    "yahoo_symbol": "TAXI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TAYS",
+    "yahoo_symbol": "TAYS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TBIG",
+    "yahoo_symbol": "TBIG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TBLA",
+    "yahoo_symbol": "TBLA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TBMS",
+    "yahoo_symbol": "TBMS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TCID",
+    "yahoo_symbol": "TCID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TCPI",
+    "yahoo_symbol": "TCPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TEBE",
+    "yahoo_symbol": "TEBE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TELE",
+    "yahoo_symbol": "TELE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TFAS",
+    "yahoo_symbol": "TFAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TFCO",
+    "yahoo_symbol": "TFCO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TGKA",
+    "yahoo_symbol": "TGKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TGRA",
+    "yahoo_symbol": "TGRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TGUK",
+    "yahoo_symbol": "TGUK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TIFA",
+    "yahoo_symbol": "TIFA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TINS",
+    "yahoo_symbol": "TINS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TIRA",
+    "yahoo_symbol": "TIRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TIRT",
+    "yahoo_symbol": "TIRT.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TKIM",
+    "yahoo_symbol": "TKIM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TLDN",
+    "yahoo_symbol": "TLDN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TLKM",
+    "yahoo_symbol": "TLKM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TMAS",
+    "yahoo_symbol": "TMAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TMPO",
+    "yahoo_symbol": "TMPO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TNCA",
+    "yahoo_symbol": "TNCA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOBA",
+    "yahoo_symbol": "TOBA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOOL",
+    "yahoo_symbol": "TOOL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOPS",
+    "yahoo_symbol": "TOPS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOSK",
+    "yahoo_symbol": "TOSK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOTL",
+    "yahoo_symbol": "TOTL.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOTO",
+    "yahoo_symbol": "TOTO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOWR",
+    "yahoo_symbol": "TOWR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TOYS",
+    "yahoo_symbol": "TOYS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TPIA",
+    "yahoo_symbol": "TPIA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TPMA",
+    "yahoo_symbol": "TPMA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRGU",
+    "yahoo_symbol": "TRGU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRIM",
+    "yahoo_symbol": "TRIM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRIN",
+    "yahoo_symbol": "TRIN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRIS",
+    "yahoo_symbol": "TRIS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRJA",
+    "yahoo_symbol": "TRJA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRON",
+    "yahoo_symbol": "TRON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRST",
+    "yahoo_symbol": "TRST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRUE",
+    "yahoo_symbol": "TRUE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRUK",
+    "yahoo_symbol": "TRUK.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TRUS",
+    "yahoo_symbol": "TRUS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TSPC",
+    "yahoo_symbol": "TSPC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TUGU",
+    "yahoo_symbol": "TUGU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "TYRE",
+    "yahoo_symbol": "TYRE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UANG",
+    "yahoo_symbol": "UANG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UCID",
+    "yahoo_symbol": "UCID.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UDNG",
+    "yahoo_symbol": "UDNG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UFOE",
+    "yahoo_symbol": "UFOE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ULTJ",
+    "yahoo_symbol": "ULTJ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNIC",
+    "yahoo_symbol": "UNIC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNIQ",
+    "yahoo_symbol": "UNIQ.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNSP",
+    "yahoo_symbol": "UNSP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNTD",
+    "yahoo_symbol": "UNTD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNTR",
+    "yahoo_symbol": "UNTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UNVR",
+    "yahoo_symbol": "UNVR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "URBN",
+    "yahoo_symbol": "URBN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "UVCR",
+    "yahoo_symbol": "UVCR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VAST",
+    "yahoo_symbol": "VAST.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VERN",
+    "yahoo_symbol": "VERN.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VICI",
+    "yahoo_symbol": "VICI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VICO",
+    "yahoo_symbol": "VICO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VINS",
+    "yahoo_symbol": "VINS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VISI",
+    "yahoo_symbol": "VISI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VIVA",
+    "yahoo_symbol": "VIVA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VKTR",
+    "yahoo_symbol": "VKTR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VOKS",
+    "yahoo_symbol": "VOKS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VRNA",
+    "yahoo_symbol": "VRNA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "VTNY",
+    "yahoo_symbol": "VTNY.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WAPO",
+    "yahoo_symbol": "WAPO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WBSA",
+    "yahoo_symbol": "WBSA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WEGE",
+    "yahoo_symbol": "WEGE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WEHA",
+    "yahoo_symbol": "WEHA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WGSH",
+    "yahoo_symbol": "WGSH.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WICO",
+    "yahoo_symbol": "WICO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WIDI",
+    "yahoo_symbol": "WIDI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WIFI",
+    "yahoo_symbol": "WIFI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WIIM",
+    "yahoo_symbol": "WIIM.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WIKA",
+    "yahoo_symbol": "WIKA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WINE",
+    "yahoo_symbol": "WINE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WINR",
+    "yahoo_symbol": "WINR.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WINS",
+    "yahoo_symbol": "WINS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WIRG",
+    "yahoo_symbol": "WIRG.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WMPP",
+    "yahoo_symbol": "WMPP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WMUU",
+    "yahoo_symbol": "WMUU.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WOMF",
+    "yahoo_symbol": "WOMF.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WOOD",
+    "yahoo_symbol": "WOOD.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WOWS",
+    "yahoo_symbol": "WOWS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WSBP",
+    "yahoo_symbol": "WSBP.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "WTON",
+    "yahoo_symbol": "WTON.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "YELO",
+    "yahoo_symbol": "YELO.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "YOII",
+    "yahoo_symbol": "YOII.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "YPAS",
+    "yahoo_symbol": "YPAS.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "YULE",
+    "yahoo_symbol": "YULE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "YUPI",
+    "yahoo_symbol": "YUPI.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ZATA",
+    "yahoo_symbol": "ZATA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ZBRA",
+    "yahoo_symbol": "ZBRA.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ZINC",
+    "yahoo_symbol": "ZINC.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ZONE",
+    "yahoo_symbol": "ZONE.JK",
+    "status": "active",
+    "yahoo_available": true
+  },
+  {
+    "symbol": "ZYRX",
+    "yahoo_symbol": "ZYRX.JK",
+    "status": "active",
+    "yahoo_available": true
+  }
+]

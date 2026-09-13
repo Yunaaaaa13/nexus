@@ -1,31 +1,31 @@
-from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from app.models.stock import Stock
-from app.models.stock_price import StockPrice
+from app.services.analytics.latest_prices import (
+    get_latest_two_prices,
+)
 
 
 def get_top_movers(
     db: Session,
     limit: int = 5,
 ):
-    stocks = db.execute(
-        select(Stock)
-        .order_by(Stock.symbol)
-    ).scalars().all()
+    rows = get_latest_two_prices(db)
+
+    stocks = {}
+
+    for row in rows:
+
+        stock_id = row.stock_id
+
+        if stock_id not in stocks:
+            stocks[stock_id] = []
+
+        stocks[stock_id].append(row)
 
     movers = []
 
-    for stock in stocks:
-        prices = db.execute(
-            select(StockPrice)
-            .where(StockPrice.stock_id == stock.id)
-            .order_by(StockPrice.timestamp.desc())
-            .limit(2)
-        ).scalars().all()
+    for stock_id, prices in stocks.items():
 
-        # Minimal membutuhkan harga terbaru
-        # dan harga sebelumnya
         if len(prices) < 2:
             continue
 
@@ -38,17 +38,22 @@ def get_top_movers(
         if previous_close == 0:
             continue
 
-        change = latest_close - previous_close
+        change = (
+            latest_close
+            - previous_close
+        )
 
         change_percent = (
-            change / previous_close
-        ) * 100
+            change
+            / previous_close
+            * 100
+        )
 
         movers.append(
             {
-                "symbol": stock.symbol,
-                "name": stock.name,
-                "sector": stock.sector,
+                "symbol": latest.symbol,
+                "name": latest.name,
+                "sector": latest.sector,
                 "price": latest_close,
                 "previous_close": previous_close,
                 "change": change,
