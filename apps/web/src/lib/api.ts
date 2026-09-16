@@ -20,6 +20,24 @@ export async function getStockHistory(symbol: string) {
 }
 
 
+export async function getStockIndicators(symbol: string) {
+  const response = await fetch(
+    `${API_URL}/api/market/stocks/${symbol}/indicators`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch stock indicators: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+
 export async function getStock(symbol: string) {
   const response = await fetch(
     `${API_URL}/api/market/stocks/${symbol}`,
@@ -201,6 +219,13 @@ export async function getScreener(params: {
   min_change?: number;
   max_change?: number;
   min_volume?: number;
+  trend?: string;
+  rsi_min?: number;
+  rsi_max?: number;
+  macd_signal?: string;
+  price_vs_sma20?: string;
+  price_vs_sma50?: string;
+  price_vs_sma200?: string;
   limit?: number;
   offset?: number;
 }) {
@@ -232,6 +257,52 @@ export async function getScreener(params: {
 
   if (params.min_volume !== undefined) {
     query.set("min_volume", String(params.min_volume));
+  }
+
+  if (params.trend && params.trend !== "ALL") {
+    query.set("trend", params.trend);
+  }
+
+  if (params.rsi_min !== undefined) {
+    query.set("rsi_min", String(params.rsi_min));
+  }
+
+  if (params.rsi_max !== undefined) {
+    query.set("rsi_max", String(params.rsi_max));
+  }
+
+  if (params.macd_signal && params.macd_signal !== "ALL") {
+    query.set("macd_signal", params.macd_signal);
+  }
+
+  if (
+    params.price_vs_sma20 &&
+    params.price_vs_sma20 !== "ALL"
+  ) {
+    query.set(
+      "price_vs_sma20",
+      params.price_vs_sma20
+    );
+  }
+
+  if (
+    params.price_vs_sma50 &&
+    params.price_vs_sma50 !== "ALL"
+  ) {
+    query.set(
+      "price_vs_sma50",
+      params.price_vs_sma50
+    );
+  }
+
+  if (
+    params.price_vs_sma200 &&
+    params.price_vs_sma200 !== "ALL"
+  ) {
+    query.set(
+      "price_vs_sma200",
+      params.price_vs_sma200
+    );
   }
 
   query.set("limit", String(params.limit ?? 50));

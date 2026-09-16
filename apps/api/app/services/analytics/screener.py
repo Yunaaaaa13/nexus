@@ -260,6 +260,7 @@ def calculate_screener_indicators(
             trend = "Insufficient Data"
 
         results[symbol] = {
+            "price": price,
             "sma20": sma20,
             "sma50": sma50,
             "sma200": sma200,
@@ -304,6 +305,143 @@ def screen_stocks(
         "limit": limit,
         "offset": offset,
     }
+
+    # =========================================================
+    # TECHNICAL FILTERS
+    # =========================================================
+
+    technical_symbols = set(technical_data.keys())
+
+    if trend:
+        trend = trend.strip().title()
+
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if technical_data[symbol]["trend"] == trend
+        }
+
+    if rsi_min is not None:
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if technical_data[symbol]["rsi14"] is not None
+            and technical_data[symbol]["rsi14"] >= rsi_min
+        }
+
+    if rsi_max is not None:
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if technical_data[symbol]["rsi14"] is not None
+            and technical_data[symbol]["rsi14"] <= rsi_max
+        }
+
+    if macd_signal:
+        macd_signal = macd_signal.strip().title()
+
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if (
+                (
+                    macd_signal == "Bullish"
+                    and technical_data[symbol]["macd"] is not None
+                    and technical_data[symbol]["macd_signal"] is not None
+                    and technical_data[symbol]["macd"]
+                    > technical_data[symbol]["macd_signal"]
+                )
+                or
+                (
+                    macd_signal == "Bearish"
+                    and technical_data[symbol]["macd"] is not None
+                    and technical_data[symbol]["macd_signal"] is not None
+                    and technical_data[symbol]["macd"]
+                    < technical_data[symbol]["macd_signal"]
+                )
+                or
+                (
+                    macd_signal == "Neutral"
+                    and technical_data[symbol]["macd"] is not None
+                    and technical_data[symbol]["macd_signal"] is not None
+                    and technical_data[symbol]["macd"]
+                    == technical_data[symbol]["macd_signal"]
+                )
+            )
+        }
+
+    def check_price_vs_sma(symbol, sma_key, condition):
+        value = technical_data[symbol].get(sma_key)
+
+        if value is None:
+            return False
+
+        price = technical_data[symbol].get("price")
+
+        if price is None:
+            return False
+
+        if condition == "above":
+            return price > value
+
+        if condition == "below":
+            return price < value
+
+        return True
+
+    if price_vs_sma20:
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if check_price_vs_sma(
+                symbol,
+                "sma20",
+                price_vs_sma20.lower(),
+            )
+        }
+
+    if price_vs_sma50:
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if check_price_vs_sma(
+                symbol,
+                "sma50",
+                price_vs_sma50.lower(),
+            )
+        }
+
+    if price_vs_sma200:
+        technical_symbols = {
+            symbol
+            for symbol in technical_symbols
+            if check_price_vs_sma(
+                symbol,
+                "sma200",
+                price_vs_sma200.lower(),
+            )
+        }
+
+    if technical_symbols != set(technical_data.keys()):
+        if not technical_symbols:
+            return {
+                "success": True,
+                "data": [],
+                "pagination": {
+                    "total": 0,
+                    "limit": limit,
+                    "offset": offset,
+                    "returned": 0,
+                },
+            }
+
+        filters.append(
+            "s.symbol = ANY(:technical_symbols)"
+        )
+
+        params["technical_symbols"] = list(
+            technical_symbols
+        )
 
     if search:
         filters.append(
@@ -486,6 +624,11 @@ def screen_stocks(
     data = []
 
     for row in rows:
+        technical = technical_data.get(
+            row["symbol"],
+            {}
+        )
+
         data.append(
             {
                 "symbol": row["symbol"],
@@ -513,6 +656,20 @@ def screen_stocks(
                     if row["timestamp"] is not None
                     else None
                 ),
+                # Technical Analysis
+                "rsi14": technical.get("rsi14"),
+                "sma20": technical.get("sma20"),
+                "sma50": technical.get("sma50"),
+                "sma200": technical.get("sma200"),
+                "macd": technical.get("macd"),
+                "macd_signal": technical.get("macd_signal"),
+                "macd_histogram": technical.get(
+                    "macd_histogram"
+                ),
+                "volatility20": technical.get(
+                    "volatility20"
+                ),
+                "trend": technical.get("trend"),
             }
         )
 

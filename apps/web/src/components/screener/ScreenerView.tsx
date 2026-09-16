@@ -13,6 +13,15 @@ type Stock = {
   change_percent: number | null;
   volume: number | null;
   timestamp: string | null;
+  rsi14: number | null;
+  sma20: number | null;
+  sma50: number | null;
+  sma200: number | null;
+  macd: number | null;
+  macd_signal: number | null;
+  macd_histogram: number | null;
+  volatility20: number | null;
+  trend: string | null;
 };
 
 type ScreenerResponse = {
@@ -42,6 +51,14 @@ export default function ScreenerView() {
 
   const [minVolume, setMinVolume] = useState("");
 
+  const [trend, setTrend] = useState("ALL");
+  const [rsiMin, setRsiMin] = useState("");
+  const [rsiMax, setRsiMax] = useState("");
+  const [macdSignal, setMacdSignal] = useState("ALL");
+  const [priceVsSma20, setPriceVsSma20] = useState("ALL");
+  const [priceVsSma50, setPriceVsSma50] = useState("ALL");
+  const [priceVsSma200, setPriceVsSma200] = useState("ALL");
+
   const [page, setPage] = useState(1);
 
   const [total, setTotal] = useState(0);
@@ -57,6 +74,14 @@ export default function ScreenerView() {
     minChange: "",
     maxChange: "",
     minVolume: "",
+
+    trend: "ALL",
+    rsiMin: "",
+    rsiMax: "",
+    macdSignal: "ALL",
+    priceVsSma20: "ALL",
+    priceVsSma50: "ALL",
+    priceVsSma200: "ALL",
   });
 
   // =========================================================
@@ -97,6 +122,39 @@ export default function ScreenerView() {
         min_volume: appliedFilters.minVolume
           ? Number(appliedFilters.minVolume)
           : undefined,
+
+        trend:
+          appliedFilters.trend !== "ALL"
+            ? appliedFilters.trend
+            : undefined,
+
+        rsi_min: appliedFilters.rsiMin
+          ? Number(appliedFilters.rsiMin)
+          : undefined,
+
+        rsi_max: appliedFilters.rsiMax
+          ? Number(appliedFilters.rsiMax)
+          : undefined,
+
+        macd_signal:
+          appliedFilters.macdSignal !== "ALL"
+            ? appliedFilters.macdSignal
+            : undefined,
+
+        price_vs_sma20:
+          appliedFilters.priceVsSma20 !== "ALL"
+            ? appliedFilters.priceVsSma20
+            : undefined,
+
+        price_vs_sma50:
+          appliedFilters.priceVsSma50 !== "ALL"
+            ? appliedFilters.priceVsSma50
+            : undefined,
+
+        price_vs_sma200:
+          appliedFilters.priceVsSma200 !== "ALL"
+            ? appliedFilters.priceVsSma200
+            : undefined,
 
         limit: PAGE_SIZE,
         offset,
@@ -140,6 +198,14 @@ export default function ScreenerView() {
       minChange,
       maxChange,
       minVolume,
+
+      trend,
+      rsiMin,
+      rsiMax,
+      macdSignal,
+      priceVsSma20,
+      priceVsSma50,
+      priceVsSma200,
     });
   }
 
@@ -156,6 +222,14 @@ export default function ScreenerView() {
     setMaxChange("");
     setMinVolume("");
 
+    setTrend("ALL");
+    setRsiMin("");
+    setRsiMax("");
+    setMacdSignal("ALL");
+    setPriceVsSma20("ALL");
+    setPriceVsSma50("ALL");
+    setPriceVsSma200("ALL");
+
     setPage(1);
 
     setAppliedFilters({
@@ -166,6 +240,14 @@ export default function ScreenerView() {
       minChange: "",
       maxChange: "",
       minVolume: "",
+
+      trend: "ALL",
+      rsiMin: "",
+      rsiMax: "",
+      macdSignal: "ALL",
+      priceVsSma20: "ALL",
+      priceVsSma50: "ALL",
+      priceVsSma200: "ALL",
     });
   }
 
@@ -386,6 +468,146 @@ export default function ScreenerView() {
           </div>
         </div>
 
+        {/* TECHNICAL FILTERS */}
+        <div className="mt-6 border-t border-white/[0.05] pt-6">
+          <div className="mb-4">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-zinc-500">
+              Technical Filters
+            </p>
+
+            <p className="mt-1 text-xs text-zinc-600">
+              Filter stocks using NEXUS technical analysis signals.
+            </p>
+          </div>
+
+          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+
+            {/* TREND */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                Trend
+              </label>
+
+              <select
+                value={trend}
+                onChange={(e) => setTrend(e.target.value)}
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-3 text-sm text-white outline-none focus:border-white/20"
+              >
+                <option value="ALL">All Trends</option>
+                <option value="Bullish">Bullish</option>
+                <option value="Neutral">Neutral</option>
+                <option value="Bearish">Bearish</option>
+              </select>
+            </div>
+
+            {/* MACD */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                MACD
+              </label>
+
+              <select
+                value={macdSignal}
+                onChange={(e) => setMacdSignal(e.target.value)}
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-3 text-sm text-white outline-none focus:border-white/20"
+              >
+                <option value="ALL">All Signals</option>
+                <option value="Bullish">Bullish</option>
+                <option value="Neutral">Neutral</option>
+                <option value="Bearish">Bearish</option>
+              </select>
+            </div>
+
+            {/* RSI MIN */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                RSI Min
+              </label>
+
+              <input
+                type="number"
+                min="0"
+                max="100"
+                step="0.1"
+                value={rsiMin}
+                onChange={(e) => setRsiMin(e.target.value)}
+                placeholder="0"
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-4 text-sm text-white outline-none placeholder:text-zinc-600 focus:border-white/20"
+              />
+            </div>
+
+            {/* RSI MAX */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                RSI Max
+              </label>
+
+              <input
+                type="number"
+                min="0"
+                max="100"
+                step="0.1"
+                value={rsiMax}
+                onChange={(e) => setRsiMax(e.target.value)}
+                placeholder="100"
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-4 text-sm text-white outline-none placeholder:text-zinc-600 focus:border-white/20"
+              />
+            </div>
+
+            {/* SMA20 */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                Price vs SMA20
+              </label>
+
+              <select
+                value={priceVsSma20}
+                onChange={(e) => setPriceVsSma20(e.target.value)}
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-3 text-sm text-white outline-none focus:border-white/20"
+              >
+                <option value="ALL">All</option>
+                <option value="above">Above</option>
+                <option value="below">Below</option>
+              </select>
+            </div>
+
+            {/* SMA50 */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                Price vs SMA50
+              </label>
+
+              <select
+                value={priceVsSma50}
+                onChange={(e) => setPriceVsSma50(e.target.value)}
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-3 text-sm text-white outline-none focus:border-white/20"
+              >
+                <option value="ALL">All</option>
+                <option value="above">Above</option>
+                <option value="below">Below</option>
+              </select>
+            </div>
+
+            {/* SMA200 */}
+            <div>
+              <label className="mb-2 block text-[11px] uppercase tracking-wider text-zinc-500">
+                Price vs SMA200
+              </label>
+
+              <select
+                value={priceVsSma200}
+                onChange={(e) => setPriceVsSma200(e.target.value)}
+                className="h-10 w-full rounded-xl border border-white/[0.08] bg-zinc-950 px-3 text-sm text-white outline-none focus:border-white/20"
+              >
+                <option value="ALL">All</option>
+                <option value="above">Above</option>
+                <option value="below">Below</option>
+              </select>
+            </div>
+
+          </div>
+        </div>
+
         {/* ACTIONS */}
         <div className="mt-5 flex gap-2 border-t border-white/[0.05] pt-5">
           <button
@@ -443,7 +665,7 @@ export default function ScreenerView() {
 
           <div className="overflow-x-auto">
 
-            <table className="w-full min-w-[900px] text-left">
+            <table className="w-full min-w-[1200px] text-left">
 
               <thead className="border-b border-white/[0.05] bg-zinc-950/40">
                 <tr className="text-[10px] uppercase tracking-wider text-zinc-600">
@@ -473,6 +695,18 @@ export default function ScreenerView() {
                   </th>
 
                   <th className="px-5 py-4 text-right">
+                    RSI
+                  </th>
+
+                  <th className="px-5 py-4 text-right">
+                    MACD
+                  </th>
+
+                  <th className="px-5 py-4">
+                    Trend
+                  </th>
+
+                  <th className="px-5 py-4 text-right">
                     Data
                   </th>
 
@@ -484,7 +718,7 @@ export default function ScreenerView() {
                 {loading ? (
                   Array.from({ length: 8 }).map((_, index) => (
                     <tr key={index}>
-                      {Array.from({ length: 7 }).map((_, cell) => (
+                      {Array.from({ length: 10 }).map((_, cell) => (
                         <td
                           key={cell}
                           className="px-5 py-4"
@@ -497,7 +731,7 @@ export default function ScreenerView() {
                 ) : stocks.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={7}
+                      colSpan={10}
                       className="px-5 py-16 text-center"
                     >
                       <p className="text-sm text-zinc-400">
@@ -571,6 +805,61 @@ export default function ScreenerView() {
                           <span className="text-sm text-zinc-400">
                             {formatVolume(stock.volume)}
                           </span>
+                        </td>
+
+                        <td className="px-5 py-4 text-right">
+                          {stock.rsi14 !== null ? (
+                            <span
+                              className={
+                                stock.rsi14 >= 70
+                                  ? "font-medium text-red-400"
+                                  : stock.rsi14 <= 30
+                                    ? "font-medium text-emerald-400"
+                                    : "font-medium text-white"
+                              }
+                            >
+                              {stock.rsi14.toFixed(1)}
+                            </span>
+                          ) : (
+                            <span className="text-zinc-600">—</span>
+                          )}
+                        </td>
+
+                        <td className="px-5 py-4 text-right">
+                          {stock.macd !== null ? (
+                            <span
+                              className={
+                                stock.macd > (stock.macd_signal ?? 0)
+                                  ? "font-medium text-emerald-400"
+                                  : stock.macd < (stock.macd_signal ?? 0)
+                                    ? "font-medium text-red-400"
+                                    : "font-medium text-zinc-500"
+                              }
+                            >
+                              {stock.macd.toFixed(1)}
+                            </span>
+                          ) : (
+                            <span className="text-zinc-600">—</span>
+                          )}
+                        </td>
+
+                        <td className="px-5 py-4">
+                          {stock.trend ? (
+                            <span
+                              className={
+                                "rounded-full px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider " +
+                                (stock.trend === "Bullish"
+                                  ? "bg-emerald-500/10 text-emerald-400"
+                                  : stock.trend === "Bearish"
+                                    ? "bg-red-500/10 text-red-400"
+                                    : "bg-zinc-500/10 text-zinc-400")
+                              }
+                            >
+                              {stock.trend}
+                            </span>
+                          ) : (
+                            <span className="text-zinc-600">—</span>
+                          )}
                         </td>
 
                         <td className="px-5 py-4 text-right">

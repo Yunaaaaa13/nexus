@@ -10,6 +10,9 @@ from app.services.analytics.breadth import get_market_breadth
 from app.services.analytics.sectors import (
     get_sector_performance
 )
+from app.services.analytics.indicators import (
+    get_stock_indicators
+)
 
 from app.services.market_data.providers.yahoo_provider import (
     YahooFinanceProvider,
@@ -509,6 +512,39 @@ def get_stock_history(
             status_code=500,
             detail=f"Failed to fetch stored stock history: {str(e)}",
         )
+
+
+@router.get("/stocks/{symbol}/indicators")
+def get_stock_indicators_endpoint(
+    symbol: str,
+    db: Session = Depends(get_db),
+):
+    symbol = symbol.upper().strip()
+
+    try:
+        data = get_stock_indicators(
+            db=db,
+            symbol=symbol,
+        )
+
+        if not data:
+            raise HTTPException(
+                status_code=404,
+                detail=f"No technical data found for {symbol}",
+            )
+
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except ValueError as e:
+        raise HTTPException(
+            status_code=404,
+            detail=str(e),
+        )
+
+
 @router.get("/breadth")
 def get_breadth(
     db: Session = Depends(get_db),
