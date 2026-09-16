@@ -101,6 +101,33 @@ def get_index_intraday(symbol: str = "IHSG"):
         )
 
 
+VALID_PERIODS = ["1D", "5D", "1M", "3M", "6M", "1Y", "5Y", "ALL"]
+
+
+@router.get("/indices/{symbol}/history")
+def get_index_history(symbol: str = "IHSG", period: str = "1D", interval: str = ""):
+    period = period.upper()
+    if period not in VALID_PERIODS:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid period '{period}'. Must be one of: {', '.join(VALID_PERIODS)}",
+        )
+
+    try:
+        data = provider.get_index_history(symbol=symbol.upper(), period=period, interval=interval)
+
+        return {
+            "success": True,
+            "data": data,
+        }
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Failed to fetch index history data: {str(e)}",
+        )
+
+
 @router.get("/stocks")
 def get_all_stocks(
     limit: int = 50,

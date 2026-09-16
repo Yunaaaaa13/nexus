@@ -8,7 +8,6 @@ import MarketBreadth from "@/components/market/MarketBreadth";
 import MarketActivity from "@/components/market/MarketActivity";
 import TopMovers from "@/components/market/TopMovers";
 import MarketInsight from "@/components/market/MarketInsight";
-import StockTerminal from "@/components/stocks/StockTerminal";
 import StockFocus from "@/components/market/StockFocus";
 import ScreenerView from "@/components/screener/ScreenerView";
 import PortfolioView from "@/components/portfolio/PortfolioView";
@@ -51,8 +50,6 @@ export default function Home() {
             <SectorPerformance />
           </div>
         )}
-
-        {activeTab === "Stocks" && <StockTerminal />}
 
         {activeTab === "Screener" && <ScreenerView />}
 

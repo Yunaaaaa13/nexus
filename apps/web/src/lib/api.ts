@@ -97,6 +97,31 @@ export async function getIndexIntraday(
 }
 
 
+export async function getIndexHistory(
+  symbol: string = "IHSG",
+  period: string = "1D",
+  interval: string = ""
+) {
+  const params = new URLSearchParams({ period });
+  if (interval) params.set("interval", interval);
+
+  const response = await fetch(
+    `${API_URL}/api/market/indices/${symbol}/history?${params.toString()}`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch index history data: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+
 export async function getIndexOverview() {
   const response = await fetch(
     `${API_URL}/api/market/indices/overview`,
