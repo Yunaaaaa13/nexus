@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { getScreener } from "@/lib/api";
+import StockLogo from "@/components/stocks/StockLogo";
 
 type Stock = {
   symbol: string;
@@ -180,6 +181,7 @@ export default function ScreenerView() {
 
   // Fetch ketika page / applied filters berubah
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     fetchScreener(page);
   }, [page, appliedFilters]);
 
@@ -762,9 +764,16 @@ export default function ScreenerView() {
                       >
 
                         <td className="px-5 py-4">
-                          <span className="font-semibold text-white">
-                            {stock.symbol}
-                          </span>
+                          <div className="flex items-center gap-2.5">
+                            <StockLogo
+                              symbol={stock.symbol}
+                              name={stock.name}
+                              size="sm"
+                            />
+                            <span className="font-semibold text-white">
+                              {stock.symbol}
+                            </span>
+                          </div>
                         </td>
 
                         <td className="px-5 py-4">

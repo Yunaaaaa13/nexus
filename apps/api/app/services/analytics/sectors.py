@@ -1,108 +1,110 @@
 from sqlalchemy.orm import Session
-
-from app.services.analytics.latest_prices import (
-    get_latest_two_prices,
-)
+from sqlalchemy import text
 
 
 def get_sector_performance(db: Session):
+    query = text("""
+        SELECT
+            s.sector,
 
-    rows = get_latest_two_prices(db)
+            COUNT(*) AS stock_count,
 
-    stocks = {}
+            COUNT(*) FILTER (
+                WHERE latest.close > previous.close
+            ) AS advancing,
 
-    for row in rows:
+            COUNT(*) FILTER (
+                WHERE latest.close < previous.close
+            ) AS declining,
 
-        stock_id = row.stock_id
+            COUNT(*) FILTER (
+                WHERE latest.close = previous.close
+            ) AS unchanged,
 
-        if stock_id not in stocks:
-            stocks[stock_id] = []
+            AVG(
+                CASE
+                    WHEN previous.close IS NOT NULL
+                         AND previous.close <> 0
+                    THEN (
+                        (latest.close - previous.close)
+                        / previous.close
+                    ) * 100
+                END
+            ) AS avg_change_percent,
 
-        stocks[stock_id].append(row)
+            SUM(latest.volume) AS total_volume
 
-    sector_data = {}
+        FROM stocks s
 
-    for stock_id, prices in stocks.items():
+        JOIN LATERAL (
+            SELECT
+                close,
+                volume
+            FROM stock_prices sp
+            WHERE sp.stock_id = s.id
+            ORDER BY sp.timestamp DESC
+            LIMIT 1
+        ) latest ON TRUE
 
-        if len(prices) < 2:
-            continue
+        JOIN LATERAL (
+            SELECT
+                close
+            FROM stock_prices sp
+            WHERE sp.stock_id = s.id
+            ORDER BY sp.timestamp DESC
+            OFFSET 1
+            LIMIT 1
+        ) previous ON TRUE
 
-        latest = prices[0]
-        previous = prices[1]
+        WHERE s.sector IS NOT NULL
+          AND TRIM(s.sector) <> ''
 
-        if not latest.sector:
-            continue
+        GROUP BY s.sector
+        ORDER BY avg_change_percent DESC
+    """)
 
-        latest_close = float(latest.close)
-        previous_close = float(previous.close)
-
-        if previous_close == 0:
-            continue
-
-        change_percent = (
-            (
-                latest_close
-                - previous_close
-            )
-            / previous_close
-            * 100
-        )
-
-        sector = latest.sector
-
-        if sector not in sector_data:
-
-            sector_data[sector] = {
-                "sector": sector,
-                "stock_count": 0,
-                "total_change_percent": 0.0,
-                "stocks": [],
-            }
-
-        sector_data[sector][
-            "stock_count"
-        ] += 1
-
-        sector_data[sector][
-            "total_change_percent"
-        ] += change_percent
-
-        sector_data[sector][
-            "stocks"
-        ].append(
-            {
-                "symbol": latest.symbol,
-                "change_percent": change_percent,
-            }
-        )
+    rows = db.execute(query).mappings().all()
 
     result = []
 
-    for sector, data in sector_data.items():
+    for row in rows:
+        stock_count = int(row["stock_count"])
+        advancing = int(row["advancing"] or 0)
+        declining = int(row["declining"] or 0)
+        unchanged = int(row["unchanged"] or 0)
 
-        stock_count = data[
-            "stock_count"
-        ]
-
-        average_change = (
-            data["total_change_percent"]
-            / stock_count
+        avg_change = (
+            float(row["avg_change_percent"])
+            if row["avg_change_percent"] is not None
+            else 0
         )
 
-        result.append(
-            {
-                "sector": sector,
-                "stock_count": stock_count,
-                "average_change_percent":
-                    average_change,
-                "stocks": data["stocks"],
-            }
-        )
+        total_volume = int(row["total_volume"] or 0)
 
-    result.sort(
-        key=lambda x:
-            x["average_change_percent"],
-        reverse=True,
-    )
+        if stock_count > 0:
+            breadth_percent = (
+                advancing / stock_count
+            ) * 100
+        else:
+            breadth_percent = 0
+
+        if avg_change > 0.5:
+            momentum = "Positive"
+        elif avg_change < -0.5:
+            momentum = "Negative"
+        else:
+            momentum = "Neutral"
+
+        result.append({
+            "sector": row["sector"],
+            "stock_count": stock_count,
+            "advancing": advancing,
+            "declining": declining,
+            "unchanged": unchanged,
+            "avg_change_percent": round(avg_change, 2),
+            "breadth_percent": round(breadth_percent, 2),
+            "total_volume": total_volume,
+            "momentum": momentum,
+        })
 
     return result

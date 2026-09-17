@@ -20,6 +20,26 @@ export async function getStockHistory(symbol: string) {
 }
 
 
+export async function getStockIndicatorHistory(
+  symbol: string
+) {
+  const response = await fetch(
+    `${API_URL}/api/market/stocks/${symbol}/indicators/history`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch stock indicator history: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+
 export async function getStockIndicators(symbol: string) {
   const response = await fetch(
     `${API_URL}/api/market/stocks/${symbol}/indicators`,
@@ -205,6 +225,40 @@ export async function getSectorPerformance() {
   if (!response.ok) {
     throw new Error(
       `Failed to fetch sector performance: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+export async function getSectorAnalytics() {
+  const response = await fetch(
+    `${API_URL}/api/sectors`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch sector analytics: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+export async function getSectorRotation() {
+  const response = await fetch(
+    `${API_URL}/api/sectors/rotation`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch sector rotation: ${response.status}`
     );
   }
 

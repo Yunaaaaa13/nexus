@@ -1,12 +1,28 @@
+import time
+
 import pandas as pd
 
 from sqlalchemy.orm import Session
 from sqlalchemy import text
 
 
+_technical_cache: dict = {}
+_technical_cache_time: float = 0.0
+_TECHNICAL_CACHE_TTL = 300
+
+
 def calculate_screener_indicators(
     db: Session,
 ):
+    global _technical_cache, _technical_cache_time
+
+    now = time.time()
+
+    if (
+        _technical_cache
+        and (now - _technical_cache_time) < _TECHNICAL_CACHE_TTL
+    ):
+        return _technical_cache
     query = text(
         """
         SELECT
@@ -271,6 +287,9 @@ def calculate_screener_indicators(
             "volatility20": volatility20,
             "trend": trend,
         }
+
+    _technical_cache = results
+    _technical_cache_time = time.time()
 
     return results
 

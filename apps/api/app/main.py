@@ -10,7 +10,7 @@ from app.models import (
     IndexPrice,
 )
 from app.routers.market import router as market_router
-from app.routers import screener, indicators
+from app.routers import screener, indicators, sectors, sector_rotation
 
 
 app = FastAPI(
@@ -33,6 +33,8 @@ Base.metadata.create_all(bind=engine)
 app.include_router(market_router)
 app.include_router(screener.router)
 app.include_router(indicators.router)
+app.include_router(sectors.router)
+app.include_router(sector_rotation.router)
 
 
 @app.get("/")

@@ -11,7 +11,8 @@ from app.services.analytics.sectors import (
     get_sector_performance
 )
 from app.services.analytics.indicators import (
-    get_stock_indicators
+    get_stock_indicators,
+    get_stock_indicator_history,
 )
 
 from app.services.market_data.providers.yahoo_provider import (
@@ -543,6 +544,31 @@ def get_stock_indicators_endpoint(
             status_code=404,
             detail=str(e),
         )
+
+
+@router.get("/stocks/{symbol}/indicators/history")
+def get_stock_indicator_history_endpoint(
+    symbol: str,
+    db: Session = Depends(get_db),
+):
+    symbol = symbol.upper().strip()
+
+    data = get_stock_indicator_history(
+        db=db,
+        symbol=symbol,
+    )
+
+    if not data:
+        raise HTTPException(
+            status_code=404,
+            detail=f"No technical history found for {symbol}",
+        )
+
+    return {
+        "success": True,
+        "symbol": symbol,
+        "data": data,
+    }
 
 
 @router.get("/breadth")

@@ -1,5 +1,7 @@
 ﻿"use client";
 
+import StockLogo from "@/components/stocks/StockLogo";
+
 export default function PortfolioView() {
   const HOLDINGS = [
     { symbol: "BBCA", name: "Bank Central Asia", shares: 15000, avgPrice: 6200, currentPrice: 6525 },
@@ -68,7 +70,15 @@ export default function PortfolioView() {
               const gainPct = (gain / (h.shares * h.avgPrice)) * 100;
               return (
                 <tr key={h.symbol} className="hover:bg-white/[0.02]">
-                  <td className="px-6 py-4 font-bold text-white">{h.symbol}</td>
+                  <td className="px-6 py-4">
+                  <div className="flex items-center gap-2.5">
+                    <StockLogo symbol={h.symbol} name={h.name} />
+                    <div>
+                      <div className="font-bold text-white">{h.symbol}</div>
+                      <div className="text-xs text-zinc-500">{h.name}</div>
+                    </div>
+                  </div>
+                </td>
                   <td className="px-6 py-4 text-zinc-300">{h.shares.toLocaleString("id-ID")}</td>
                   <td className="px-6 py-4 text-right text-zinc-400">Rp {h.avgPrice.toLocaleString("id-ID")}</td>
                   <td className="px-6 py-4 text-right font-medium text-white">Rp {h.currentPrice.toLocaleString("id-ID")}</td>

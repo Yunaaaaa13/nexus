@@ -2,12 +2,14 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 export type TabType =
   | "Market"
   | "Stocks"
   | "Screener"
+  | "Sectors"
   | "Portfolio"
   | "Backtest"
   | "AI Analyst";
@@ -21,6 +23,7 @@ const NAV_ITEMS: NavItem[] = [
   { name: "Market", href: "/" },
   { name: "Stocks", href: "/stocks" },
   { name: "Screener", href: "/screener" },
+  { name: "Sectors", href: "/sectors" },
   { name: "Portfolio", href: "/portfolio" },
   { name: "Backtest", href: "/backtest" },
   { name: "AI Analyst", href: "/ai-analyst" },
@@ -39,6 +42,7 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
     if (pathname === "/") return "Market";
     if (pathname.startsWith("/stocks")) return "Stocks";
     if (pathname.startsWith("/screener")) return "Screener";
+    if (pathname.startsWith("/sectors")) return "Sectors";
     if (pathname.startsWith("/portfolio")) return "Portfolio";
     if (pathname.startsWith("/backtest")) return "Backtest";
     if (pathname.startsWith("/ai-analyst")) return "AI Analyst";
@@ -56,7 +60,7 @@ export default function Navbar({ activeTab, onSelectTab }: NavbarProps) {
           onClick={() => onSelectTab?.("Market")}
           className="flex items-center gap-3 text-left focus:outline-none cursor-pointer"
         >
-          <img
+          <Image
             src="/logo.svg"
             alt="NEXUS Logo"
             width={32}

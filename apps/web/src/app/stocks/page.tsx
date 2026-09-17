@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import Navbar from "@/components/layout/Navbar";
+import StockLogo from "@/components/stocks/StockLogo";
 import { getScreener, getSectorPerformance } from "@/lib/api";
 
 interface StockItem {
@@ -319,9 +320,10 @@ export default function StocksPage() {
                       >
                         <td className="py-4 pl-6 pr-4">
                           <div className="flex items-center gap-3">
-                            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-white/[0.08] bg-zinc-950 font-bold text-white transition group-hover:border-indigo-500/40">
-                              {stock.symbol.slice(0, 2)}
-                            </div>
+                            <StockLogo
+                              symbol={stock.symbol}
+                              name={stock.name ?? `${stock.symbol} Tbk.`}
+                            />
                             <div className="min-w-0">
                               <div className="flex items-center gap-2">
                                 <Link
