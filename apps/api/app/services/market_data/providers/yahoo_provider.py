@@ -82,6 +82,42 @@ class YahooFinanceProvider(MarketDataProvider):
 
         return result
 
+    def get_index_history_daily(self, symbol: str = "IHSG"):
+        ticker = yf.Ticker("^JKSE", session=self.session)
+        history = ticker.history(
+            period="1y",
+            interval="1d",
+            auto_adjust=False,
+        )
+
+        if history.empty:
+            time.sleep(1)
+            history = ticker.history(
+                period="1y",
+                interval="1d",
+                auto_adjust=False,
+            )
+
+        if history.empty:
+            raise ValueError(
+                f"No index history found for {symbol}"
+            )
+
+        result = []
+        for timestamp, row in history.iterrows():
+            result.append({
+                "symbol": "COMPOSITE",
+                "name": "IHSG",
+                "timestamp": timestamp.isoformat(),
+                "open": float(row["Open"]),
+                "high": float(row["High"]),
+                "low": float(row["Low"]),
+                "close": float(row["Close"]),
+                "source": "Yahoo Finance",
+            })
+
+        return result
+
     def get_index(self, symbol: str):
         ticker = yf.Ticker("^JKSE", session=self.session)
         history = ticker.history(

@@ -265,6 +265,114 @@ export async function getSectorRotation() {
   return response.json();
 }
 
+export async function runBacktest(params: {
+  symbol: string;
+  strategy: string;
+  initial_capital?: number;
+  start_date?: string;
+  end_date?: string;
+  buy_fee_percent?: number;
+  sell_fee_percent?: number;
+  slippage_percent?: number;
+}) {
+  const query = new URLSearchParams();
+
+  query.set("symbol", params.symbol);
+  query.set("strategy", params.strategy);
+  query.set(
+    "initial_capital",
+    String(params.initial_capital ?? 100_000_000)
+  );
+
+  if (params.start_date) {
+    query.set("start_date", params.start_date);
+  }
+
+  if (params.end_date) {
+    query.set("end_date", params.end_date);
+  }
+
+  if (typeof params.buy_fee_percent === "number") {
+    query.set(
+      "buy_fee_percent",
+      String(params.buy_fee_percent)
+    );
+  }
+
+  if (typeof params.sell_fee_percent === "number") {
+    query.set(
+      "sell_fee_percent",
+      String(params.sell_fee_percent)
+    );
+  }
+
+  if (typeof params.slippage_percent === "number") {
+    query.set(
+      "slippage_percent",
+      String(params.slippage_percent)
+    );
+  }
+
+  const response = await fetch(
+    `${API_URL}/api/backtest?${query.toString()}`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    const error = await response.json().catch(() => null);
+
+    throw new Error(
+      error?.detail ??
+        `Failed to run backtest: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
+export async function getStockUniverse(params: {
+  search?: string;
+  sector?: string;
+  limit?: number;
+  offset?: number;
+}) {
+  const query = new URLSearchParams();
+
+  if (params.search) {
+    query.set("search", params.search);
+  }
+
+  if (params.sector) {
+    query.set("sector", params.sector);
+  }
+
+  query.set(
+    "limit",
+    String(params.limit ?? 200)
+  );
+
+  if (params.offset) {
+    query.set("offset", String(params.offset));
+  }
+
+  const response = await fetch(
+    `${API_URL}/api/stocks?${query.toString()}`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch stock universe: ${response.status}`
+    );
+  }
+
+  return response.json();
+}
+
 export async function getScreener(params: {
   search?: string;
   sector?: string;
@@ -273,6 +381,7 @@ export async function getScreener(params: {
   min_change?: number;
   max_change?: number;
   min_volume?: number;
+  hide_no_trade?: boolean;
   trend?: string;
   rsi_min?: number;
   rsi_max?: number;
@@ -311,6 +420,10 @@ export async function getScreener(params: {
 
   if (params.min_volume !== undefined) {
     query.set("min_volume", String(params.min_volume));
+  }
+
+  if (params.hide_no_trade) {
+    query.set("hide_no_trade", "true");
   }
 
   if (params.trend && params.trend !== "ALL") {

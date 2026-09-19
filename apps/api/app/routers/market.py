@@ -453,6 +453,31 @@ def sync_stock_history(
         )
 
 
+@router.post("/sync/index/{symbol}/history")
+def sync_index_history(
+    symbol: str,
+    db: Session = Depends(get_db),
+):
+    try:
+        result = ingestion_service.sync_index_history(
+            db=db,
+            symbol=symbol.upper(),
+        )
+
+        return {
+            "success": True,
+            "data": result,
+        }
+
+    except Exception as e:
+        db.rollback()
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to sync index historical data: {str(e)}",
+        )
+
+
 # ============================================================
 # STORED MARKET DATA (DATABASE)
 # ============================================================

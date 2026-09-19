@@ -93,6 +93,83 @@ class MarketDataIngestionService:
             "database_id": existing_price.id,
         }
 
+    def sync_index_history(
+        self,
+        db: Session,
+        symbol: str = "IHSG",
+    ):
+        # 1. Fetch historical index data from provider
+        data_list = self.provider.get_index_history_daily(
+            symbol
+        )
+
+        if not data_list:
+            raise ValueError(
+                f"No historical data found for {symbol}"
+            )
+
+        # 2. Find existing index
+        market_index = (
+            db.query(MarketIndex)
+            .filter(MarketIndex.symbol == "COMPOSITE")
+            .first()
+        )
+
+        # 3. Create index master data if it doesn't exist
+        if not market_index:
+            market_index = MarketIndex(
+                symbol="COMPOSITE",
+                name="IHSG",
+                description="Indonesian Stock Market Composite Index",
+            )
+
+            db.add(market_index)
+            db.flush()
+
+        inserted = 0
+        skipped = 0
+
+        for data in data_list:
+            timestamp = self._parse_timestamp(
+                data["timestamp"]
+            )
+
+            # 4. Check duplicate price data
+            existing_price = (
+                db.query(IndexPrice)
+                .filter(
+                    IndexPrice.index_id == market_index.id,
+                    IndexPrice.timestamp == timestamp,
+                )
+                .first()
+            )
+
+            if existing_price:
+                skipped += 1
+                continue
+
+            index_price = IndexPrice(
+                index_id=market_index.id,
+                timestamp=timestamp,
+                open=data["open"],
+                high=data["high"],
+                low=data["low"],
+                close=data["close"],
+                source=data["source"],
+            )
+
+            db.add(index_price)
+            inserted += 1
+
+        db.commit()
+
+        return {
+            "symbol": symbol,
+            "total_records": len(data_list),
+            "inserted": inserted,
+            "skipped": skipped,
+        }
+
     def sync_stock(
         self,
         db: Session,

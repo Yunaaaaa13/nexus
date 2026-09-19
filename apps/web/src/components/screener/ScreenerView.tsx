@@ -13,7 +13,9 @@ type Stock = {
   change: number | null;
   change_percent: number | null;
   volume: number | null;
+  trading_status: string | null;
   timestamp: string | null;
+  last_volume_timestamp: string | null;
   rsi14: number | null;
   sma20: number | null;
   sma50: number | null;
@@ -52,6 +54,8 @@ export default function ScreenerView() {
 
   const [minVolume, setMinVolume] = useState("");
 
+  const [hideNoTrade, setHideNoTrade] = useState(false);
+
   const [trend, setTrend] = useState("ALL");
   const [rsiMin, setRsiMin] = useState("");
   const [rsiMax, setRsiMax] = useState("");
@@ -75,6 +79,7 @@ export default function ScreenerView() {
     minChange: "",
     maxChange: "",
     minVolume: "",
+    hideNoTrade: false,
 
     trend: "ALL",
     rsiMin: "",
@@ -122,6 +127,10 @@ export default function ScreenerView() {
 
         min_volume: appliedFilters.minVolume
           ? Number(appliedFilters.minVolume)
+          : undefined,
+
+        hide_no_trade: appliedFilters.hideNoTrade
+          ? true
           : undefined,
 
         trend:
@@ -200,6 +209,7 @@ export default function ScreenerView() {
       minChange,
       maxChange,
       minVolume,
+      hideNoTrade,
 
       trend,
       rsiMin,
@@ -224,6 +234,8 @@ export default function ScreenerView() {
     setMaxChange("");
     setMinVolume("");
 
+    setHideNoTrade(false);
+
     setTrend("ALL");
     setRsiMin("");
     setRsiMax("");
@@ -242,6 +254,7 @@ export default function ScreenerView() {
       minChange: "",
       maxChange: "",
       minVolume: "",
+      hideNoTrade: false,
 
       trend: "ALL",
       rsiMin: "",
@@ -293,6 +306,84 @@ export default function ScreenerView() {
     const sign = value > 0 ? "+" : "";
 
     return `${sign}${value.toFixed(2)}%`;
+  }
+
+  const MONTHS_SHORT = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Mei",
+    "Jun",
+    "Jul",
+    "Agu",
+    "Sep",
+    "Okt",
+    "Nov",
+    "Des",
+  ];
+
+  function formatDateShort(value: string | null | undefined) {
+    if (!value) {
+      return "—";
+    }
+
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+      return "—";
+    }
+
+    return `${date.getDate()} ${MONTHS_SHORT[date.getMonth()]}`;
+  }
+
+  function formatDateFull(value: string | null | undefined) {
+    if (!value) {
+      return "—";
+    }
+
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+      return "—";
+    }
+
+    return date.toLocaleDateString("id-ID", {
+      day: "2-digit",
+      month: "long",
+      year: "numeric",
+    });
+  }
+
+  function getStatusMeta(status: string | null) {
+    switch (status) {
+      case "NO_VOLUME":
+        return {
+          label: "No Volume",
+          className:
+            "bg-zinc-500/10 text-zinc-500",
+        };
+
+      case "NO_PRICE_CHANGE":
+        return {
+          label: "No Price Change",
+          className:
+            "bg-amber-500/10 text-amber-400",
+        };
+
+      case "INSUFFICIENT_DATA":
+        return {
+          label: "Insufficient Data",
+          className: "bg-red-500/10 text-red-400",
+        };
+
+      default:
+        return {
+          label: "Active",
+          className:
+            "bg-emerald-500/10 text-emerald-400",
+        };
+    }
   }
 
   // =========================================================
@@ -380,8 +471,10 @@ export default function ScreenerView() {
               <option value="Basic Materials">
                 Basic Materials
               </option>
-              <option value="Technology">Technology</option>
-              <option value="Healthcare">Healthcare</option>
+              <option value="Industrials">Industrials</option>
+              <option value="Consumer Cyclical">
+                Consumer Cyclical
+              </option>
               <option value="Consumer Staples">
                 Consumer Staples
               </option>
@@ -389,6 +482,9 @@ export default function ScreenerView() {
                 Communication Services
               </option>
               <option value="Utilities">Utilities</option>
+              <option value="Technology">Technology</option>
+              <option value="Healthcare">Healthcare</option>
+              <option value="Real Estate">Real Estate</option>
             </select>
           </div>
 
@@ -611,7 +707,8 @@ export default function ScreenerView() {
         </div>
 
         {/* ACTIONS */}
-        <div className="mt-5 flex gap-2 border-t border-white/[0.05] pt-5">
+        <div className="mt-5 flex flex-wrap items-center gap-2 border-t border-white/[0.05] pt-5">
+
           <button
             onClick={handleApplyFilters}
             className="rounded-xl bg-white px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-zinc-200"
@@ -625,6 +722,21 @@ export default function ScreenerView() {
           >
             Reset
           </button>
+
+          <label className="ml-2 flex cursor-pointer items-center gap-2.5 rounded-xl border border-white/[0.08] px-4 py-2.5 transition hover:bg-white/[0.04]">
+            <input
+              type="checkbox"
+              checked={hideNoTrade}
+              onChange={(e) =>
+                setHideNoTrade(e.target.checked)
+              }
+              className="h-4 w-4 accent-white"
+            />
+
+            <span className="text-sm text-zinc-400">
+              Sembunyikan tanpa transaksi
+            </span>
+          </label>
         </div>
       </div>
 
@@ -667,7 +779,7 @@ export default function ScreenerView() {
 
           <div className="overflow-x-auto">
 
-            <table className="w-full min-w-[1200px] text-left">
+            <table className="w-full min-w-[1350px] text-left">
 
               <thead className="border-b border-white/[0.05] bg-zinc-950/40">
                 <tr className="text-[10px] uppercase tracking-wider text-zinc-600">
@@ -696,6 +808,10 @@ export default function ScreenerView() {
                     Volume
                   </th>
 
+                  <th className="px-5 py-4">
+                    Status
+                  </th>
+
                   <th className="px-5 py-4 text-right">
                     RSI
                   </th>
@@ -709,7 +825,7 @@ export default function ScreenerView() {
                   </th>
 
                   <th className="px-5 py-4 text-right">
-                    Data
+                    Last Trade
                   </th>
 
                 </tr>
@@ -720,7 +836,7 @@ export default function ScreenerView() {
                 {loading ? (
                   Array.from({ length: 8 }).map((_, index) => (
                     <tr key={index}>
-                      {Array.from({ length: 10 }).map((_, cell) => (
+                      {Array.from({ length: 11 }).map((_, cell) => (
                         <td
                           key={cell}
                           className="px-5 py-4"
@@ -733,7 +849,7 @@ export default function ScreenerView() {
                 ) : stocks.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={10}
+                      colSpan={11}
                       className="px-5 py-16 text-center"
                     >
                       <p className="text-sm text-zinc-400">
@@ -796,6 +912,15 @@ export default function ScreenerView() {
 
                         <td className="px-5 py-4 text-right">
                           <span
+                            title={
+                              stock.trading_status ===
+                              "NO_VOLUME"
+                                ? `Tidak ada transaksi sejak ${formatDateFull(
+                                    stock.last_volume_timestamp ??
+                                      stock.timestamp
+                                  )}`
+                                : undefined
+                            }
                             className={
                               isPositive
                                 ? "font-medium text-emerald-400"
@@ -804,15 +929,61 @@ export default function ScreenerView() {
                                   : "font-medium text-zinc-500"
                             }
                           >
-                            {formatChange(
-                              stock.change_percent
-                            )}
+                            {stock.trading_status ===
+                            "NO_VOLUME"
+                              ? "—"
+                              : formatChange(
+                                  stock.change_percent
+                                )}
                           </span>
                         </td>
 
                         <td className="px-5 py-4 text-right">
-                          <span className="text-sm text-zinc-400">
-                            {formatVolume(stock.volume)}
+                          <span
+                            title={
+                              stock.trading_status ===
+                              "NO_VOLUME"
+                                ? `Tidak ada transaksi sejak ${formatDateFull(
+                                    stock.last_volume_timestamp ??
+                                      stock.timestamp
+                                  )}`
+                                : undefined
+                            }
+                            className={
+                              stock.trading_status ===
+                              "NO_VOLUME"
+                                ? "text-sm text-zinc-600"
+                                : "text-sm text-zinc-400"
+                            }
+                          >
+                            {stock.trading_status ===
+                            "NO_VOLUME"
+                              ? "—"
+                              : formatVolume(stock.volume)}
+                          </span>
+                        </td>
+
+                        <td className="px-5 py-4">
+                          <span
+                            title={
+                              stock.trading_status ===
+                              "NO_VOLUME"
+                                ? `Tidak ada transaksi sejak ${formatDateFull(
+                                    stock.last_volume_timestamp ??
+                                      stock.timestamp
+                                  )}`
+                                : undefined
+                            }
+                            className={
+                              "rounded-full px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider " +
+                              getStatusMeta(
+                                stock.trading_status
+                              ).className
+                            }
+                          >
+                            {getStatusMeta(
+                              stock.trading_status
+                            ).label}
                           </span>
                         </td>
 
@@ -872,8 +1043,25 @@ export default function ScreenerView() {
                         </td>
 
                         <td className="px-5 py-4 text-right">
-                          <span className="text-[10px] uppercase tracking-wider text-zinc-600">
-                            Yahoo
+                          <span
+                            title={
+                              stock.last_volume_timestamp ??
+                              stock.timestamp
+                                ? `Last trade: ${formatDateFull(
+                                    stock.last_volume_timestamp ??
+                                      stock.timestamp
+                                  )}`
+                                : undefined
+                            }
+                            className="text-xs text-zinc-400"
+                          >
+                            {formatDateShort(
+                              stock.last_volume_timestamp ??
+                                stock.timestamp
+                            )}
+                            <span className="ml-1 text-[9px] uppercase tracking-wider text-zinc-700">
+                              Yahoo
+                            </span>
                           </span>
                         </td>
 

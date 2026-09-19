@@ -24,6 +24,12 @@ interface BreadthData {
     symbols: string[];
   };
 
+  no_trading: {
+    count: number;
+    percent: number;
+    symbols: string[];
+  };
+
   advance_decline_ratio: number | null;
 }
 
@@ -51,13 +57,20 @@ export default function MarketBreadth() {
   }
 
   useEffect(() => {
-    loadBreadth();
+    const initialTimer = window.setTimeout(
+      loadBreadth,
+      0
+    );
 
-    const interval = setInterval(() => {
-      loadBreadth();
-    }, 60000);
+    const interval = window.setInterval(
+      loadBreadth,
+      60000
+    );
 
-    return () => clearInterval(interval);
+    return () => {
+      window.clearTimeout(initialTimer);
+      window.clearInterval(interval);
+    };
   }, []);
 
   if (loading) {
@@ -103,73 +116,87 @@ export default function MarketBreadth() {
           </h2>
         </div>
 
-        <span className="text-xs text-zinc-600">
-          {data.total} active stocks
+<span className="text-xs text-zinc-600">
+          {data.total} stocks
         </span>
       </div>
 
       {/* Card */}
-      <div className="rounded-2xl border border-white/[0.06] bg-zinc-900/60 p-6">
+            <div className="rounded-2xl border border-white/[0.06] bg-zinc-900/60 p-6">
 
-        {/* Stats */}
-        <div className="grid grid-cols-3 gap-4">
+              {/* Stats */}
+              <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
 
-          <BreadthStat
-            label="Advancing"
-            count={data.advancing.count}
-            percent={data.advancing.percent}
-            positive
-          />
+                <BreadthStat
+                  label="Advancing"
+                  count={data.advancing.count}
+                  percent={data.advancing.percent}
+                  positive
+                />
 
-          <BreadthStat
-            label="Declining"
-            count={data.declining.count}
-            percent={data.declining.percent}
-          />
+                <BreadthStat
+                  label="Declining"
+                  count={data.declining.count}
+                  percent={data.declining.percent}
+                />
 
-          <BreadthStat
-            label="Unchanged"
-            count={data.unchanged.count}
-            percent={data.unchanged.percent}
-            neutral
-          />
+                <BreadthStat
+                  label="Unchanged"
+                  count={data.unchanged.count}
+                  percent={data.unchanged.percent}
+                  neutral
+                />
 
-        </div>
+                <BreadthStat
+                  label="No Trading"
+                  count={data.no_trading.count}
+                  percent={data.no_trading.percent}
+                  muted
+                />
 
-        {/* Breadth Bar */}
-        <div className="mt-8">
+              </div>
 
-          <div className="mb-2 flex justify-between text-[10px] uppercase tracking-[0.15em] text-zinc-600">
-            <span>Market participation</span>
-            <span>{data.total} stocks</span>
-          </div>
+              {/* Breadth Bar */}
+              <div className="mt-8">
 
-          <div className="flex h-2 overflow-hidden rounded-full bg-white/[0.04]">
+                <div className="mb-2 flex justify-between text-[10px] uppercase tracking-[0.15em] text-zinc-600">
+                  <span>Market participation</span>
+                  <span>{data.total} stocks</span>
+                </div>
 
-            <div
-              className="bg-emerald-400"
-              style={{
-                width: `${data.advancing.percent}%`,
-              }}
-            />
+                <div className="flex h-2 overflow-hidden rounded-full bg-white/[0.04]">
 
-            <div
-              className="bg-red-400"
-              style={{
-                width: `${data.declining.percent}%`,
-              }}
-            />
+                  <div
+                    className="bg-emerald-400"
+                    style={{
+                      width: `${data.advancing.percent}%`,
+                    }}
+                  />
 
-            <div
-              className="bg-zinc-600"
-              style={{
-                width: `${data.unchanged.percent}%`,
-              }}
-            />
+                  <div
+                    className="bg-red-400"
+                    style={{
+                      width: `${data.declining.percent}%`,
+                    }}
+                  />
 
-          </div>
+                  <div
+                    className="bg-zinc-600"
+                    style={{
+                      width: `${data.unchanged.percent}%`,
+                    }}
+                  />
 
-        </div>
+                  <div
+                    className="bg-zinc-800"
+                    style={{
+                      width: `${data.no_trading.percent}%`,
+                    }}
+                  />
+
+                </div>
+
+              </div>
 
         {/* Ratio */}
         <div className="mt-8 flex items-end justify-between border-t border-white/[0.05] pt-6">
@@ -209,12 +236,14 @@ function BreadthStat({
   percent,
   positive,
   neutral,
+  muted,
 }: {
   label: string;
   count: number;
   percent: number;
   positive?: boolean;
   neutral?: boolean;
+  muted?: boolean;
 }) {
   let color = "text-red-400";
 
@@ -224,6 +253,10 @@ function BreadthStat({
 
   if (neutral) {
     color = "text-zinc-400";
+  }
+
+  if (muted) {
+    color = "text-zinc-600";
   }
 
   return (
@@ -239,7 +272,7 @@ function BreadthStat({
           {count}
         </span>
 
-        <span className="text-xs text-zinc-600">
+<span className="text-xs text-zinc-600">
           {percent.toFixed(0)}%
         </span>
       </div>

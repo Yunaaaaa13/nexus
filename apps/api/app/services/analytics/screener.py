@@ -5,6 +5,10 @@ import pandas as pd
 from sqlalchemy.orm import Session
 from sqlalchemy import text
 
+from app.services.analytics.trading_status import (
+    classify_trading_status,
+)
+
 
 _technical_cache: dict = {}
 _technical_cache_time: float = 0.0
@@ -303,6 +307,7 @@ def screen_stocks(
     min_change: float | None = None,
     max_change: float | None = None,
     min_volume: int | None = None,
+    hide_no_trade: bool = False,
     # Technical filters
     trend: str | None = None,
     rsi_min: float | None = None,
@@ -521,6 +526,9 @@ def screen_stocks(
         filters.append("latest.volume >= :min_volume")
         params["min_volume"] = min_volume
 
+    if hide_no_trade:
+        filters.append("latest.volume > 0")
+
     where_clause = ""
 
     if filters:
@@ -550,6 +558,15 @@ def screen_stocks(
                     LIMIT 1
                 ) AS close
             FROM latest_prices lp
+        ),
+
+        last_traded AS (
+            SELECT DISTINCT ON (sp.stock_id)
+                sp.stock_id,
+                sp.timestamp
+            FROM stock_prices sp
+            WHERE sp.volume > 0
+            ORDER BY sp.stock_id, sp.timestamp DESC
         )
 
         SELECT
@@ -577,7 +594,8 @@ def screen_stocks(
             END AS change_percent,
 
             latest.volume,
-            latest.timestamp
+            latest.timestamp,
+            last_traded.timestamp AS last_volume_timestamp
 
         FROM stocks s
 
@@ -586,6 +604,9 @@ def screen_stocks(
 
         LEFT JOIN previous_prices previous
             ON previous.stock_id = s.id
+
+        LEFT JOIN last_traded
+            ON last_traded.stock_id = s.id
 
         {where_clause}
 
@@ -620,6 +641,15 @@ def screen_stocks(
                     LIMIT 1
                 ) AS close
             FROM latest_prices lp
+        ),
+
+        last_traded AS (
+            SELECT DISTINCT ON (sp.stock_id)
+                sp.stock_id,
+                sp.timestamp
+            FROM stock_prices sp
+            WHERE sp.volume > 0
+            ORDER BY sp.stock_id, sp.timestamp DESC
         )
 
         SELECT COUNT(*)
@@ -631,6 +661,9 @@ def screen_stocks(
 
         LEFT JOIN previous_prices previous
             ON previous.stock_id = s.id
+
+        LEFT JOIN last_traded
+            ON last_traded.stock_id = s.id
 
         {where_clause}
         """
@@ -648,31 +681,59 @@ def screen_stocks(
             {}
         )
 
+        price = (
+            float(row["price"])
+            if row["price"] is not None
+            else None
+        )
+
+        previous_close = (
+            float(row["previous_close"])
+            if row["previous_close"] is not None
+            else None
+        )
+
+        change = (
+            float(row["change"])
+            if row["change"] is not None
+            else None
+        )
+
+        change_percent = (
+            float(row["change_percent"])
+            if row["change_percent"] is not None
+            else None
+        )
+
+        volume = (
+            int(row["volume"])
+            if row["volume"] is not None
+            else 0
+        )
+
         data.append(
             {
                 "symbol": row["symbol"],
                 "name": row["name"],
                 "sector": row["sector"],
-                "price": float(row["price"]) if row["price"] is not None else None,
-                "previous_close": (
-                    float(row["previous_close"])
-                    if row["previous_close"] is not None
-                    else None
+                "price": price,
+                "previous_close": previous_close,
+                "change": change,
+                "change_percent": change_percent,
+                "volume": volume,
+                "trading_status": classify_trading_status(
+                    price=price,
+                    volume=volume,
+                    previous_close=previous_close,
                 ),
-                "change": (
-                    float(row["change"])
-                    if row["change"] is not None
-                    else None
-                ),
-                "change_percent": (
-                    float(row["change_percent"])
-                    if row["change_percent"] is not None
-                    else None
-                ),
-                "volume": int(row["volume"]) if row["volume"] is not None else 0,
                 "timestamp": (
                     row["timestamp"].isoformat()
                     if row["timestamp"] is not None
+                    else None
+                ),
+                "last_volume_timestamp": (
+                    row["last_volume_timestamp"].isoformat()
+                    if row["last_volume_timestamp"] is not None
                     else None
                 ),
                 # Technical Analysis

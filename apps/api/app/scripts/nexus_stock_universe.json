@@ -1138,7 +1138,9 @@
     "yahoo_symbol": "BOSS.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Energy",
+    "subsector": "Oil & Gas Equipment & Services"
   },
   {
     "symbol": "BPFI",
@@ -1789,7 +1791,9 @@
     "yahoo_symbol": "DEAL.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Industrials",
+    "subsector": "Integrated Freight & Logistics"
   },
   {
     "symbol": "DEFI",
@@ -2195,7 +2199,9 @@
     "yahoo_symbol": "ETWA.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Basic Materials",
+    "subsector": "Chemicals"
   },
   {
     "symbol": "EURO",
@@ -3350,7 +3356,9 @@
     "yahoo_symbol": "KAYU.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Basic Materials",
+    "subsector": "Lumber & Wood Production"
   },
   {
     "symbol": "KBAG",
@@ -3672,7 +3680,9 @@
     "yahoo_symbol": "LAPD.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Industrials",
+    "subsector": "Industrial Distribution"
   },
   {
     "symbol": "LCGP",
@@ -4113,7 +4123,9 @@
     "yahoo_symbol": "META.JK",
     "status": "active",
     "yahoo_available": true,
-    "source": "Pholenk/IDX-Dataset + Yahoo Finance"
+    "source": "Pholenk/IDX-Dataset + Yahoo Finance",
+    "sector": "Industrials",
+    "subsector": "Infrastructure Operations"
   },
   {
     "symbol": "MFIN",

@@ -20,6 +20,7 @@ def get_screener(
     min_change: float | None = Query(default=None),
     max_change: float | None = Query(default=None),
     min_volume: int | None = Query(default=None, ge=0),
+    hide_no_trade: bool = Query(default=False),
     # Technical filters
     trend: str | None = Query(default=None),
     rsi_min: float | None = Query(default=None, ge=0, le=100),
@@ -41,6 +42,7 @@ def get_screener(
         min_change=min_change,
         max_change=max_change,
         min_volume=min_volume,
+        hide_no_trade=hide_no_trade,
         trend=trend,
         rsi_min=rsi_min,
         rsi_max=rsi_max,

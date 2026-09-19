@@ -1,7 +1,10 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { getStock } from "@/lib/api";
+import { getStock, getStockUniverse } from "@/lib/api";
+import StockPickerModal, {
+  type StockOption,
+} from "@/components/ui/StockPickerModal";
 
 interface StockData {
   symbol: string;
@@ -15,23 +18,61 @@ interface StockData {
 }
 
 export default function StockFocus() {
+  const [symbol, setSymbol] = useState("BBCA");
   const [data, setData] = useState<StockData | null>(null);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    async function loadStock() {
-      try {
-        const response = await getStock("BBCA");
-        setData(response.data);
-      } catch (error) {
-        console.error("Failed to load BBCA:", error);
-      } finally {
-        setLoading(false);
-      }
-    }
+  const [stockList, setStockList] = useState<
+    StockOption[]
+  >([]);
 
-    loadStock();
+  const [pickerOpen, setPickerOpen] = useState(false);
+
+  useEffect(() => {
+    let active = true;
+
+    getStockUniverse({ limit: 1000 })
+      .then((res) => {
+        if (!active) return;
+        setStockList(res.data ?? []);
+      })
+      .catch((err) => {
+        console.error("Failed to load stock list:", err);
+      });
+
+    return () => {
+      active = false;
+    };
   }, []);
+
+  useEffect(() => {
+    let active = true;
+
+    getStock(symbol)
+      .then((response) => {
+        if (!active) return;
+        setData(response.data);
+      })
+      .catch((error) => {
+        console.error(`Failed to load ${symbol}:`, error);
+        if (active) {
+          setData(null);
+        }
+      })
+      .finally(() => {
+        if (active) {
+          setLoading(false);
+        }
+      });
+
+    return () => {
+      active = false;
+    };
+  }, [symbol]);
+
+  const selectedStock = stockList.find(
+    (item) => item.symbol === symbol
+  );
 
   return (
     <section className="rounded-2xl border border-white/[0.06] bg-zinc-900/60 p-6">
@@ -40,7 +81,35 @@ export default function StockFocus() {
           <p className="text-xs font-semibold tracking-[0.18em] text-zinc-600">
             STOCK FOCUS
           </p>
-          <h2 className="mt-1 text-lg font-semibold">BBCA</h2>
+
+          <button
+            type="button"
+            onClick={() => setPickerOpen(true)}
+            className="mt-1 flex items-center gap-3 rounded-lg transition hover:opacity-80"
+          >
+            <span className="text-lg font-semibold">
+              {symbol}
+            </span>
+
+            <svg
+              viewBox="0 0 12 12"
+              className="h-3 w-3 text-zinc-500"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="M2.5 4.5L6 8l3.5-3.5" />
+            </svg>
+          </button>
+
+          {selectedStock &&
+            selectedStock.name !== symbol && (
+              <p className="mt-0.5 text-xs text-zinc-500">
+                {selectedStock.name}
+              </p>
+            )}
         </div>
 
         <span className="text-xs text-zinc-600">Yahoo Finance</span>
@@ -65,8 +134,22 @@ export default function StockFocus() {
           </div>
         </>
       ) : (
-        <p className="mt-6 text-sm text-red-400">Failed to load BBCA data</p>
+        <p className="mt-6 text-sm text-red-400">
+          Failed to load {symbol} data
+        </p>
       )}
+
+      <StockPickerModal
+        open={pickerOpen}
+        stocks={stockList}
+        selectedSymbol={symbol}
+        onSelect={(stock) => {
+          setSymbol(stock.symbol);
+          setLoading(true);
+          setPickerOpen(false);
+        }}
+        onClose={() => setPickerOpen(false)}
+      />
     </section>
   );
 }

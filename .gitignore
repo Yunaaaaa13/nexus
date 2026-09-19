@@ -48,3 +48,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# runtime enrichment / refresh checkpoints
+apps/api/app/scripts/*_progress.json
+apps/api/app/scripts/*_errors.json
